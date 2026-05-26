@@ -1,0 +1,63 @@
+# ==============================================================================
+# WATCHLIST INTERNET BLACKLIST – REPORT & DEBUG LOG
+# ==============================================================================
+#
+# -- RUNTIME PROCESS LOG --
+# [SYSTEM]  Pipeline execution triggered.
+# [SYSTEM]  Starting fetch of the Watchlist Internet database...
+# [SYSTEM]  Delta detected or baseline assets missing. Parsing remote database...
+# [STATS]   Total entries parsed:     34140
+# [STATS]   Invalid lines filtered:   2
+# [STATS]   Duplicate lines removed:  38
+# [STATS]   Valid, unique domains:    34099
+# [SYSTEM]  Writing all updated blocklist files...
+# [SYSTEM]  Writing enhanced debug report to debug/blacklist.txt...
+#
+# ------------------------------------------------------------------------------
+# REMOVED DUPLICATE ENTRIES (38)
+# These domains were present multiple times within the source CSV list.
+# ------------------------------------------------------------------------------
+24apothecary.com
+24apothecary.com
+allstickers.org
+apotekrx.com
+apotheke-fur-sie.de
+arachnoworld.shop
+bear-offers.com
+buckleybelts.de
+buttwich.shop
+caterpillarosterreich.at
+donkeyproducts.shop
+egopowernrw.shop
+emma-keller.de
+engeliebe.de
+europillsonline.com
+gvbmfflnanzonline.info
+hanwagosterreich.at
+huber-schuhes.com
+keenosterreich.com
+kirakuco.com
+kratzbaumnaturholz.shop
+luiliebe.shop
+martensosterreich.com
+mastermassage.shop
+meladen.de
+merrellosterreich.at
+myhermes-at.vip
+nucosmetic.shop
+privaag.com
+sklum.com
+suedstrandbonn.shop
+superie.de
+tastillery.shop
+vonpleissenstein.shop
+xn--apotheke-sterreich-l3b.com
+xn--drmartensshopsterreich-6hc.at
+xn--viagra-kaufen-sterreich-llc.com
+zoneautopro.com
+# ------------------------------------------------------------------------------
+# FILTERED INVALID ENTRIES (2)
+# These entries did not match a valid domain schema.
+# ------------------------------------------------------------------------------
+18.130.4.87
+burtonsnowboard
