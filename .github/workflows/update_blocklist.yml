@@ -1,0 +1,33 @@
+name: Watchlist Internet Blocklist Auto-Update
+
+on:
+  schedule:
+    - cron: '24 */6 * * *'
+  workflow_dispatch:
+
+jobs:
+  update-list:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v5
+
+      - name: Setup Python
+        uses: actions/setup-python@v6
+        with:
+          python-version: '3.x'
+
+      - name: Install Dependencies
+        run: pip install -r requirements.txt
+
+      - name: Run Scraper
+        run: python scrape_watchlist.py
+
+      - name: Commit and Push Changes
+        uses: stefanzweifel/git-auto-commit-action@v7
+        with:
+          commit_message: "🔄 Update: Watchlist Internet blocklists"
+          file_pattern: "blocklist*.txt stats.json debug/*"
