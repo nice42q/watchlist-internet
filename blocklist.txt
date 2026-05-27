@@ -2,10 +2,10 @@
 # Pi-hole DNS Blocklist: Watchlist Internet
 # Source: https://www.watchlist-internet.at/liste-betruegerischer-shops/csv/
 # Pi-hole Source: https://github.com/nice42q/watchlist-internet
-# Last update: 2026-05-26 08:00:22 UTC
+# Last update: 2026-05-27 04:52:02 UTC
 #
 # --- Analysis statistics for this update ---
-# Total valid domains:       34099
+# Total valid domains:       34133
 # Duplicate entries removed: 38
 # Invalid lines filtered:    2
 # -------------------------------------------
@@ -139,6 +139,7 @@
 ||8evlcbsuk3cm9agc-49220550809.shopifypreview.com^
 ||8lots.com^
 ||99rabats.shop^
+||a-baustofflager.com^
 ||a.seven-st.com^
 ||a1-anlagen.com^
 ||a1businessnet.live^
@@ -399,6 +400,7 @@
 ||adjoningtem.com^
 ||adl.dimelux.top^
 ||adl.fcnqy.shop^
+||adl.gwrxbt.shop^
 ||adl.iuvxvo.shop^
 ||adl.jccjm.shop^
 ||adl.lreubk.shop^
@@ -925,6 +927,7 @@
 ||alpenkindmode.com^
 ||alpenlinie.at^
 ||alpennord.de^
+||alpenpellets.pro^
 ||alpenrose-mode.com^
 ||alpenwien.com^
 ||alpenwolken.de^
@@ -957,6 +960,7 @@
 ||alpinex-outdoor.de^
 ||alpinex.at^
 ||alpinmotorcy.com^
+||alpinvolt.de^
 ||alpivogue.ch^
 ||alpstep.com^
 ||alro-stahlbau.de^
@@ -2984,12 +2988,14 @@
 ||bereichosgarten.com^
 ||berg-freundeoutlet.shop^
 ||berg-freundeoutlets.shop^
+||berg-mode.de^
 ||berg-reifenversand.com^
 ||bergbk.de^
 ||berger-deals.com^
 ||berger-research.net^
 ||berger-roland.com^
 ||bergermode.com^
+||bergersearch.at^
 ||bergexperten.de^
 ||bergfahrrad.com^
 ||bergfreunde-buy.shop^
@@ -3009,6 +3015,7 @@
 ||bergmann.com^
 ||bergmanngoldschmied.com^
 ||bergmannmode.de^
+||bergmode.ch^
 ||bergschatz.de^
 ||bergtrophy.at^
 ||bergwalt-mode.com^
@@ -3232,6 +3239,7 @@
 ||bestsellracket.com^
 ||bestsoluvs.click^
 ||bestspecifics.com^
+||beststil.de^
 ||beststore-us.com^
 ||beststorer.com^
 ||besttar.life^
@@ -4685,6 +4693,7 @@
 ||campingable.com^
 ||campingandsurf.com^
 ||campingangebote-de.com^
+||campingdebarf.com^
 ||campinghiking.shop^
 ||campinglampenbillig.com^
 ||campingmay.com^
@@ -4854,6 +4863,7 @@
 ||carolinecake.shop^
 ||carolyndozier.com^
 ||carosassower.com^
+||carpartlabflow.com^
 ||carpartsdiscount.store^
 ||carpet-crafters.com^
 ||carpetusworld.com^
@@ -7084,6 +7094,7 @@
 ||demoniaschuheosterreich.com^
 ||demoniaschuhewien.com^
 ||demoniastiefel.com^
+||demontagedesgetriebes.com^
 ||den-danske.com^
 ||den-home.com^
 ||denaked.com^
@@ -7147,6 +7158,7 @@
 ||derekoutlet.de^
 ||derfairmieter.de^
 ||derfamilientisch.de^
+||derila-ergo-official.com^
 ||derimoservices.com^
 ||derioea.com^
 ||derivainasm.com^
@@ -8608,6 +8620,7 @@
 ||elitesafetrading.com^
 ||elitesneakers.store^
 ||elitestayzio2u.com^
+||elitetcgglobalsupply.com^
 ||elitetravelconciergebookings.cc^
 ||eliteusbaseball.com^
 ||elitewatchcenter.com^
@@ -8950,6 +8963,7 @@
 ||erlebnisart.at^
 ||erleschuhe.shop^
 ||erleseneweine24.com^
+||ermatransport.com^
 ||erneurungogk.at^
 ||ernst-reifenhandel.com^
 ||eroadstore.com^
@@ -9007,6 +9021,7 @@
 ||esmeraldaworld.com^
 ||esmitfandb.com^
 ||esn-fitness.com^
+||esneuroutlet.com^
 ||esnsupply.shop^
 ||esoftn.shop^
 ||esotecs.com^
@@ -11882,6 +11897,7 @@
 ||glembook.com^
 ||glemory.com^
 ||glenkbaustoff.com^
+||glenkbaustoffe.com^
 ||glennauto.shop^
 ||gletta.com^
 ||gleuelspd.de^
@@ -12501,6 +12517,7 @@
 ||gunnelalm.com^
 ||gunstigebademode.com^
 ||gunterundfinn.de^
+||gurudehub.com^
 ||gurukullame.com^
 ||gurupek.com^
 ||gurupy.com^
@@ -12575,6 +12592,7 @@
 ||haarstyle.net^
 ||haarweltfriseureinrichtung.shop^
 ||haase-autoreifen.com^
+||haasrecruiting.at^
 ||haazeair.com^
 ||habakidtoy.com^
 ||habbel-haustechnik.de^
@@ -14557,6 +14575,7 @@
 ||insightfulyou.net^
 ||insnag.me^
 ||insolvenz-veit.de^
+||insolvenz-verkauf.net^
 ||insolvenz.veit-kanzlei.de^
 ||insolvenzrecht-rick.de^
 ||insolvenzrecht-rieger.de^
@@ -15302,6 +15321,7 @@
 ||junaberlin.de^
 ||junctionh.com^
 ||jundongshop.com^
+||jungbauermodellbau.de^
 ||junge-dailyshop.com^
 ||junginger-versandhaus.de^
 ||jungle-shoes.com^
@@ -16295,6 +16315,7 @@
 ||kreispiraten-of.de^
 ||kreisverbandleer.de^
 ||kremer-mode.de^
+||kremmling-moebel.com^
 ||kretschmer-autoreifen.shop^
 ||krimi-netz.de^
 ||kriminal-bankett.de^
@@ -18129,6 +18150,7 @@
 ||malorybike.shop^
 ||maloryun.com^
 ||malschule-wetzlar.de^
+||maltua.shop^
 ||malusi.shop^
 ||mam-holzspalter.com^
 ||maman-de-cologne.de^
@@ -20812,6 +20834,7 @@
 ||nouwd.com^
 ||nova-eu.com^
 ||nova-mia.de^
+||nova-versand.de^
 ||nova-watch.co^
 ||nova-zurich.com^
 ||novacosy.com^
@@ -21300,6 +21323,7 @@
 ||oldestteabrand.com^
 ||oldmoneylondon.com^
 ||oldsailorsshippingcompany.com^
+||ole-handel.de^
 ||oleaia.com^
 ||oleean.com^
 ||olesens.de^
@@ -21727,6 +21751,7 @@
 ||optimary.club^
 ||optimia.top^
 ||optimisticoffer.com^
+||optimumnutritionosterreich.at^
 ||optioncryptofx.com^
 ||optiontrademasters.com^
 ||optknivesmake.com^
@@ -22521,6 +22546,7 @@
 ||pdfguru.com^
 ||pdfleader.com^
 ||pdfmaster.app^
+||pdkosmetik.de^
 ||pdomotech.com^
 ||peacefulexitsworldwide.org^
 ||peacevulture.com^
@@ -23276,6 +23302,7 @@
 ||porklardca.com^
 ||porlabs.com^
 ||portablecoolerpro.com^
+||portal.digital-dgigmbh.de^
 ||portal.mybeautyplans.com^
 ||portalnetserver.com^
 ||portalray.com^
@@ -26173,6 +26200,7 @@
 ||schuhepromo.com^
 ||schuherunning.com^
 ||schuhesalede.de^
+||schuhescarpa.com^
 ||schuhescarpa.de^
 ||schuheveja-osterreich.com^
 ||schuheverkauf-de.com^
@@ -28274,6 +28302,7 @@
 ||store.savemarketed.com^
 ||store.useum.org^
 ||store.yeelight.com^
+||store.yorlanda.com^
 ||store3s.top^
 ||storeabodz.com^
 ||storeaida.com^
@@ -30621,6 +30650,7 @@
 ||tristar-reifenversand.com^
 ||triumphanl.com^
 ||triviatrade.com^
+||trivio-handel.de^
 ||trivisu.com^
 ||trixieschritte.de^
 ||trixupmysleeve.com^
@@ -31902,6 +31932,7 @@
 ||videowalca.com^
 ||vidiofy.co^
 ||vidmason.com^
+||vielfaltdepot.com^
 ||vielfaltonlineshop.com^
 ||vienessa.com^
 ||vienna-ag.at^
@@ -32905,6 +32936,7 @@
 ||whipl.de^
 ||whiskertails.com^
 ||whiskybests.com^
+||whiskyrabatt.com^
 ||whiskysorten.com^
 ||whisperpromise.shop^
 ||whisperyard.com^
@@ -33146,6 +33178,7 @@
 ||wolfffashion.de^
 ||wolffs-revier.de^
 ||wolfgang-hagen.shop^
+||wolfgangcontainers.de^
 ||wolfgardenshop.com^
 ||wolfmichaela.com^
 ||wolfmode.de^
@@ -33452,6 +33485,7 @@
 ||xn--knigswelpen-rfb.com^
 ||xn--lebensmittelgeschft-wwb.de^
 ||xn--liformesterreich-swb.com^
+||xn--lmntsterreich-lmb.at^
 ||xn--meinefotounterwsche-uwb.de^
 ||xn--mllerboutique-wob.com^
 ||xn--orthopdischeschuhe-qtb.de^
