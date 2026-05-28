@@ -3015,6 +3015,7 @@
 0.0.0.0 beriuty.com
 0.0.0.0 berk-designs.de
 0.0.0.0 berkler-anhanger.com
+0.0.0.0 berkler-maschinen.de
 0.0.0.0 berkshirede.myshopify.com
 0.0.0.0 berladod.com
 0.0.0.0 berlin-angeboteshop.com
@@ -3426,6 +3427,7 @@
 0.0.0.0 bikerabatt.com
 0.0.0.0 bikeridestore.com
 0.0.0.0 bikerimtapede.com
+0.0.0.0 bikerkultur.com
 0.0.0.0 bikes-maintenance.com
 0.0.0.0 bikesattel.at
 0.0.0.0 bikesecke.com
@@ -4094,6 +4096,7 @@
 0.0.0.0 brauer-reifen.com
 0.0.0.0 braun-24.com
 0.0.0.0 braunboutique.com
+0.0.0.0 brauneagrar.com
 0.0.0.0 brautkleiderprada.com
 0.0.0.0 brautkleiderrabatt.com
 0.0.0.0 brautkleidersales.com
@@ -4578,7 +4581,6 @@
 0.0.0.0 c-t-s-logistics.com
 0.0.0.0 c-und-a-austria.com
 0.0.0.0 c21watches.com
-0.0.0.0 ca-agentur.de
 0.0.0.0 ca.carlottatortorella.com
 0.0.0.0 ca.lindseytennant.com
 0.0.0.0 caactioncoalition.org
@@ -6823,6 +6825,7 @@
 0.0.0.0 dealcourier.com
 0.0.0.0 dealcoxfurniture.com
 0.0.0.0 dealcutlery.com
+0.0.0.0 dealdockery.com
 0.0.0.0 dealerdevin.shop
 0.0.0.0 dealfieberde.de
 0.0.0.0 dealfundus.de
@@ -11873,6 +11876,7 @@
 0.0.0.0 glassesde.com
 0.0.0.0 glassesify.com
 0.0.0.0 glassesneon.com
+0.0.0.0 glassespartssupplyhub.com
 0.0.0.0 glassry.top
 0.0.0.0 glaswarenrabatt.com
 0.0.0.0 glaydssale.shop
@@ -12427,6 +12431,7 @@
 0.0.0.0 gs-eu.com
 0.0.0.0 gsb24.shop
 0.0.0.0 gshallmall.com
+0.0.0.0 gshandels.com
 0.0.0.0 gshpanel.com
 0.0.0.0 gsialfresco.com
 0.0.0.0 gsib-partner.com
@@ -12783,6 +12788,7 @@
 0.0.0.0 hanwagfabrikverkauf.de
 0.0.0.0 hanwagosterreich.at
 0.0.0.0 hanwagoutletstore.de
+0.0.0.0 hanwagschuhedeutschland.de
 0.0.0.0 hanwagschuhefabrikverkauf.com
 0.0.0.0 hanwagwien.at
 0.0.0.0 haohuoconsultancy.com
@@ -16630,6 +16636,7 @@
 0.0.0.0 lanternschweizfestival.com
 0.0.0.0 lanvin.at
 0.0.0.0 laoiay.com
+0.0.0.0 lapinora.at
 0.0.0.0 lapistra.de
 0.0.0.0 lappjantan.com
 0.0.0.0 laptop-akku-de.com
@@ -16661,6 +16668,7 @@
 0.0.0.0 laserhex.shop
 0.0.0.0 lasern-statt-bohren.de
 0.0.0.0 lashellos.com
+0.0.0.0 lasora-lights.de
 0.0.0.0 laspop.top
 0.0.0.0 lasporitiva.com
 0.0.0.0 lasport.top
@@ -19258,6 +19266,7 @@
 0.0.0.0 mobelgeschaft-neu.com
 0.0.0.0 mobelgeschaftneu.com
 0.0.0.0 mobelmagie.com
+0.0.0.0 mobelmomente.com
 0.0.0.0 mobelneu.com
 0.0.0.0 mobelniedrigerpreis.com
 0.0.0.0 mobelonlineshop24.com
@@ -19577,6 +19586,7 @@
 0.0.0.0 moriifit.myshopify.com
 0.0.0.0 morisound.com
 0.0.0.0 moro-fahrraeder.de
+0.0.0.0 morpilotsales.shop
 0.0.0.0 morrcei.top
 0.0.0.0 morreysale.space
 0.0.0.0 morriscofabric.com
@@ -25965,6 +25975,7 @@
 0.0.0.0 savehalo.com
 0.0.0.0 savehubx.com
 0.0.0.0 savela.de
+0.0.0.0 savemarketzeny.com
 0.0.0.0 savemosaic.com
 0.0.0.0 saveoffer.de
 0.0.0.0 savepromoable.com
@@ -28288,6 +28299,7 @@
 0.0.0.0 store.dealofferix.com
 0.0.0.0 store.dobot.cc
 0.0.0.0 store.minisforum.de
+0.0.0.0 store.miremonta.com
 0.0.0.0 store.savemarketed.com
 0.0.0.0 store.useum.org
 0.0.0.0 store.yeelight.com
@@ -32733,6 +32745,7 @@
 0.0.0.0 weimann-handel.de
 0.0.0.0 weimar-promenade.de
 0.0.0.0 weimar-wedding.de
+0.0.0.0 weimifuwl.com
 0.0.0.0 weimmer.de
 0.0.0.0 wein-vip.shop
 0.0.0.0 weinbergmunchen.de
@@ -33886,6 +33899,7 @@
 0.0.0.0 zelektro.shop
 0.0.0.0 zeleso.de
 0.0.0.0 zeliteduhk.com
+0.0.0.0 zeloriacore.com
 0.0.0.0 zeltkinggear.com
 0.0.0.0 zeltneu.com
 0.0.0.0 zeltundschlaf.com
@@ -34106,6 +34120,7 @@
 0.0.0.0 zurichregionblick.com
 0.0.0.0 zurusten.com
 0.0.0.0 zusellmk.click
+0.0.0.0 zuverlassigerkredit.com
 0.0.0.0 zvfashions.com
 0.0.0.0 zvs-stark-saalfeld.de
 0.0.0.0 zwatch-italy.shop
