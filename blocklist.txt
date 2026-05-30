@@ -2,10 +2,10 @@
 # Pi-hole DNS Blocklist: Watchlist Internet
 # Source: https://www.watchlist-internet.at/liste-betruegerischer-shops/csv/
 # Pi-hole Source: https://github.com/nice42q/watchlist-internet
-# Last update: 2026-05-29 04:46:34 UTC
+# Last update: 2026-05-30 04:29:18 UTC
 #
 # --- Analysis statistics for this update ---
-# Total valid domains:       34173
+# Total valid domains:       34179
 # Duplicate entries removed: 38
 # Invalid lines filtered:    2
 # -------------------------------------------
@@ -750,6 +750,7 @@
 ||alexander-veyron.de^
 ||alexandrabergier.com^
 ||alexasmarthomedevices.com^
+||alexitemsdemir.shop^
 ||alexivanovdoors.com^
 ||alexmagnino.com^
 ||alexxcarmona.com^
@@ -1537,6 +1538,7 @@
 ||aquarienkauf.com^
 ||aquarisonlineshop.de^
 ||aquaristik-seiten.de^
+||aquaristikteichstore.com^
 ||aquariumopt.com^
 ||aquascapers-galerie.com^
 ||aquasportkleidung.com^
@@ -2212,6 +2214,7 @@
 ||avex-group.co^
 ||aviacle.xyz^
 ||avinatrg.com^
+||aviorewear.com^
 ||avirturonics.shop^
 ||avocat-selosse.fr^
 ||avojkl.com^
@@ -8146,6 +8149,7 @@
 ||easarwood.com^
 ||easctb.com^
 ||easehabits1.com^
+||easeviro.com^
 ||eashgpay.com^
 ||easies.de^
 ||easilsector.com^
@@ -8424,6 +8428,7 @@
 ||einfachelinklogistik.com^
 ||einfaches-aufwarmen.com^
 ||einfachknorke.de^
+||einfahbacken.de^
 ||einkaufen-at.com^
 ||einkaufsmarkt-rost.de^
 ||einkommens.club^
@@ -9853,6 +9858,7 @@
 ||fatea.shop^
 ||fatechamp.com^
 ||fatesit.com^
+||fatfax.ratewell.shop^
 ||fatfax.wantbrand.shop^
 ||fatjonashkambi.com^
 ||fatreio.com^
