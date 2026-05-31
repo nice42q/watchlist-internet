@@ -2,7 +2,7 @@
 # Pi-hole DNS Blocklist: Watchlist Internet
 # Source: https://www.watchlist-internet.at/liste-betruegerischer-shops/csv/
 # Pi-hole Source: https://github.com/nice42q/watchlist-internet
-# Last update: 2026-05-30 04:29:18 UTC
+# Last update: 2026-05-31 04:55:06 UTC
 #
 # --- Analysis statistics for this update ---
 # Total valid domains:       34179
