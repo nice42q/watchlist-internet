@@ -2,10 +2,10 @@
 # Pi-hole DNS Blocklist: Watchlist Internet
 # Source: https://www.watchlist-internet.at/liste-betruegerischer-shops/csv/
 # Pi-hole Source: https://github.com/nice42q/watchlist-internet
-# Last update: 2026-05-31 04:55:06 UTC
+# Last update: 2026-06-01 05:19:26 UTC
 #
 # --- Analysis statistics for this update ---
-# Total valid domains:       34179
+# Total valid domains:       34180
 # Duplicate entries removed: 38
 # Invalid lines filtered:    2
 # -------------------------------------------
@@ -26547,6 +26547,7 @@
 ||serresbarre.com^
 ||serverwartung.at^
 ||service-dathe.de^
+||service-finanzonline.at^
 ||service-pharmaceutique.net^
 ||service-rezeptfrei.de^
 ||service-standesamt.de^
