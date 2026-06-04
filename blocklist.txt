@@ -2,10 +2,10 @@
 # Pi-hole DNS Blocklist: Watchlist Internet
 # Source: https://www.watchlist-internet.at/liste-betruegerischer-shops/csv/
 # Pi-hole Source: https://github.com/nice42q/watchlist-internet
-# Last update: 2026-06-03 05:20:26 UTC
+# Last update: 2026-06-04 05:12:38 UTC
 #
 # --- Analysis statistics for this update ---
-# Total valid domains:       34223
+# Total valid domains:       34250
 # Duplicate entries removed: 38
 # Invalid lines filtered:    2
 # -------------------------------------------
@@ -2513,6 +2513,7 @@
 ||bapegermany.com^
 ||bapeoutfits.com^
 ||baprventu.info^
+||baptistacoffee.shop^
 ||bar-experte.com^
 ||barando-online.de^
 ||barando-shop.de^
@@ -2701,6 +2702,7 @@
 ||bavarianvogue.de^
 ||bavariasis.com^
 ||baveya.de^
+||bavierth.shop^
 ||bavocan.com^
 ||bawitec.shop^
 ||baxmusic-sale.sa.com^
@@ -3560,6 +3562,7 @@
 ||biologd.com^
 ||biomecarefor.com^
 ||bionaturkosmetik.com^
+||biopflanzenshop.com^
 ||biorampe.de^
 ||bioresonanz-peham.at^
 ||bioresonanz-willim.at^
@@ -5217,6 +5220,7 @@
 ||chatfever.at^
 ||chatgpt-dividende.de^
 ||chatgpt-investment.de^
+||chatlyai.app^
 ||chatsingle.at^
 ||chcdrcberts.shop^
 ||chcgkr.top^
@@ -7616,6 +7620,7 @@
 ||diyprofii.com^
 ||diysupplycollective.com^
 ||diytools-store.com^
+||dj-audio.com^
 ||dj-kumo.de^
 ||djabcu.com^
 ||djeebeardiy.com^
@@ -7809,6 +7814,7 @@
 ||dortenormann.com^
 ||dortmund-wappen.de^
 ||dortmund-warenhaus.de^
+||dortuviax.at^
 ||dosashops.com^
 ||dosenberry.de^
 ||dosiman.shop^
@@ -9239,7 +9245,6 @@
 ||europaischeapotheke.com^
 ||europamarket.de^
 ||europatradecapital.com^
-||europe-pack.eu^
 ||europe-pharm.net^
 ||europe.all-est.com^
 ||europe.build-en.com^
@@ -9543,6 +9548,7 @@
 ||fahrradbulls.com^
 ||fahrradcheck24.de^
 ||fahrradco.de^
+||fahrraddampfle.de^
 ||fahrradergeschaft.com^
 ||fahrradersde.com^
 ||fahrraderzukunft.com^
@@ -9567,6 +9573,7 @@
 ||fahrradhelmeneu.com^
 ||fahrradkassettede.com^
 ||fahrradkleinteile.com^
+||fahrradladen-brand.de^
 ||fahrradladen-hoffmann.de^
 ||fahrradladende.com^
 ||fahrradmeierigm.com^
@@ -11414,6 +11421,7 @@
 ||gartenpflege-service-wien.at^
 ||gartenpicks.de^
 ||gartenplus24.com^
+||gartenpools24.de^
 ||gartenquellede.com^
 ||gartenrabatt.com^
 ||gartenrasen.com^
@@ -12764,6 +12772,7 @@
 ||handmadestoe.cc^
 ||handmadestoree.cc^
 ||handmadesure.cc^
+||handpanora.com^
 ||handpickdecoration.com^
 ||handpickgeneralstore.com^
 ||handpickhome.com^
@@ -14338,6 +14347,7 @@
 ||ieceonstamps.com^
 ||iedustars.com^
 ||iefax.costswant.baby^
+||ielaf.shop^
 ||ielectronera.com^
 ||iemakluck.com^
 ||iesuu.com^
@@ -16341,6 +16351,7 @@
 ||kratzbaum-naturholz.shop^
 ||kratzbaumnaturholz.shop^
 ||kraus-autoreifen.shop^
+||krause-winter.com^
 ||krausmode.de^
 ||kraussmedien.de^
 ||krauternobst.com^
@@ -16891,6 +16902,7 @@
 ||lebensguter.com^
 ||lebenskompassde.shop^
 ||lebensmittelgeschaft.com^
+||lebensmittelgeschafte.com^
 ||lebensmittelgetranke.de^
 ||lebenvwd.heimnewb.cyou^
 ||leboulove.com^
@@ -17016,6 +17028,7 @@
 ||lemonjewelryco.com^
 ||lemonshack.top^
 ||lempsinklisa.com^
+||lems-deutschland.de^
 ||lemsdeutschland.com^
 ||lemsschuhe.at^
 ||lemsschuhedeutschland.de^
@@ -19916,6 +19929,7 @@
 ||musikhaus-schumacher.de^
 ||musikhaus-vogel.de^
 ||musikinstrumente-profi.com^
+||musikinstrumenteland.com^
 ||musikkeim.com^
 ||musiknachhilfe.at^
 ||musiknotenmarkt.com^
@@ -22349,6 +22363,7 @@
 ||pacificmailsexpress.com^
 ||packagevintage.com^
 ||packclopenburg.com^
+||packmanvape.de^
 ||packsoutdoor.com^
 ||packsracksbaskets.org^
 ||pacsunsouthafrica.co.za^
@@ -27459,6 +27474,7 @@
 ||smart0trade.com^
 ||smartausrustung.com^
 ||smartautofxtrades.online^
+||smartbakechef.com^
 ||smartbud.com^
 ||smartbullmarket.com^
 ||smartbuyglasses.at^
@@ -27784,6 +27800,12 @@
 ||sorensenaarhus.com^
 ||soreva-berlin.de^
 ||sortair.xyz^
+||sorvelutik-at.com^
+||sorvelutik-fr.com^
+||sorvelutik-no.com^
+||sorvelutik.com^
+||sorvelutik.net^
+||sorvelutik.tech^
 ||soscot.at^
 ||sosdta.com^
 ||sotiriairene.com^
@@ -30699,6 +30721,7 @@
 ||treola-ag.com^
 ||trepidatceri.top^
 ||treppauf-treppab.de^
+||tresorwacht.com^
 ||treston24.de^
 ||tretornosterreich.com^
 ||trevorjewelry.shop^
@@ -31582,6 +31605,7 @@
 ||valerixo.org^
 ||validcalling.pro^
 ||validepend.com^
+||validierung-finanzonline.at^
 ||validityi.com^
 ||validshooting.com^
 ||validvary.com^
@@ -31775,6 +31799,7 @@
 ||velaro-plus.com^
 ||velencia.de^
 ||velhaven.net^
+||velinaboutiquewien.com^
 ||velinon-reifen.com^
 ||velionpartner.net^
 ||vellamia.de^
@@ -33358,6 +33383,7 @@
 ||workshlutch.com^
 ||workshop-equip.com^
 ||workshopgearonline.com^
+||workspacehatch.com^
 ||workysander.shop^
 ||world-catering.com^
 ||world-medic-store.com^
@@ -33891,6 +33917,7 @@
 ||zachbrookedain.com^
 ||zaful.com^
 ||zahnpflegerabatt.de^
+||zahnputz.com^
 ||zahrahana.top^
 ||zainabchemicals.com^
 ||zaizaigo.com^

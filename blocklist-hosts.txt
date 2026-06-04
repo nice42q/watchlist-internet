@@ -2502,6 +2502,7 @@
 0.0.0.0 bapegermany.com
 0.0.0.0 bapeoutfits.com
 0.0.0.0 baprventu.info
+0.0.0.0 baptistacoffee.shop
 0.0.0.0 bar-experte.com
 0.0.0.0 barando-online.de
 0.0.0.0 barando-shop.de
@@ -2690,6 +2691,7 @@
 0.0.0.0 bavarianvogue.de
 0.0.0.0 bavariasis.com
 0.0.0.0 baveya.de
+0.0.0.0 bavierth.shop
 0.0.0.0 bavocan.com
 0.0.0.0 bawitec.shop
 0.0.0.0 baxmusic-sale.sa.com
@@ -3549,6 +3551,7 @@
 0.0.0.0 biologd.com
 0.0.0.0 biomecarefor.com
 0.0.0.0 bionaturkosmetik.com
+0.0.0.0 biopflanzenshop.com
 0.0.0.0 biorampe.de
 0.0.0.0 bioresonanz-peham.at
 0.0.0.0 bioresonanz-willim.at
@@ -5206,6 +5209,7 @@
 0.0.0.0 chatfever.at
 0.0.0.0 chatgpt-dividende.de
 0.0.0.0 chatgpt-investment.de
+0.0.0.0 chatlyai.app
 0.0.0.0 chatsingle.at
 0.0.0.0 chcdrcberts.shop
 0.0.0.0 chcgkr.top
@@ -7605,6 +7609,7 @@
 0.0.0.0 diyprofii.com
 0.0.0.0 diysupplycollective.com
 0.0.0.0 diytools-store.com
+0.0.0.0 dj-audio.com
 0.0.0.0 dj-kumo.de
 0.0.0.0 djabcu.com
 0.0.0.0 djeebeardiy.com
@@ -7798,6 +7803,7 @@
 0.0.0.0 dortenormann.com
 0.0.0.0 dortmund-wappen.de
 0.0.0.0 dortmund-warenhaus.de
+0.0.0.0 dortuviax.at
 0.0.0.0 dosashops.com
 0.0.0.0 dosenberry.de
 0.0.0.0 dosiman.shop
@@ -9228,7 +9234,6 @@
 0.0.0.0 europaischeapotheke.com
 0.0.0.0 europamarket.de
 0.0.0.0 europatradecapital.com
-0.0.0.0 europe-pack.eu
 0.0.0.0 europe-pharm.net
 0.0.0.0 europe.all-est.com
 0.0.0.0 europe.build-en.com
@@ -9532,6 +9537,7 @@
 0.0.0.0 fahrradbulls.com
 0.0.0.0 fahrradcheck24.de
 0.0.0.0 fahrradco.de
+0.0.0.0 fahrraddampfle.de
 0.0.0.0 fahrradergeschaft.com
 0.0.0.0 fahrradersde.com
 0.0.0.0 fahrraderzukunft.com
@@ -9556,6 +9562,7 @@
 0.0.0.0 fahrradhelmeneu.com
 0.0.0.0 fahrradkassettede.com
 0.0.0.0 fahrradkleinteile.com
+0.0.0.0 fahrradladen-brand.de
 0.0.0.0 fahrradladen-hoffmann.de
 0.0.0.0 fahrradladende.com
 0.0.0.0 fahrradmeierigm.com
@@ -11403,6 +11410,7 @@
 0.0.0.0 gartenpflege-service-wien.at
 0.0.0.0 gartenpicks.de
 0.0.0.0 gartenplus24.com
+0.0.0.0 gartenpools24.de
 0.0.0.0 gartenquellede.com
 0.0.0.0 gartenrabatt.com
 0.0.0.0 gartenrasen.com
@@ -12753,6 +12761,7 @@
 0.0.0.0 handmadestoe.cc
 0.0.0.0 handmadestoree.cc
 0.0.0.0 handmadesure.cc
+0.0.0.0 handpanora.com
 0.0.0.0 handpickdecoration.com
 0.0.0.0 handpickgeneralstore.com
 0.0.0.0 handpickhome.com
@@ -14327,6 +14336,7 @@
 0.0.0.0 ieceonstamps.com
 0.0.0.0 iedustars.com
 0.0.0.0 iefax.costswant.baby
+0.0.0.0 ielaf.shop
 0.0.0.0 ielectronera.com
 0.0.0.0 iemakluck.com
 0.0.0.0 iesuu.com
@@ -16330,6 +16340,7 @@
 0.0.0.0 kratzbaum-naturholz.shop
 0.0.0.0 kratzbaumnaturholz.shop
 0.0.0.0 kraus-autoreifen.shop
+0.0.0.0 krause-winter.com
 0.0.0.0 krausmode.de
 0.0.0.0 kraussmedien.de
 0.0.0.0 krauternobst.com
@@ -16880,6 +16891,7 @@
 0.0.0.0 lebensguter.com
 0.0.0.0 lebenskompassde.shop
 0.0.0.0 lebensmittelgeschaft.com
+0.0.0.0 lebensmittelgeschafte.com
 0.0.0.0 lebensmittelgetranke.de
 0.0.0.0 lebenvwd.heimnewb.cyou
 0.0.0.0 leboulove.com
@@ -17005,6 +17017,7 @@
 0.0.0.0 lemonjewelryco.com
 0.0.0.0 lemonshack.top
 0.0.0.0 lempsinklisa.com
+0.0.0.0 lems-deutschland.de
 0.0.0.0 lemsdeutschland.com
 0.0.0.0 lemsschuhe.at
 0.0.0.0 lemsschuhedeutschland.de
@@ -19905,6 +19918,7 @@
 0.0.0.0 musikhaus-schumacher.de
 0.0.0.0 musikhaus-vogel.de
 0.0.0.0 musikinstrumente-profi.com
+0.0.0.0 musikinstrumenteland.com
 0.0.0.0 musikkeim.com
 0.0.0.0 musiknachhilfe.at
 0.0.0.0 musiknotenmarkt.com
@@ -22338,6 +22352,7 @@
 0.0.0.0 pacificmailsexpress.com
 0.0.0.0 packagevintage.com
 0.0.0.0 packclopenburg.com
+0.0.0.0 packmanvape.de
 0.0.0.0 packsoutdoor.com
 0.0.0.0 packsracksbaskets.org
 0.0.0.0 pacsunsouthafrica.co.za
@@ -27448,6 +27463,7 @@
 0.0.0.0 smart0trade.com
 0.0.0.0 smartausrustung.com
 0.0.0.0 smartautofxtrades.online
+0.0.0.0 smartbakechef.com
 0.0.0.0 smartbud.com
 0.0.0.0 smartbullmarket.com
 0.0.0.0 smartbuyglasses.at
@@ -27773,6 +27789,12 @@
 0.0.0.0 sorensenaarhus.com
 0.0.0.0 soreva-berlin.de
 0.0.0.0 sortair.xyz
+0.0.0.0 sorvelutik-at.com
+0.0.0.0 sorvelutik-fr.com
+0.0.0.0 sorvelutik-no.com
+0.0.0.0 sorvelutik.com
+0.0.0.0 sorvelutik.net
+0.0.0.0 sorvelutik.tech
 0.0.0.0 soscot.at
 0.0.0.0 sosdta.com
 0.0.0.0 sotiriairene.com
@@ -30688,6 +30710,7 @@
 0.0.0.0 treola-ag.com
 0.0.0.0 trepidatceri.top
 0.0.0.0 treppauf-treppab.de
+0.0.0.0 tresorwacht.com
 0.0.0.0 treston24.de
 0.0.0.0 tretornosterreich.com
 0.0.0.0 trevorjewelry.shop
@@ -31571,6 +31594,7 @@
 0.0.0.0 valerixo.org
 0.0.0.0 validcalling.pro
 0.0.0.0 validepend.com
+0.0.0.0 validierung-finanzonline.at
 0.0.0.0 validityi.com
 0.0.0.0 validshooting.com
 0.0.0.0 validvary.com
@@ -31764,6 +31788,7 @@
 0.0.0.0 velaro-plus.com
 0.0.0.0 velencia.de
 0.0.0.0 velhaven.net
+0.0.0.0 velinaboutiquewien.com
 0.0.0.0 velinon-reifen.com
 0.0.0.0 velionpartner.net
 0.0.0.0 vellamia.de
@@ -33347,6 +33372,7 @@
 0.0.0.0 workshlutch.com
 0.0.0.0 workshop-equip.com
 0.0.0.0 workshopgearonline.com
+0.0.0.0 workspacehatch.com
 0.0.0.0 workysander.shop
 0.0.0.0 world-catering.com
 0.0.0.0 world-medic-store.com
@@ -33880,6 +33906,7 @@
 0.0.0.0 zachbrookedain.com
 0.0.0.0 zaful.com
 0.0.0.0 zahnpflegerabatt.de
+0.0.0.0 zahnputz.com
 0.0.0.0 zahrahana.top
 0.0.0.0 zainabchemicals.com
 0.0.0.0 zaizaigo.com
