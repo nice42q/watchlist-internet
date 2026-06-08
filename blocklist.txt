@@ -2,10 +2,10 @@
 # Pi-hole DNS Blocklist: Watchlist Internet
 # Source: https://www.watchlist-internet.at/liste-betruegerischer-shops/csv/
 # Pi-hole Source: https://github.com/nice42q/watchlist-internet
-# Last update: 2026-06-07 04:58:52 UTC
+# Last update: 2026-06-08 05:04:11 UTC
 #
 # --- Analysis statistics for this update ---
-# Total valid domains:       34291
+# Total valid domains:       34292
 # Duplicate entries removed: 38
 # Invalid lines filtered:    2
 # -------------------------------------------
@@ -14323,6 +14323,7 @@
 ||icosality.top^
 ||icprc.tcs-rud.com^
 ||ictholder.com^
+||id-finanzonline.at^
 ||idabitar.com^
 ||idaffodil.shop^
 ||idailyshop.com^
