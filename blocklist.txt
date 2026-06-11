@@ -2,10 +2,10 @@
 # Pi-hole DNS Blocklist: Watchlist Internet
 # Source: https://www.watchlist-internet.at/liste-betruegerischer-shops/csv/
 # Pi-hole Source: https://github.com/nice42q/watchlist-internet
-# Last update: 2026-06-10 04:51:55 UTC
+# Last update: 2026-06-11 05:01:17 UTC
 #
 # --- Analysis statistics for this update ---
-# Total valid domains:       34348
+# Total valid domains:       34361
 # Duplicate entries removed: 38
 # Invalid lines filtered:    2
 # -------------------------------------------
@@ -2507,6 +2507,7 @@
 ||bankdjournalsur.com^
 ||bankindq.com^
 ||banking-emirates.com^
+||banking.narodnabanka.sk^
 ||banking.wsboh.org^
 ||bankot.top^
 ||banoutgit.com^
@@ -6024,6 +6025,7 @@
 ||containercargo.shop^
 ||containercompany.shop^
 ||containerdienstheiliggmbh.de^
+||containerservicestarzgmbh.de^
 ||containert.com^
 ||containtools.com^
 ||conteneursducoin.com^
@@ -8604,6 +8606,7 @@
 ||elektriker.lindens.at^
 ||elektriker.pavlik24.at^
 ||elektriker7d.at^
+||elektro-bechtle.de^
 ||elektro-bohmer.com^
 ||elektro-geschaft.com^
 ||elektro-haiden.at^
@@ -12447,6 +12450,7 @@
 ||grosseauswahl.com^
 ||grosshandel-24.net^
 ||grossiste-parfum-generique.com^
+||grotecenergy.com^
 ||groteno.de^
 ||groundies-finland.com^
 ||groundies-osterreich.com^
@@ -15758,6 +15762,7 @@
 ||kbetake.com^
 ||kbnlogistics.com^
 ||kbs-kanzlei.de^
+||kbs-management.cc^
 ||kbuildex.com^
 ||kckmoneyy.com^
 ||kckocv.shop^
@@ -16387,6 +16392,7 @@
 ||kraftdesweins.com^
 ||kraftholz.shop^
 ||kraftraumpro.com^
+||krafttool24.com^
 ||krafttoolco.com^
 ||kraftwerk-solar.com^
 ||krahl-container.eu^
@@ -22408,6 +22414,7 @@
 ||oxzibyte.com^
 ||oyemas.com^
 ||oyoyhome.com^
+||ozeanhaustiereluftwegelieferung.de^
 ||ozempic-kaufen.com^
 ||ozempic-tirzepatide.eu^
 ||ozempickaufenn.com^
@@ -22936,6 +22943,7 @@
 ||pflegeprofi-shop.com^
 ||pflegeschonheit.com^
 ||pforp.net^
+||pfotegws.de^
 ||pfoten-traum.com^
 ||pfotenfans.com^
 ||pfotentrend.com^
@@ -23190,6 +23198,7 @@
 ||plastitracor.com^
 ||platform.amndmtrade.com^
 ||platform.invesco-trading.com^
+||platform.softwarecrownex.com^
 ||platform.wilsonpartnertrade.com^
 ||platformmind.quest^
 ||platformpedalde.com^
@@ -23752,6 +23761,7 @@
 ||profibaubedarf.com^
 ||profibikes.de^
 ||proficienct.com^
+||profikueche.com^
 ||profile-residential.com^
 ||profiofen.com^
 ||profiraeder.de^
@@ -24026,6 +24036,7 @@
 ||pwbeq.com^
 ||pwowide.com^
 ||pxzcl.com^
+||pylomoshop.com^
 ||pyroforms.at^
 ||pyrry.xyz^
 ||pytssw.com^
@@ -28107,6 +28118,7 @@
 ||sportsbreezy.com^
 ||sportsbrooks.com^
 ||sportscardssales.com^
+||sportschuheinov.com^
 ||sportschuheshop.com^
 ||sportsfactoryeu.shop^
 ||sportsfeverbazaar.com^
@@ -32847,6 +32859,7 @@
 ||wearessentiel.com^
 ||wearfelity.de^
 ||wearfondyouw.com^
+||weargiesswein.shop^
 ||wearmountainsports.com^
 ||wearnwatt.de^
 ||wearowner.com^
