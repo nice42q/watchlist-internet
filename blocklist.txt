@@ -2,10 +2,10 @@
 # Pi-hole DNS Blocklist: Watchlist Internet
 # Source: https://www.watchlist-internet.at/liste-betruegerischer-shops/csv/
 # Pi-hole Source: https://github.com/nice42q/watchlist-internet
-# Last update: 2026-06-11 05:01:17 UTC
+# Last update: 2026-06-12 05:08:40 UTC
 #
 # --- Analysis statistics for this update ---
-# Total valid domains:       34361
+# Total valid domains:       34407
 # Duplicate entries removed: 38
 # Invalid lines filtered:    2
 # -------------------------------------------
@@ -571,6 +571,7 @@
 ||agrejt.com^
 ||agrenius.at^
 ||agri-bud.com^
+||agri-service83.com^
 ||agrial-culture.com^
 ||agriandindusupply.com^
 ||agribean.com^
@@ -2548,6 +2549,7 @@
 ||barfuss--schuhe.com^
 ||barfusschweiz.ch^
 ||barfussfreedom.com^
+||bargainbayou.com^
 ||bargainfadmerge.com^
 ||bargainknife.com^
 ||bargainmerge.com^
@@ -4670,6 +4672,7 @@
 ||callplan.at^
 ||callqzq.com^
 ||calmdetox-shop.com^
+||calmivory.com^
 ||calmsnerves.com^
 ||calmstructure.com^
 ||calocalsale.com^
@@ -4747,6 +4750,7 @@
 ||camptrunkduffel.com^
 ||campwholesale.store^
 ||camshieldcaps.com^
+||camuya.shop^
 ||canadapharmacytrust.net^
 ||canadasale365.com^
 ||canadatrustmed.com^
@@ -4966,6 +4970,7 @@
 ||casualjacketsofficial.com^
 ||casuallaceupshoes.com^
 ||casualsportsbag.com^
+||casualstreet.de^
 ||cat-osterreich.com^
 ||cataldoonlinedeeur.shop^
 ||catalunyafarm.com^
@@ -5802,6 +5807,7 @@
 ||coffeeliftin.com^
 ||coffeemachineonsale.com^
 ||coffeemaestrovip.com^
+||coffeena.de^
 ||coffeesbliss.myshopify.com^
 ||coffeeshopus.com^
 ||coffeetablede.com^
@@ -6437,6 +6443,7 @@
 ||curreao.shop^
 ||currency-us.com^
 ||currencytrademaster.online^
+||currentbody-outlet.de^
 ||currentbodyde.shop^
 ||currext.com^
 ||curriculumt.com^
@@ -7384,6 +7391,7 @@
 ||dfifomy.com^
 ||dflaconii.com^
 ||dfr-hessen.de^
+||dg.tgvgxa.shop^
 ||dgcex.net^
 ||dgestionqc.com^
 ||dgeyone.com^
@@ -8119,6 +8127,7 @@
 ||dwelldome.com^
 ||dwellgallery.com^
 ||dwellhavenly.com^
+||dwellingix.com^
 ||dwellinguse.com^
 ||dwellivory.com^
 ||dwelllayered.com^
@@ -9974,6 +9983,7 @@
 ||feilerelektro.com^
 ||feinkaufshop.com^
 ||feinkleidung.com^
+||feinkostwines.com^
 ||feinstrumpfhosenneu.com^
 ||feintoll.de^
 ||feixunseo.com^
@@ -12577,6 +12587,7 @@
 ||guesso.com^
 ||guessosterreich.at^
 ||guessunique.com^
+||guest-pend3120.com^
 ||guestrsrevation.com^
 ||guewenheimholz.com^
 ||gugeunk.de^
@@ -12637,6 +12648,7 @@
 ||gwcsale.towncabco.com^
 ||gwcshop.towncabco.com^
 ||gwelt.at^
+||gwosdz-handel.de^
 ||gwz-max.de^
 ||gyilwyfj.shop^
 ||gylde.de^
@@ -13807,6 +13819,7 @@
 ||homelyno.com^
 ||homelysale.com^
 ||homemodernliving.com^
+||homenestlyauralab.com^
 ||homenormann.com^
 ||homeoanimo.shop^
 ||homeoanimode.shop^
@@ -13976,6 +13989,7 @@
 ||hotels-colombo.com^
 ||hotels-colorado.net^
 ||hotels-in-tyrol.com^
+||hotels-inform4281.com^
 ||hotelsinperm.ru^
 ||hotelsinvienna.org^
 ||hotelsofmenorca.com^
@@ -15511,6 +15525,7 @@
 ||kaffee-teeshopde.com^
 ||kaffeealternative.de^
 ||kaffeeangebote.com^
+||kaffeefeinkostdrinks.com^
 ||kaffeemaschinebillig.com^
 ||kaffeemech.myshopify.com^
 ||kaffeesnackbar.com^
@@ -15538,6 +15553,7 @@
 ||kakustreetwear.com^
 ||kalamataolivenoel.de^
 ||kalesafe.com^
+||kaliyra.shop^
 ||kalkstore.com^
 ||kallieswelpen.com^
 ||kaltesholz.de^
@@ -16180,6 +16196,7 @@
 ||klhooq.com^
 ||klick-ndb.de^
 ||klima-bonus.app^
+||klimabonus-2026.net^
 ||klimabonus2026.at^
 ||klimakaelteprofi.com^
 ||klimmotorrad.com^
@@ -16289,6 +16306,7 @@
 ||kochenstein.de^
 ||kochgenusswelt.shop^
 ||kochhand.com^
+||kochkunsq.de^
 ||kochrela.com^
 ||kochtails.shop^
 ||kock-am-brink.de^
@@ -16392,6 +16410,7 @@
 ||kraftdesweins.com^
 ||kraftholz.shop^
 ||kraftraumpro.com^
+||kraftsohle.de^
 ||krafttool24.com^
 ||krafttoolco.com^
 ||kraftwerk-solar.com^
@@ -16620,6 +16639,7 @@
 ||laceupshoessales.com^
 ||lachmann-sc.de^
 ||lackeauftragen.com^
+||lackgut.com^
 ||lackner-it.at^
 ||lackvomprofi.de^
 ||lacostclearances.net^
@@ -19574,6 +19594,7 @@
 ||moebelkick.de^
 ||moebelonline24.com^
 ||moebelpunkt.com^
+||moebelstil.com^
 ||moebelundgarten.com^
 ||moebelundzubehoer.com^
 ||moebelzone.com^
@@ -21900,6 +21921,9 @@
 ||optimary.club^
 ||optimia.top^
 ||optimisticoffer.com^
+||optimizeactive.shop^
+||optimizehq.shop^
+||optimizesports.shop^
 ||optimumnutritionosterreich.at^
 ||optioncryptofx.com^
 ||optiontrademasters.com^
@@ -23760,6 +23784,7 @@
 ||profi-rasenmaher.com^
 ||profibaubedarf.com^
 ||profibikes.de^
+||profibrennde.com^
 ||proficienct.com^
 ||profikueche.com^
 ||profile-residential.com^
@@ -24640,6 +24665,7 @@
 ||registerk.com^
 ||registerp.com^
 ||registerzentrale.de^
+||registrierung-finanzonline.at^
 ||registrykissen.com^
 ||regli-coaching.com^
 ||regosunglasses.com^
@@ -26176,6 +26202,7 @@
 ||sbikeparts.com^
 ||sbk-hoffmeyer.de^
 ||sblt.net^
+||sbnaf.shop^
 ||sbontemps.com^
 ||sbosmadu.com^
 ||sbv-management.de^
@@ -27118,6 +27145,7 @@
 ||shopnumph.shop^
 ||shoponicxx.com^
 ||shoponlinetextile.com^
+||shopoptimize.shop^
 ||shoporio-logmann.de^
 ||shoposterreich.com^
 ||shopoutdoorwears.com^
@@ -27255,6 +27283,7 @@
 ||sidirennradschuhe.at^
 ||siduous.top^
 ||siebelleberlin.com^
+||siebert-modellbau.de^
 ||siebmaster.de^
 ||siegel-reifen.com^
 ||siegfried-schirmer.shop^
@@ -28486,6 +28515,7 @@
 ||store-workwear.com^
 ||store.aeotec.com^
 ||store.aktuellerezensionen.de^
+||store.aldenross.com^
 ||store.birkvsale.com^
 ||store.birkxsale.com^
 ||store.dealofferix.com^
@@ -29648,6 +29678,7 @@
 ||tfullmoj.com^
 ||tgbslab.com^
 ||tgfree.fun^
+||tgi.li^
 ||th0manns0und.shop^
 ||thai-massage-winsen.de^
 ||thailaendischekuecheberlin.de^
@@ -30166,6 +30197,14 @@
 ||tmallprints.com^
 ||tmarmstrong.com^
 ||tmcsalesmk.shop^
+||tmeama.com^
+||tmeamb.com^
+||tmeamc.com^
+||tmeamd.com^
+||tmeame.com^
+||tmeamf.com^
+||tmeamg.com^
+||tmeamh.com^
 ||tmgolfoff.com^
 ||tmissyildiz.com^
 ||tmk-transport.com^
@@ -31165,6 +31204,7 @@
 ||ultions.com^
 ||ultra-point.ru.com^
 ||ultracurrencytrade.com^
+||ultracybertrust.digital^
 ||ultraexpertfx.com^
 ||ultraheatpro.com^
 ||ultraheroshop.com^
@@ -31338,6 +31378,7 @@
 ||urbanfurnicraft.com^
 ||urbangrowde.com^
 ||urbanhugo.com^
+||urbanmap.org^
 ||urbanoutletstores.com^
 ||urbanvibesretreat.com^
 ||urbeauty4u.org^
@@ -32383,6 +32424,7 @@
 ||vmadiva.shop^
 ||vmeetang.com^
 ||vmegarexs.top^
+||vmqnpjm.com^
 ||vnews.at^
 ||vnlicov.com^
 ||vnvipshop.com^
@@ -32741,6 +32783,7 @@
 ||warmeluxe.com^
 ||warmeprofi.com^
 ||warmesocken.com^
+||warmethuis.com^
 ||warmheld.de^
 ||warmin.de^
 ||warmingway.com^
@@ -32805,6 +32848,7 @@
 ||watersportsstores.com^
 ||watersydea.shop^
 ||watson-manchester.com^
+||watsoneloise.com^
 ||wattcafe.fr^
 ||wattpionier.de^
 ||wauwcapow.shop^
@@ -33372,6 +33416,7 @@
 ||wohn-perle.de^
 ||wohnelektro.com^
 ||wohnello.com^
+||wohnen-diy.com^
 ||wohnengeschaft.de^
 ||wohnenlinxx.de^
 ||wohnfinden.com^
@@ -34028,6 +34073,7 @@
 ||zach-holzdesign.at^
 ||zachbrookedain.com^
 ||zaful.com^
+||zahnarzt-wegscheider.at^
 ||zahnpflegerabatt.de^
 ||zahnputz.com^
 ||zahrahana.top^

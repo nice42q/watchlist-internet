@@ -560,6 +560,7 @@
 0.0.0.0 agrejt.com
 0.0.0.0 agrenius.at
 0.0.0.0 agri-bud.com
+0.0.0.0 agri-service83.com
 0.0.0.0 agrial-culture.com
 0.0.0.0 agriandindusupply.com
 0.0.0.0 agribean.com
@@ -2537,6 +2538,7 @@
 0.0.0.0 barfuss--schuhe.com
 0.0.0.0 barfusschweiz.ch
 0.0.0.0 barfussfreedom.com
+0.0.0.0 bargainbayou.com
 0.0.0.0 bargainfadmerge.com
 0.0.0.0 bargainknife.com
 0.0.0.0 bargainmerge.com
@@ -4659,6 +4661,7 @@
 0.0.0.0 callplan.at
 0.0.0.0 callqzq.com
 0.0.0.0 calmdetox-shop.com
+0.0.0.0 calmivory.com
 0.0.0.0 calmsnerves.com
 0.0.0.0 calmstructure.com
 0.0.0.0 calocalsale.com
@@ -4736,6 +4739,7 @@
 0.0.0.0 camptrunkduffel.com
 0.0.0.0 campwholesale.store
 0.0.0.0 camshieldcaps.com
+0.0.0.0 camuya.shop
 0.0.0.0 canadapharmacytrust.net
 0.0.0.0 canadasale365.com
 0.0.0.0 canadatrustmed.com
@@ -4955,6 +4959,7 @@
 0.0.0.0 casualjacketsofficial.com
 0.0.0.0 casuallaceupshoes.com
 0.0.0.0 casualsportsbag.com
+0.0.0.0 casualstreet.de
 0.0.0.0 cat-osterreich.com
 0.0.0.0 cataldoonlinedeeur.shop
 0.0.0.0 catalunyafarm.com
@@ -5791,6 +5796,7 @@
 0.0.0.0 coffeeliftin.com
 0.0.0.0 coffeemachineonsale.com
 0.0.0.0 coffeemaestrovip.com
+0.0.0.0 coffeena.de
 0.0.0.0 coffeesbliss.myshopify.com
 0.0.0.0 coffeeshopus.com
 0.0.0.0 coffeetablede.com
@@ -6426,6 +6432,7 @@
 0.0.0.0 curreao.shop
 0.0.0.0 currency-us.com
 0.0.0.0 currencytrademaster.online
+0.0.0.0 currentbody-outlet.de
 0.0.0.0 currentbodyde.shop
 0.0.0.0 currext.com
 0.0.0.0 curriculumt.com
@@ -7373,6 +7380,7 @@
 0.0.0.0 dfifomy.com
 0.0.0.0 dflaconii.com
 0.0.0.0 dfr-hessen.de
+0.0.0.0 dg.tgvgxa.shop
 0.0.0.0 dgcex.net
 0.0.0.0 dgestionqc.com
 0.0.0.0 dgeyone.com
@@ -8108,6 +8116,7 @@
 0.0.0.0 dwelldome.com
 0.0.0.0 dwellgallery.com
 0.0.0.0 dwellhavenly.com
+0.0.0.0 dwellingix.com
 0.0.0.0 dwellinguse.com
 0.0.0.0 dwellivory.com
 0.0.0.0 dwelllayered.com
@@ -9963,6 +9972,7 @@
 0.0.0.0 feilerelektro.com
 0.0.0.0 feinkaufshop.com
 0.0.0.0 feinkleidung.com
+0.0.0.0 feinkostwines.com
 0.0.0.0 feinstrumpfhosenneu.com
 0.0.0.0 feintoll.de
 0.0.0.0 feixunseo.com
@@ -12566,6 +12576,7 @@
 0.0.0.0 guesso.com
 0.0.0.0 guessosterreich.at
 0.0.0.0 guessunique.com
+0.0.0.0 guest-pend3120.com
 0.0.0.0 guestrsrevation.com
 0.0.0.0 guewenheimholz.com
 0.0.0.0 gugeunk.de
@@ -12626,6 +12637,7 @@
 0.0.0.0 gwcsale.towncabco.com
 0.0.0.0 gwcshop.towncabco.com
 0.0.0.0 gwelt.at
+0.0.0.0 gwosdz-handel.de
 0.0.0.0 gwz-max.de
 0.0.0.0 gyilwyfj.shop
 0.0.0.0 gylde.de
@@ -13796,6 +13808,7 @@
 0.0.0.0 homelyno.com
 0.0.0.0 homelysale.com
 0.0.0.0 homemodernliving.com
+0.0.0.0 homenestlyauralab.com
 0.0.0.0 homenormann.com
 0.0.0.0 homeoanimo.shop
 0.0.0.0 homeoanimode.shop
@@ -13965,6 +13978,7 @@
 0.0.0.0 hotels-colombo.com
 0.0.0.0 hotels-colorado.net
 0.0.0.0 hotels-in-tyrol.com
+0.0.0.0 hotels-inform4281.com
 0.0.0.0 hotelsinperm.ru
 0.0.0.0 hotelsinvienna.org
 0.0.0.0 hotelsofmenorca.com
@@ -15500,6 +15514,7 @@
 0.0.0.0 kaffee-teeshopde.com
 0.0.0.0 kaffeealternative.de
 0.0.0.0 kaffeeangebote.com
+0.0.0.0 kaffeefeinkostdrinks.com
 0.0.0.0 kaffeemaschinebillig.com
 0.0.0.0 kaffeemech.myshopify.com
 0.0.0.0 kaffeesnackbar.com
@@ -15527,6 +15542,7 @@
 0.0.0.0 kakustreetwear.com
 0.0.0.0 kalamataolivenoel.de
 0.0.0.0 kalesafe.com
+0.0.0.0 kaliyra.shop
 0.0.0.0 kalkstore.com
 0.0.0.0 kallieswelpen.com
 0.0.0.0 kaltesholz.de
@@ -16169,6 +16185,7 @@
 0.0.0.0 klhooq.com
 0.0.0.0 klick-ndb.de
 0.0.0.0 klima-bonus.app
+0.0.0.0 klimabonus-2026.net
 0.0.0.0 klimabonus2026.at
 0.0.0.0 klimakaelteprofi.com
 0.0.0.0 klimmotorrad.com
@@ -16278,6 +16295,7 @@
 0.0.0.0 kochenstein.de
 0.0.0.0 kochgenusswelt.shop
 0.0.0.0 kochhand.com
+0.0.0.0 kochkunsq.de
 0.0.0.0 kochrela.com
 0.0.0.0 kochtails.shop
 0.0.0.0 kock-am-brink.de
@@ -16381,6 +16399,7 @@
 0.0.0.0 kraftdesweins.com
 0.0.0.0 kraftholz.shop
 0.0.0.0 kraftraumpro.com
+0.0.0.0 kraftsohle.de
 0.0.0.0 krafttool24.com
 0.0.0.0 krafttoolco.com
 0.0.0.0 kraftwerk-solar.com
@@ -16609,6 +16628,7 @@
 0.0.0.0 laceupshoessales.com
 0.0.0.0 lachmann-sc.de
 0.0.0.0 lackeauftragen.com
+0.0.0.0 lackgut.com
 0.0.0.0 lackner-it.at
 0.0.0.0 lackvomprofi.de
 0.0.0.0 lacostclearances.net
@@ -19563,6 +19583,7 @@
 0.0.0.0 moebelkick.de
 0.0.0.0 moebelonline24.com
 0.0.0.0 moebelpunkt.com
+0.0.0.0 moebelstil.com
 0.0.0.0 moebelundgarten.com
 0.0.0.0 moebelundzubehoer.com
 0.0.0.0 moebelzone.com
@@ -21889,6 +21910,9 @@
 0.0.0.0 optimary.club
 0.0.0.0 optimia.top
 0.0.0.0 optimisticoffer.com
+0.0.0.0 optimizeactive.shop
+0.0.0.0 optimizehq.shop
+0.0.0.0 optimizesports.shop
 0.0.0.0 optimumnutritionosterreich.at
 0.0.0.0 optioncryptofx.com
 0.0.0.0 optiontrademasters.com
@@ -23749,6 +23773,7 @@
 0.0.0.0 profi-rasenmaher.com
 0.0.0.0 profibaubedarf.com
 0.0.0.0 profibikes.de
+0.0.0.0 profibrennde.com
 0.0.0.0 proficienct.com
 0.0.0.0 profikueche.com
 0.0.0.0 profile-residential.com
@@ -24629,6 +24654,7 @@
 0.0.0.0 registerk.com
 0.0.0.0 registerp.com
 0.0.0.0 registerzentrale.de
+0.0.0.0 registrierung-finanzonline.at
 0.0.0.0 registrykissen.com
 0.0.0.0 regli-coaching.com
 0.0.0.0 regosunglasses.com
@@ -26165,6 +26191,7 @@
 0.0.0.0 sbikeparts.com
 0.0.0.0 sbk-hoffmeyer.de
 0.0.0.0 sblt.net
+0.0.0.0 sbnaf.shop
 0.0.0.0 sbontemps.com
 0.0.0.0 sbosmadu.com
 0.0.0.0 sbv-management.de
@@ -27107,6 +27134,7 @@
 0.0.0.0 shopnumph.shop
 0.0.0.0 shoponicxx.com
 0.0.0.0 shoponlinetextile.com
+0.0.0.0 shopoptimize.shop
 0.0.0.0 shoporio-logmann.de
 0.0.0.0 shoposterreich.com
 0.0.0.0 shopoutdoorwears.com
@@ -27244,6 +27272,7 @@
 0.0.0.0 sidirennradschuhe.at
 0.0.0.0 siduous.top
 0.0.0.0 siebelleberlin.com
+0.0.0.0 siebert-modellbau.de
 0.0.0.0 siebmaster.de
 0.0.0.0 siegel-reifen.com
 0.0.0.0 siegfried-schirmer.shop
@@ -28475,6 +28504,7 @@
 0.0.0.0 store-workwear.com
 0.0.0.0 store.aeotec.com
 0.0.0.0 store.aktuellerezensionen.de
+0.0.0.0 store.aldenross.com
 0.0.0.0 store.birkvsale.com
 0.0.0.0 store.birkxsale.com
 0.0.0.0 store.dealofferix.com
@@ -29637,6 +29667,7 @@
 0.0.0.0 tfullmoj.com
 0.0.0.0 tgbslab.com
 0.0.0.0 tgfree.fun
+0.0.0.0 tgi.li
 0.0.0.0 th0manns0und.shop
 0.0.0.0 thai-massage-winsen.de
 0.0.0.0 thailaendischekuecheberlin.de
@@ -30155,6 +30186,14 @@
 0.0.0.0 tmallprints.com
 0.0.0.0 tmarmstrong.com
 0.0.0.0 tmcsalesmk.shop
+0.0.0.0 tmeama.com
+0.0.0.0 tmeamb.com
+0.0.0.0 tmeamc.com
+0.0.0.0 tmeamd.com
+0.0.0.0 tmeame.com
+0.0.0.0 tmeamf.com
+0.0.0.0 tmeamg.com
+0.0.0.0 tmeamh.com
 0.0.0.0 tmgolfoff.com
 0.0.0.0 tmissyildiz.com
 0.0.0.0 tmk-transport.com
@@ -31154,6 +31193,7 @@
 0.0.0.0 ultions.com
 0.0.0.0 ultra-point.ru.com
 0.0.0.0 ultracurrencytrade.com
+0.0.0.0 ultracybertrust.digital
 0.0.0.0 ultraexpertfx.com
 0.0.0.0 ultraheatpro.com
 0.0.0.0 ultraheroshop.com
@@ -31327,6 +31367,7 @@
 0.0.0.0 urbanfurnicraft.com
 0.0.0.0 urbangrowde.com
 0.0.0.0 urbanhugo.com
+0.0.0.0 urbanmap.org
 0.0.0.0 urbanoutletstores.com
 0.0.0.0 urbanvibesretreat.com
 0.0.0.0 urbeauty4u.org
@@ -32372,6 +32413,7 @@
 0.0.0.0 vmadiva.shop
 0.0.0.0 vmeetang.com
 0.0.0.0 vmegarexs.top
+0.0.0.0 vmqnpjm.com
 0.0.0.0 vnews.at
 0.0.0.0 vnlicov.com
 0.0.0.0 vnvipshop.com
@@ -32730,6 +32772,7 @@
 0.0.0.0 warmeluxe.com
 0.0.0.0 warmeprofi.com
 0.0.0.0 warmesocken.com
+0.0.0.0 warmethuis.com
 0.0.0.0 warmheld.de
 0.0.0.0 warmin.de
 0.0.0.0 warmingway.com
@@ -32794,6 +32837,7 @@
 0.0.0.0 watersportsstores.com
 0.0.0.0 watersydea.shop
 0.0.0.0 watson-manchester.com
+0.0.0.0 watsoneloise.com
 0.0.0.0 wattcafe.fr
 0.0.0.0 wattpionier.de
 0.0.0.0 wauwcapow.shop
@@ -33361,6 +33405,7 @@
 0.0.0.0 wohn-perle.de
 0.0.0.0 wohnelektro.com
 0.0.0.0 wohnello.com
+0.0.0.0 wohnen-diy.com
 0.0.0.0 wohnengeschaft.de
 0.0.0.0 wohnenlinxx.de
 0.0.0.0 wohnfinden.com
@@ -34017,6 +34062,7 @@
 0.0.0.0 zach-holzdesign.at
 0.0.0.0 zachbrookedain.com
 0.0.0.0 zaful.com
+0.0.0.0 zahnarzt-wegscheider.at
 0.0.0.0 zahnpflegerabatt.de
 0.0.0.0 zahnputz.com
 0.0.0.0 zahrahana.top
