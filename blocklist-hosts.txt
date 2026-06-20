@@ -16996,6 +16996,7 @@
 0.0.0.0 legeroschuhefabrikverkauf.at
 0.0.0.0 legeroschuhefabrikverkauf.de
 0.0.0.0 legeroschuhesfabrikverkauf.de
+0.0.0.0 legeroschweiz.com
 0.0.0.0 legeroskonorge.com
 0.0.0.0 legerosuomishop.com
 0.0.0.0 legeroturkiye.com
