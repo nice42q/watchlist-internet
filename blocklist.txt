@@ -2,10 +2,10 @@
 # Pi-hole DNS Blocklist: Watchlist Internet
 # Source: https://www.watchlist-internet.at/liste-betruegerischer-shops/csv/
 # Pi-hole Source: https://github.com/nice42q/watchlist-internet
-# Last update: 2026-06-25 04:36:35 UTC
+# Last update: 2026-06-25 09:46:13 UTC
 #
 # --- Analysis statistics for this update ---
-# Total valid domains:       34458
+# Total valid domains:       34585
 # Duplicate entries removed: 8
 # Invalid lines filtered:    2
 # -------------------------------------------
@@ -178,6 +178,7 @@
 ||abccart.xyz^
 ||abdeckplanenmotor.com^
 ||abeeinabonnet.com^
+||abele-kanzlei.com^
 ||abendroth-fortel.com^
 ||abestunderwear.com^
 ||abevolksz.com^
@@ -307,6 +308,8 @@
 ||acime-project.de^
 ||acintqucil.com^
 ||aciquainted.com^
+||ackermann-ra.de^
+||ackermann-rechtsanwaelte.de^
 ||ackermann-reifenhandel.shop^
 ||ackermannmunchen.de^
 ||aclickysoft.com^
@@ -532,6 +535,7 @@
 ||ag-europe.com^
 ||ag-reparaturservice.at^
 ||agadishop.com^
+||agbglobal.cc^
 ||agbrzr.shop^
 ||agda888.com^
 ||agdenimshop.com^
@@ -981,6 +985,7 @@
 ||altayyabab.com^
 ||altcoinpro.space^
 ||altekino.de^
+||altenlaw.de^
 ||alter48.fr^
 ||alternatef.com^
 ||alternatei.com^
@@ -1363,6 +1368,9 @@
 ||anttitepponen.com^
 ||antyear.com^
 ||anuraclo.com^
+||anwaelte-brinkmann.de^
+||anwalt-rieger.de^
+||anwalt-sirrenberg.com^
 ||anxiair.xyz^
 ||any-estates.com^
 ||anyoneeer.top^
@@ -1731,6 +1739,7 @@
 ||asci-ipy.de^
 ||ascreationdecor.com^
 ||asculbertson.com^
+||asd-rechtsanwaelte.de^
 ||asdoriente.it^
 ||asdvance.com^
 ||asfemaqi.cyou^
@@ -2370,6 +2379,7 @@
 ||babyweltde.com^
 ||bacedic.com^
 ||bachelorm.com^
+||bachmann-kanzlei.de^
 ||back-attack.de^
 ||back-dani.shop^
 ||backen-shop.com^
@@ -2711,6 +2721,7 @@
 ||bauteilegest.com^
 ||bauundgarten.com^
 ||bauzentrum-deutschland24.de^
+||bavaria-rechtundberatung.com^
 ||bavarianvogue.de^
 ||bavariasis.com^
 ||baveya.de^
@@ -2725,6 +2736,7 @@
 ||baybenbdt.com^
 ||baydresslove.com^
 ||bayer-heizen.at^
+||bayer-stephan.de^
 ||bayerischegeschenke.com^
 ||bayerischeu.de^
 ||bayerwald-heizoel.de^
@@ -2771,6 +2783,7 @@
 ||bcsportscrickets.com^
 ||bctiveof.com^
 ||bdaten.de^
+||bdhw-insolvenz.de^
 ||bdo-estate.com^
 ||bdo-immo.com^
 ||bds-coffee.de^
@@ -3022,6 +3035,7 @@
 ||bergbk.de^
 ||berger-deals.com^
 ||berger-research.net^
+||berger-roland.com^
 ||bergermode.com^
 ||bergersearch.at^
 ||bergexperten.de^
@@ -3295,8 +3309,12 @@
 ||betrise-capital.ltd^
 ||betrisecapitals.ltd^
 ||betrmode.com^
+||betrug.law^
+||betrugsbekampfer.com^
 ||betrugsdezernat.com^
 ||betrugsdezernat.org^
+||betrugsexperten.de^
+||betrugsrecht.de^
 ||bettdeckenkissen.com^
 ||bettenfist.com^
 ||betterse.at^
@@ -4269,6 +4287,7 @@
 ||bringadharav.com^
 ||bringwish.com^
 ||brinkmann-reifen.com^
+||brinkmannkanzlei.de^
 ||briobuys.com^
 ||briospielzeug.com^
 ||briospielzeugrabatt.com^
@@ -4335,6 +4354,7 @@
 ||brs-biogas.at^
 ||brtechi.com^
 ||brucebaby.shop^
+||brueck-tax-legal.com^
 ||bruhnn.de^
 ||bruland.store^
 ||brunateschuhewerksverkauf.de^
@@ -5643,6 +5663,7 @@
 ||cleoc.at^
 ||clerofy.pics^
 ||clevoire.com^
+||clexperts.biz^
 ||cliarweoe.com^
 ||cliarweor.com^
 ||click-zigaretten.com^
@@ -6261,6 +6282,7 @@
 ||cp24.pl^
 ||cpee.top^
 ||cpket.com^
+||cplollp.com^
 ||cpopnow.com^
 ||cprcg.mebbx.com^
 ||cqqodsports.com^
@@ -6513,6 +6535,7 @@
 ||cvneed.com^
 ||cwikibios.com^
 ||cwithwp.shop^
+||cwl-experts.org^
 ||cwwk.net^
 ||cx.gamehander.com^
 ||cxgoonge.com^
@@ -6775,6 +6798,7 @@
 ||ddypjs.com^
 ||de-addictedtohandbags.com^
 ||de-addictedtohandbags.vip^
+||de-anwalt.website^
 ||de-bademode.com^
 ||de-bbq.com^
 ||de-bike.com^
@@ -6797,6 +6821,7 @@
 ||de-napoleon.com^
 ||de-noroki.com^
 ||de-on.shop^
+||de-orion.site^
 ||de-outdoor.com^
 ||de-rimowa.shop^
 ||de-schmuckens.com^
@@ -7149,6 +7174,8 @@
 ||demellierosterreich.com^
 ||demiartdecorations.com^
 ||demirdentalonline.shop^
+||demmerimrecht.de^
+||demmermail.com^
 ||demobaza.shop^
 ||demoniaaustria.top^
 ||demoniadeutschland.de^
@@ -7170,6 +7197,7 @@
 ||denix-reifen.com^
 ||denkashop.com^
 ||dennerwien.com^
+||dennisbecker-ra.de^
 ||dent-wellness.de^
 ||dentalsuppliessale.store^
 ||dentqq.top^
@@ -8511,6 +8539,7 @@
 ||eisenhart.at^
 ||eisenwarensale-shop.com^
 ||eishockeyangebot.com^
+||eisner-kollegen.de^
 ||eisuw.com^
 ||eithermart.top^
 ||ejakojast.shop^
@@ -9440,6 +9469,9 @@
 ||exklusiv-online.de^
 ||exloversvs.life^
 ||exlurebays.com^
+||exner-collegen.de^
+||exner-kollegen.de^
+||exner-kollegen.net^
 ||exobaustoffe.de^
 ||exotekracingparts.com^
 ||exotekracingrc.com^
@@ -10627,6 +10659,7 @@
 ||foldingknivesale.com^
 ||foldinglockshop.com^
 ||foldingsbikedk.com^
+||folger-kollegen.com^
 ||foliendealer.shop^
 ||folioflare.com^
 ||follifolliee.com^
@@ -10810,6 +10843,7 @@
 ||franckide.com^
 ||francxuu.com^
 ||frank-hildebrandt.shop^
+||franken-vertrieb.de^
 ||frankfurt-outlet.com^
 ||frankfurteintrachtshop.com^
 ||frankfurtmodehaus.de^
@@ -12011,6 +12045,7 @@
 ||gleane.de^
 ||glecio.com^
 ||gledorktrade.com^
+||gleisslutz-deutschland.de^
 ||glejyon.com^
 ||glembook.com^
 ||glemory.com^
@@ -12344,6 +12379,8 @@
 ||graciousk.com^
 ||gradine.top^
 ||graefde.com^
+||graf-collegen.com^
+||graf-collegen.de^
 ||graf-wien.com^
 ||grafosignsv.com^
 ||granadabelekhotel.com^
@@ -12719,6 +12756,7 @@
 ||haarpflegehaut.com^
 ||haarstyle.net^
 ||haarweltfriseureinrichtung.shop^
+||haas-partner.com^
 ||haase-autoreifen.com^
 ||haazeair.com^
 ||habakidtoy.com^
@@ -13035,6 +13073,7 @@
 ||haushaltstar.de^
 ||haushaltswolf.de^
 ||hausler.casaify.top^
+||hausmanns-verwertung.de^
 ||hausmobel-de.com^
 ||hausofvedashop.com^
 ||hausonline24.com^
@@ -13361,6 +13400,8 @@
 ||hendoi.shop^
 ||henfifty.com^
 ||hengdade.shop^
+||hengelermuellera.com^
+||hengelermuellerc.com^
 ||henghongwatch.online^
 ||hengjian.eu^
 ||heningclothing.com^
@@ -13443,6 +13484,7 @@
 ||hessnatur.saveeu.shop^
 ||hetshoppe.xyz^
 ||heuer-reifenhandel.com^
+||heuselaw.de^
 ||heuser-garderobe.de^
 ||heute-horoskope.de^
 ||heveganl.com^
@@ -14430,6 +14472,7 @@
 ||idolpanion.com^
 ||idonotlikewait.top^
 ||idpconseil.fr^
+||ie-audit.com^
 ||ieceonstamps.com^
 ||iedustars.com^
 ||iefax.costswant.baby^
@@ -14575,6 +14618,7 @@
 ||impluemporium.com^
 ||import-export.website^
 ||importstoree.com^
+||impro-insolvenz.de^
 ||improbuehne.de^
 ||imrato.com^
 ||imregen.de^
@@ -14719,7 +14763,11 @@
 ||insightberichte.de^
 ||insightfulyou.net^
 ||insnag.me^
+||insolvenz-veit.de^
 ||insolvenz-verkauf.net^
+||insolvenz.veit-kanzlei.de^
+||insolvenzrecht-rick.de^
+||insolvenzrecht-rieger.de^
 ||inspectionk.com^
 ||inspectiony.com^
 ||inspirasikus.com^
@@ -15074,6 +15122,7 @@
 ||jacobs-reifenversand.com^
 ||jacoobss.store^
 ||jafar-france.fr^
+||jaffe-rechtsanwaelte.de^
 ||jag-elec.com^
 ||jagdundungarn.at^
 ||jagerdrive.com^
@@ -15649,6 +15698,14 @@
 ||kanvada.com^
 ||kanziii.net^
 ||kanzlei-dahlmanns-witten.de^
+||kanzlei-guehmann.de^
+||kanzlei-helmut-kuhn.de^
+||kanzlei-hornberger.de^
+||kanzlei-niva.de^
+||kanzlei-ra.net^
+||kanzlei-roth.org^
+||kanzlei-statz.de^
+||kanzlei-zimmermann-partner.com^
 ||kanzleiklaus.de^
 ||kaodasuan.shop^
 ||kaperes.com^
@@ -15803,6 +15860,7 @@
 ||kbcshop.shop^
 ||kbetake.com^
 ||kbnlogistics.com^
+||kbs-kanzlei.de^
 ||kbs-management.cc^
 ||kbuildex.com^
 ||kckmoneyy.com^
@@ -15990,6 +16048,7 @@
 ||kidzonemagic.com^
 ||kiekoem.com^
 ||kieler-sternstunde.de^
+||kienast-ra.de^
 ||kiezlegenden.de^
 ||kijanes.com^
 ||kilimrugde.com^
@@ -16070,6 +16129,7 @@
 ||kirche-lennep.de^
 ||kirchenmusik-mhl.de^
 ||kirchimova.xyz^
+||kirchner-rechtsanwaelte.de^
 ||kirchner-reifenversand.shop^
 ||kirchweih-info.de^
 ||kirkclean.space^
@@ -16149,6 +16209,7 @@
 ||kkilomo.com^
 ||kkipoly.com^
 ||kkrde-api.com^
+||kkz-insolvenzrecht.de^
 ||kkzon.com^
 ||kkzon.de^
 ||kl-99.top^
@@ -16181,6 +16242,7 @@
 ||klauenpflegeschmid.de^
 ||klaus-autoreifen.com^
 ||klaus-ziegert.de^
+||klausalten.de^
 ||klausholz.com^
 ||kleankanteenbottle.com^
 ||kleaskunst.de^
@@ -16214,6 +16276,7 @@
 ||klenkholzag.de^
 ||kletternalpinismus.de^
 ||kleversholz.com^
+||kley-kanzlei.com^
 ||klgm-eiche.de^
 ||klhooq.com^
 ||klick-ndb.de^
@@ -16402,6 +16465,7 @@
 ||kopticschool.de^
 ||korase.de^
 ||korda-fishing.com^
+||kortner-partner.de^
 ||kortova.com^
 ||kortsdam.de^
 ||korummainlinebait.com^
@@ -16484,6 +16548,7 @@
 ||krktz-m9pwrf3k.top^
 ||krnbcase.com^
 ||krobboshop.de^
+||kronberg-partner.de^
 ||kronbergwien.at^
 ||kronenstil.de^
 ||kronwald-mode.de^
@@ -16549,11 +16614,17 @@
 ||kuechenblume.net^
 ||kuechenmeistershop.com^
 ||kuechesale.com^
+||kuehnenagel-service.de^
+||kuethe-kollegen.com^
+||kuethe-partner.com^
 ||kufirms.com^
 ||kugel-lernfoerderung.de^
 ||kugelbahnshop.at^
 ||kuhlecke.de^
 ||kuhlgermany.com^
+||kuhlmann-rechtsanwaelte.com^
+||kuhlmann-rechtsanwaelte.de^
+||kuhlmann-rechtsanwaelte.net^
 ||kuhlmannbekleidung.de^
 ||kuhschelhof.de^
 ||kukkabutikc.com^
@@ -17034,6 +17105,7 @@
 ||leezy-berlin.de^
 ||legalcrypptoearningfx.com^
 ||legalhighlabs.com^
+||legalnitsche.de^
 ||legasthenie-ms.de^
 ||legero-de.com^
 ||legero-hu.net^
@@ -17427,6 +17499,7 @@
 ||lindabonf.shop^
 ||lindbergmode.de^
 ||lindela.de^
+||lindemann-kanzlei.de^
 ||lindemarkt.com^
 ||linden-innsbruck.com^
 ||linden-thal.de^
@@ -17657,6 +17730,7 @@
 ||logtgg.com^
 ||logvoyage.com^
 ||lohninger-irrsee.at^
+||lohr-treuhand.com^
 ||lojgxdixo.com^
 ||lokalversand.nl^
 ||lokalweert.de^
@@ -18144,6 +18218,7 @@
 ||macixel.shop^
 ||mack-reifen.com^
 ||maclakshmeshwar.com^
+||maclvorbrianlaws.com^
 ||macoens.com^
 ||maconionsfx.com^
 ||macorad.com^
@@ -18826,6 +18901,7 @@
 ||megausefulstuff.com^
 ||megcareproducts.com^
 ||mehiv.com^
+||mehler-anwaelte.de^
 ||mehnike.com^
 ||mehsam-transport.com^
 ||mei-ying.de^
@@ -19039,6 +19115,7 @@
 ||meridianhouseitem.com^
 ||meridianunitedholdingsnet.digital^
 ||meritdeteno.com^
+||merits-partner.de^
 ||merkatoltd.com^
 ||merkel-autoreifen.shop^
 ||merlin-apotheke.com^
@@ -19418,6 +19495,7 @@
 ||mlbosterreich.com^
 ||mlbshoesaustralia.com.au^
 ||mldtb.com^
+||mle-aumueller.de^
 ||mlektro.com^
 ||mlhihq.akademiaszefakuchni.pl^
 ||mlkvip.com^
@@ -19946,6 +20024,8 @@
 ||mto-service.com^
 ||mtools-outlet.shop^
 ||mtquality.com^
+||mtr-legal.de^
+||mtr-legal.net^
 ||mtrekking.de^
 ||muaythaisite.com^
 ||mubnew.com^
@@ -20873,6 +20953,7 @@
 ||nnorwards.com^
 ||no-bull-deutschland.de^
 ||noahcat.shop^
+||noble-alliance.com^
 ||noblecosplay.com^
 ||noblepawz.com^
 ||noblevista.de^
@@ -20901,6 +20982,7 @@
 ||nocety.top^
 ||noclegipolanczyk.pl^
 ||noemimartinezfont.com^
+||noerr-mbb.de^
 ||nofaithstudios.com^
 ||nofs-fr.com^
 ||nofs.online^
@@ -21680,6 +21762,7 @@
 ||online-apotek.no^
 ||online-bathrooms.com^
 ||online-bedstore.com^
+||online-betrugs-hilfe.de^
 ||online-columbia.com^
 ||online-fahrradwelt.com^
 ||online-file-converter.com^
@@ -22933,6 +23016,7 @@
 ||peterkenkelgruppe.de^
 ||peters-insurance.de^
 ||petershagen-hotel.de^
+||petersimrecht.de^
 ||petersjoo.com^
 ||peterssusanpeters.com^
 ||petety.top^
@@ -23121,6 +23205,7 @@
 ||pikolinosschuhe.com^
 ||pil24.com^
 ||pilarflores.es^
+||pilars-treuhand.com^
 ||pilemeds.com^
 ||pilfsicerim.net^
 ||pillen-apo.de^
@@ -23848,6 +23933,8 @@
 ||prokitchenwaresupply.com^
 ||prokow.at^
 ||proladen.shop^
+||prolex-kanzlei.de^
+||prolexkanzlei.de^
 ||prolife2008.de^
 ||proline-tool.com^
 ||promenader.top^
@@ -24262,6 +24349,8 @@
 ||ra-fragrance.co.uk^
 ||ra-ganske.de^
 ||ra-gleissner.de^
+||ra-gsklegal.de^
+||ra-rick.de^
 ||raab-reifen.com^
 ||raabeenq.com^
 ||rabaisdepot.com^
@@ -24613,6 +24702,10 @@
 ||receptiond.com^
 ||recetasplus.com^
 ||rechato.com^
+||rechtsanwalt-adams.com^
+||rechtsanwalt-scheer.net^
+||rechtsanwalt-sirrenberg.de^
+||rechtskontor-anger.de^
 ||rechtund-gesetz.com^
 ||reciprocalx.com^
 ||reciprocau.com^
@@ -24868,6 +24961,7 @@
 ||reifkogel24.de^
 ||reignsprime.com^
 ||reiki4all.at^
+||reilbach-kanzlei.de^
 ||reilesenthel.de.com^
 ||reimer-autoreifen.com^
 ||reimer-reifenhandel.com^
@@ -25061,6 +25155,7 @@
 ||retuschieren.at^
 ||reubenco.com^
 ||reuter-autoreifen.com^
+||reuther-anwaelte.com^
 ||reutoneg.com^
 ||revealize.top^
 ||reveilove.com^
@@ -25156,6 +25251,7 @@
 ||rice.msoleil.shop^
 ||ricemly.com^
 ||richagloves.com^
+||richardkellenbergerlaw.com^
 ||richardlakota.com^
 ||richardsandals.shop^
 ||richardtea.eu^
@@ -25167,6 +25263,7 @@
 ||richter-uhren.de^
 ||richterwelpenhaus.de^
 ||richwaystake.com^
+||rick-kanzlei.de^
 ||rickihome.shop^
 ||rickowenswien.com^
 ||riddingglovesprada.com^
@@ -25193,6 +25290,7 @@
 ||ridlog.com^
 ||ridrope.com^
 ||riedcioph.com^
+||riedel-ra.de^
 ||riedl-reifen.com^
 ||riedlingen-fewo.de^
 ||rieger-autoreifen.com^
@@ -25443,6 +25541,7 @@
 ||rongbinlinadornmentdesignc.com^
 ||roninsinger.org^
 ||roniry.co^
+||ronpalleschilawoffice.com^
 ||ronstanstore.com^
 ||ronyason.com^
 ||roof-tube.com^
@@ -25506,6 +25605,8 @@
 ||rotationmedical.com^
 ||rotecobra.com^
 ||rotes-tor.de^
+||roth-collegen.com^
+||roth-collegen.net^
 ||roth-handel.de^
 ||rothause.de^
 ||rothen-burg.de^
@@ -25568,6 +25669,7 @@
 ||rspasian.com^
 ||rsshagen.de^
 ||rstadspa.com^
+||rsteelelawfirm.com^
 ||rstfurncheap.com^
 ||rsuhisd.shop^
 ||rt-intertrans.com^
@@ -25692,6 +25794,7 @@
 ||rvca-surf.com^
 ||rvcaaustria.com^
 ||rvwvh.com^
+||rw-insolvenzverwaltung.de^
 ||rwb-stuttgart.de^
 ||rwcstore.com^
 ||rwebvines.com^
@@ -26318,6 +26421,7 @@
 ||schlussmit.at^
 ||schmerz-stopper.de^
 ||schmid-autoreifen.com^
+||schmid-rechtsanwaelte.de^
 ||schmidmodesalzburg.de^
 ||schmidt-boutique.de^
 ||schmidt-reifenhandel.shop^
@@ -26397,6 +26501,7 @@
 ||schreibwarenbecker.de^
 ||schreiner-rasenmaher.com^
 ||schreinerei-michl.de^
+||schreyer-ra.de^
 ||schroder-dusseldorf.de^
 ||schubert-reifen.com^
 ||schuberthonlines.shop^
@@ -26438,12 +26543,15 @@
 ||schultemode.de^
 ||schultheissundroth.de^
 ||schultz-autoreifen.shop^
+||schultzebraun-anwaelte.de^
 ||schulz-reifen.com^
+||schulze-rechtsanwaelte.com^
 ||schulze-reifen.com^
 ||schumacher-autoreifen.shop^
 ||schumann-reifen.com^
 ||schurianpartner.at^
 ||schusselprada.com^
+||schuster-kanzlei.de^
 ||schuster-wien.at^
 ||schusters-handel.de^
 ||schutz-mode.de^
@@ -26615,6 +26723,7 @@
 ||selectedtabsonline.com^
 ||selectith.com^
 ||selectro.ch^
+||selegalsolutions.com^
 ||seleod.com^
 ||self-portrait.com.de^
 ||selfridges-work.com^
@@ -28403,6 +28512,8 @@
 ||stelprotool.com^
 ||stemecommunity.com^
 ||stemorien.com^
+||stengelra.com^
+||stephanbayer.de^
 ||stephanheinrich.shop^
 ||stephaniehotting.com^
 ||stephanwagner.at^
@@ -28460,6 +28571,7 @@
 ||stilvollesgeschirr.com^
 ||stilvollherr.de^
 ||stimeyou.com^
+||stinco-insolvenz.de^
 ||sting-ring.de^
 ||stitchcompagnon.store^
 ||stitchfia.com^
@@ -31963,6 +32075,8 @@
 ||vehicles-onsale.com^
 ||veilwellness.com^
 ||veimul.shop^
+||veit-insolvenz.de^
+||veit-kanzlei.de^
 ||veja-at.com^
 ||veja-ireland.net^
 ||veja-osterreich.at^
@@ -32139,7 +32253,9 @@
 ||vertrauenwin.de^
 ||verttion.top^
 ||verummarkt.store^
+||verwaltung-gmbh.com^
 ||verwaltungsnotar.online^
+||verwertung-sirrenberg.com^
 ||verworkdeutschland.com^
 ||verycanvas.com^
 ||verygoodfootwear.com^
@@ -33012,6 +33128,7 @@
 ||webmremedies.com^
 ||webseite-gratis.com^
 ||webshop-srl.com^
+||websterjamesprofessionalcorp.com^
 ||webstorerx.com^
 ||webtesthub.de^
 ||webtrader.arvelon-barnyx.com^
@@ -33211,6 +33328,10 @@
 ||westickers.com^
 ||westiels.de^
 ||westlando.de^
+||westmeier-partner.net^
+||westmeier-ra.net^
+||westmeier-rechtsanwaelte.com^
+||westmeier-rechtsanwaelte.net^
 ||westpointcourier.online^
 ||westpopular.com^
 ||westri.top^
@@ -33433,6 +33554,7 @@
 ||withstndridg.com^
 ||wittentf.com^
 ||wittman-bekleidung.de^
+||wiv-verwertung.de^
 ||wivaro.de^
 ||wizholzshops.de^
 ||wjarviiz.com^
@@ -33677,6 +33799,7 @@
 ||wukbw.com^
 ||wulde.de^
 ||wulf-reifen.com^
+||wulstenra.com^
 ||wunderbarmeldung.com^
 ||wunderlich-autoreifen.com^
 ||wunderlich-handel.de^
@@ -33704,6 +33827,7 @@
 ||wwf.sneakerz2020.com^
 ||wwhhwwh.top^
 ||wwjrm.hnvapbuy.shop^
+||wwllan.com^
 ||wwmode.de^
 ||wwujiao2w.x.yupoo.com^
 ||www2.everestrust.com^
@@ -33803,6 +33927,7 @@
 ||xn--kammerjger-kessler-rtb.de^
 ||xn--kammerjger-profis-wqb.at^
 ||xn--kammerjger-schulz-wqb.at^
+||xn--kanzlei-rcherimrecht-cbc.de^
 ||xn--knigswelpen-rfb.com^
 ||xn--lebensmittelgeschft-wwb.de^
 ||xn--liformesterreich-swb.com^
@@ -34290,6 +34415,8 @@
 ||ziectmg.shop^
 ||ziegelers.de^
 ||ziegler-handel.de^
+||ziegler-kanzlei.de^
+||ziegler-rechtsanwaelte.de^
 ||zieglerzurich.ch^
 ||zifuliangm.com^
 ||zigaretten-bestellen.net^
