@@ -1869,6 +1869,7 @@
 0.0.0.0 at.esrlive.com
 0.0.0.0 at.flexumgel-official.shop
 0.0.0.0 at.gluconv.com
+0.0.0.0 at.hwduy.shop
 0.0.0.0 at.irgedvei.shop
 0.0.0.0 at.ketonaktiv.com
 0.0.0.0 at.llinacrda.shop
@@ -2077,6 +2078,7 @@
 0.0.0.0 autohobby.at
 0.0.0.0 autoinnendesign.com
 0.0.0.0 autoled.tech
+0.0.0.0 automatacompare.com
 0.0.0.0 automaticl.com
 0.0.0.0 automatische-dividende.de
 0.0.0.0 automatischer-aktienhandel.de
@@ -9590,6 +9592,7 @@
 0.0.0.0 fahrraddampfle.de
 0.0.0.0 fahrradergeschaft.com
 0.0.0.0 fahrradersde.com
+0.0.0.0 fahrradersport.com
 0.0.0.0 fahrraderzukunft.com
 0.0.0.0 fahrradfreilaufde.com
 0.0.0.0 fahrradgeschaft-de.com
@@ -10678,6 +10681,7 @@
 0.0.0.0 foreststoneca.com
 0.0.0.0 forever-rock.com
 0.0.0.0 forever21-us.com
+0.0.0.0 foreverjoy.site
 0.0.0.0 forevermal.com
 0.0.0.0 forex-eze.com
 0.0.0.0 forex-eze.io
@@ -11478,6 +11482,7 @@
 0.0.0.0 gartenpicks.de
 0.0.0.0 gartenplus24.com
 0.0.0.0 gartenpools24.de
+0.0.0.0 gartenpools24.shop
 0.0.0.0 gartenquellede.com
 0.0.0.0 gartenrabatt.com
 0.0.0.0 gartenrasen.com
@@ -12637,6 +12642,7 @@
 0.0.0.0 gustamoda.se
 0.0.0.0 gustly.xyz
 0.0.0.0 gustorium.top
+0.0.0.0 gut-alpen.de
 0.0.0.0 gut-daheim.ch
 0.0.0.0 gut-werkzeug.com
 0.0.0.0 gutcwels.com
@@ -13458,6 +13464,7 @@
 0.0.0.0 hgoobtimio.cc
 0.0.0.0 hhb-garten.de
 0.0.0.0 hheexpot.com
+0.0.0.0 hhvmerch.com
 0.0.0.0 hi-goeedoo.com
 0.0.0.0 hi-tecschweiz.ch
 0.0.0.0 hiarts.store
@@ -14692,6 +14699,7 @@
 0.0.0.0 insanibadshop.com
 0.0.0.0 insecthi.com
 0.0.0.0 insecurty.top
+0.0.0.0 insekten.aktiv24.at
 0.0.0.0 insektnotdienst.at
 0.0.0.0 insfulion.com
 0.0.0.0 insider-investing.com
@@ -15862,6 +15870,7 @@
 0.0.0.0 kemarde.shop
 0.0.0.0 kemera.de
 0.0.0.0 kemeterac.com
+0.0.0.0 kemptenmodehaus.de
 0.0.0.0 kenada-reifen.com
 0.0.0.0 kendoraa.de
 0.0.0.0 kenjinew.com
@@ -16205,6 +16214,7 @@
 0.0.0.0 klingerdirndl.com
 0.0.0.0 klingshandel.de
 0.0.0.0 klirol.com
+0.0.0.0 kllfnauu.shop
 0.0.0.0 kloess-dental.shop
 0.0.0.0 klonl.shop
 0.0.0.0 klots.shop
@@ -18110,6 +18120,7 @@
 0.0.0.0 maapsouthafrica.co.za
 0.0.0.0 maapstore.shop
 0.0.0.0 maas-autoreifen.com
+0.0.0.0 maatfusion.com
 0.0.0.0 macdicbi.com
 0.0.0.0 mach-finca-urlaub.com
 0.0.0.0 mach-mallorca-urlaub.com
@@ -19416,6 +19427,7 @@
 0.0.0.0 mnmnmnc.com
 0.0.0.0 mnmnmne.com
 0.0.0.0 mnoramemeti.com
+0.0.0.0 mnsjmwyt.shop
 0.0.0.0 mnswellness.com
 0.0.0.0 moanaforyoudiscount.shop
 0.0.0.0 moaress.top
@@ -27503,6 +27515,7 @@
 0.0.0.0 skispeichern.com
 0.0.0.0 skisroxy.com
 0.0.0.0 skisurfskate.com
+0.0.0.0 skisurfsports.com
 0.0.0.0 skiverleih-bastl.de
 0.0.0.0 sklekaren.com
 0.0.0.0 sklum.com
@@ -28304,6 +28317,7 @@
 0.0.0.0 starsignsynergy.com
 0.0.0.0 starsshop-eu.com
 0.0.0.0 start.learn-english.education
+0.0.0.0 startrade.co
 0.0.0.0 startrendy.shop
 0.0.0.0 startshopfulfillment.de
 0.0.0.0 startswimca.com
@@ -29337,7 +29351,16 @@
 0.0.0.0 taloive.xyz
 0.0.0.0 talonergetic.com
 0.0.0.0 talvis-shop.de
+0.0.0.0 talvurieks-ai.at
+0.0.0.0 talvurieks-austria.at
+0.0.0.0 talvurieks-official-at.com
+0.0.0.0 talvurieks-official.co.at
+0.0.0.0 talvurieks-official.net
 0.0.0.0 talvurieks.at
+0.0.0.0 talvurieks.cloud
+0.0.0.0 talvurieks.com
+0.0.0.0 talvurieks.online
+0.0.0.0 talvurieks.org
 0.0.0.0 tamaraax.de
 0.0.0.0 tamaravanhalen.com
 0.0.0.0 tamaris-deutschland.com
@@ -30248,6 +30271,7 @@
 0.0.0.0 todswien.at
 0.0.0.0 toebowca.com
 0.0.0.0 toertchen.at
+0.0.0.0 tof.vproinvest.com
 0.0.0.0 togclothes.com
 0.0.0.0 togeronline.com
 0.0.0.0 together.purecap.xyz
@@ -30451,6 +30475,7 @@
 0.0.0.0 topapo24.com
 0.0.0.0 toparian.top
 0.0.0.0 topbinaryfx.com
+0.0.0.0 topbrokersranking.com
 0.0.0.0 topbyone.com
 0.0.0.0 topchicgeneral.com
 0.0.0.0 topcious.co
@@ -31415,6 +31440,11 @@
 0.0.0.0 urpillssupplier.com
 0.0.0.0 ursime.com
 0.0.0.0 ursulam.com
+0.0.0.0 urvlentoki-at.com
+0.0.0.0 urvlentoki-ie.com
+0.0.0.0 urvlentoki-platform.com
+0.0.0.0 urvlentoki.at
+0.0.0.0 urvlentoki.com
 0.0.0.0 urvous.com
 0.0.0.0 urvoustyle.com
 0.0.0.0 urvousx.com
@@ -32008,6 +32038,7 @@
 0.0.0.0 ventilatoroase.myshopify.com
 0.0.0.0 ventrafx.com
 0.0.0.0 ventrary.top
+0.0.0.0 ventus.energy
 0.0.0.0 venuecall.com
 0.0.0.0 venum-sale.shop
 0.0.0.0 venuso.shop
@@ -33252,6 +33283,7 @@
 0.0.0.0 wiemos-shop.de
 0.0.0.0 wiendomizil.at
 0.0.0.0 wienschmidt.at
+0.0.0.0 wiesbadenk.de
 0.0.0.0 wiesmann-mode.de
 0.0.0.0 wiesnkinder.de
 0.0.0.0 wievano.de
