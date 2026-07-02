@@ -2,10 +2,10 @@
 # Pi-hole DNS Blocklist: Watchlist Internet
 # Source: https://www.watchlist-internet.at/liste-betruegerischer-shops/csv/
 # Pi-hole Source: https://github.com/nice42q/watchlist-internet
-# Last update: 2026-07-01 04:56:16 UTC
+# Last update: 2026-07-02 04:32:43 UTC
 #
 # --- Analysis statistics for this update ---
-# Total valid domains:       34880
+# Total valid domains:       34895
 # Duplicate entries removed: 8
 # Invalid lines filtered:    2
 # -------------------------------------------
@@ -702,6 +702,7 @@
 ||aktion-motorrad.de^
 ||aktionen24.store^
 ||aktionheizung.de^
+||aktiv-personal.net^
 ||aktivabenteuer.de^
 ||aktivall.de^
 ||aktivanzug.com^
@@ -1906,6 +1907,7 @@
 ||at.esrlive.com^
 ||at.flexumgel-official.shop^
 ||at.gluconv.com^
+||at.hatme.de^
 ||at.hwduy.shop^
 ||at.irgedvei.shop^
 ||at.ketonaktiv.com^
@@ -3609,6 +3611,7 @@
 ||binsalut.com^
 ||bio-brennholz.de^
 ||bio-viertel.at^
+||bioaestheticshop.com^
 ||bioamsee.de^
 ||bioclicksicilia.it^
 ||bioen-tech.de^
@@ -6152,6 +6155,7 @@
 ||converseromaniaonline.top^
 ||converseschweiz.ch^
 ||converseusashop.com^
+||convert2.info^
 ||convertquick.net^
 ||conymonika.de^
 ||conywelpen.de^
@@ -8541,6 +8545,7 @@
 ||efaq.com^
 ||efast-shopping.com^
 ||efc-plasma.de^
+||efeublute.com^
 ||effectivecycle.com^
 ||effectsustainand.top^
 ||effectth.top^
@@ -9296,6 +9301,7 @@
 ||ethicamper.shop^
 ||ethikadeutschland.com^
 ||ethikaosterreich.com^
+||ethimostyle.com^
 ||ethlkadeutschland.com^
 ||ethnarium.top^
 ||ethoose.xyz^
@@ -9517,6 +9523,7 @@
 ||ewaherzog.shop^
 ||ewennet.com^
 ||ewige-seide.de^
+||ewigesleder.com^
 ||ewighair.com^
 ||ex-field.com^
 ||ex-sot.com^
@@ -11092,6 +11099,7 @@
 ||froddo.shop^
 ||froddoliefern.com^
 ||froehlich-keit.de^
+||frohepfoten.de^
 ||frohlands.de^
 ||frohschatz.com^
 ||frohwelt.de^
@@ -11371,7 +11379,6 @@
 ||gaborportugal.com^
 ||gaborpromo.com^
 ||gaborpromode.com^
-||gaborsale.com^
 ||gaborsandalebratislava.com^
 ||gaborsandalesparis.com^
 ||gaborsandalscanada.ca^
@@ -16150,6 +16157,7 @@
 ||khantherapie.de^
 ||khawein.com^
 ||khaymall.top^
+||khjugyu.shop^
 ||khoshbrands.com^
 ||khujoangebote.com^
 ||kiabrand.com^
@@ -16237,6 +16245,7 @@
 ||kindnessl.com^
 ||kindocshop.com^
 ||kindofskincare.com^
+||kindrucksackgarten.com^
 ||kindsoftools.com^
 ||kindundkrebs.eu^
 ||kinetship.top^
@@ -19846,6 +19855,7 @@
 ||moderwear.shop^
 ||modeschulte.de^
 ||modestover.com^
+||modestylebay.com^
 ||modetalente.com^
 ||modetopper.com^
 ||modetoulouse.com^
@@ -19885,6 +19895,7 @@
 ||moebeltrumpf.de^
 ||moebelundgarten.com^
 ||moebelundzubehoer.com^
+||moebelverlosung.de^
 ||moebelzone.com^
 ||moedllbahnlippe.shop^
 ||moelleraktivhof.de^
@@ -20721,6 +20732,7 @@
 ||nerdsaleet.shop^
 ||nerinternational.net^
 ||neroivr.com^
+||nerooflow.com^
 ||nerveillegems.org^
 ||nerz-gueckel-hno.de^
 ||nes-officiel.com^
@@ -21232,6 +21244,7 @@
 ||nordvian.com^
 ||nordyen.de^
 ||norethelabel.com^
+||norevialife.com^
 ||norfolkhotels24.com^
 ||norge-apt.com^
 ||norge-ed.com^
@@ -21313,6 +21326,7 @@
 ||novakgroup.online^
 ||novaloan.eu^
 ||novalyx.de^
+||novamenstruhilfe.de^
 ||novamoda-oslo.com^
 ||novamoda.de^
 ||novana-berlin.de^
@@ -28724,6 +28738,7 @@
 ||steedtrade.com^
 ||steelcabinetsonline.com^
 ||steelite-au.com^
+||steelmoebel.de^
 ||steelseries.com.de^
 ||steeltoolspro.com^
 ||steen-text.de^
