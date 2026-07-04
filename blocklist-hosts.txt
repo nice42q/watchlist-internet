@@ -1243,6 +1243,7 @@
 0.0.0.0 anguably.top
 0.0.0.0 angusz.com
 0.0.0.0 anhaenger-geraete.com
+0.0.0.0 anhaenger-gross.de
 0.0.0.0 anhaenger-von-thule.de
 0.0.0.0 anhaengerhandel-leipziig.de
 0.0.0.0 anhaengerkauf24.com
@@ -3948,6 +3949,7 @@
 0.0.0.0 bock-handel.de
 0.0.0.0 boclak.com
 0.0.0.0 bodario.com
+0.0.0.0 bodenverlegung-wien.at
 0.0.0.0 bodoschaeferakademie.shop
 0.0.0.0 bodshu.com
 0.0.0.0 body-gear.to
@@ -6403,6 +6405,7 @@
 0.0.0.0 crgshop.shop
 0.0.0.0 cribta.com
 0.0.0.0 cricuts.de
+0.0.0.0 criel.de
 0.0.0.0 criffincloset.com
 0.0.0.0 crillo.shop
 0.0.0.0 cringgit.com
@@ -7449,6 +7452,7 @@
 0.0.0.0 deutschersammlerschatz.com
 0.0.0.0 deutsches-gut.de
 0.0.0.0 deutscheschonheit.de
+0.0.0.0 deutschfollowup.cc
 0.0.0.0 deutschgeschenkfest.com
 0.0.0.0 deutschla.de
 0.0.0.0 deutschland-heizoelpreis.de
@@ -8226,6 +8230,7 @@
 0.0.0.0 durchschaubar.at
 0.0.0.0 durona.de
 0.0.0.0 duros.de
+0.0.0.0 duryoafe.shop
 0.0.0.0 dusanboldiwebstore.shop
 0.0.0.0 duschenexperte.com
 0.0.0.0 duscioadaul.club
@@ -8246,6 +8251,7 @@
 0.0.0.0 dwellcollect.com
 0.0.0.0 dwelldome.com
 0.0.0.0 dwellgallery.com
+0.0.0.0 dwellglory.com
 0.0.0.0 dwellhavenly.com
 0.0.0.0 dwellingix.com
 0.0.0.0 dwellinguse.com
@@ -12652,6 +12658,7 @@
 0.0.0.0 groundies-finland.com
 0.0.0.0 groundies-osterreich.com
 0.0.0.0 groundies-slovenija.com
+0.0.0.0 groundies.at
 0.0.0.0 groundiesbarefootschweiz.com
 0.0.0.0 groundiesblackfriday.com
 0.0.0.0 groundiesdamen.de
@@ -13375,6 +13382,7 @@
 0.0.0.0 heimwerkzeugladen.com
 0.0.0.0 heine-reifen.com
 0.0.0.0 heinkelmasch.de
+0.0.0.0 heinrich-handel.com
 0.0.0.0 heinso.shop
 0.0.0.0 heira-deutschland.com
 0.0.0.0 heirloom-us.com
@@ -14581,6 +14589,8 @@
 0.0.0.0 icosality.top
 0.0.0.0 icprc.tcs-rud.com
 0.0.0.0 ictholder.com
+0.0.0.0 id-austria.at-bmf-gv-uberprufung.com
+0.0.0.0 id-austria.bmf-gv-at.com
 0.0.0.0 idabitar.com
 0.0.0.0 idaffodil.shop
 0.0.0.0 idailyshop.com
@@ -15007,6 +15017,7 @@
 0.0.0.0 intimateimports.com
 0.0.0.0 intimewatches.de
 0.0.0.0 intimissimi-osterreich.at
+0.0.0.0 intimissimiat.at
 0.0.0.0 intimissimiaustria.at
 0.0.0.0 intoheair.com
 0.0.0.0 intonationu.com
@@ -15372,6 +15383,8 @@
 0.0.0.0 jellycatosterreich.at
 0.0.0.0 jellycats.de
 0.0.0.0 jellylight.at
+0.0.0.0 jelvruvozan-ie.com
+0.0.0.0 jelvruvozan.fr
 0.0.0.0 jemworrall.com
 0.0.0.0 jen-yoga.de
 0.0.0.0 jengagewave.com
@@ -16262,6 +16275,7 @@
 0.0.0.0 kingfinds.de
 0.0.0.0 kingjober.xyz
 0.0.0.0 kingofbuy.com
+0.0.0.0 kingofindigo.com
 0.0.0.0 kingrack.com
 0.0.0.0 kingseven-shop.com
 0.0.0.0 kingsevenshop.de
@@ -16448,6 +16462,7 @@
 0.0.0.0 klima-bonus.app
 0.0.0.0 klimabonus-2026.net
 0.0.0.0 klimabonus2026.at
+0.0.0.0 klimageld-2026.cc
 0.0.0.0 klimahaus.myshopify.com
 0.0.0.0 klimakaelteprofi.com
 0.0.0.0 klimapraemie-2026.cc
@@ -19128,6 +19143,7 @@
 0.0.0.0 meindeinhaus.de
 0.0.0.0 meindiscount.store
 0.0.0.0 meindl--schuhe.com
+0.0.0.0 meindlaustria.at
 0.0.0.0 meindlosterreich.at
 0.0.0.0 meindls.at
 0.0.0.0 meindlsales.com
@@ -19732,6 +19748,7 @@
 0.0.0.0 mobelonlineshop24.com
 0.0.0.0 mobelprada-de.com
 0.0.0.0 mobelspeichern-de.com
+0.0.0.0 mobelwohnen.com
 0.0.0.0 mobelzuhause.com
 0.0.0.0 mobetrix.com
 0.0.0.0 mobiche.com
@@ -20022,6 +20039,7 @@
 0.0.0.0 moodcheerful.com
 0.0.0.0 moodlily.de
 0.0.0.0 moodofthecity.com
+0.0.0.0 moodors.shop
 0.0.0.0 mooje.de
 0.0.0.0 mooje.eu
 0.0.0.0 moonalright.com
@@ -20099,6 +20117,7 @@
 0.0.0.0 motionwish.com
 0.0.0.0 motivatew.com
 0.0.0.0 motivationlinkca.com
+0.0.0.0 motivoebike.com
 0.0.0.0 moto-discounts-germany.com
 0.0.0.0 moto-teile24.com
 0.0.0.0 motoadren.com
@@ -22379,6 +22398,7 @@
 0.0.0.0 ornamentli.com
 0.0.0.0 ornamenttoy.com
 0.0.0.0 orrebol.com
+0.0.0.0 ortexgruppe.com
 0.0.0.0 ortho-magazin.de
 0.0.0.0 ortho-pulse.de
 0.0.0.0 ortho-shoes.at
@@ -23634,6 +23654,7 @@
 0.0.0.0 plorian.top
 0.0.0.0 ploryday.com
 0.0.0.0 plosoutan.top
+0.0.0.0 plovurikant.at
 0.0.0.0 pltechsarl.top
 0.0.0.0 pluckno.com
 0.0.0.0 plumbcrazywife.com
@@ -26817,6 +26838,7 @@
 0.0.0.0 schulze-reifen.com
 0.0.0.0 schulze1.myshopify.com
 0.0.0.0 schumacher-autoreifen.shop
+0.0.0.0 schumann-markt.com
 0.0.0.0 schumann-reifen.com
 0.0.0.0 schurianpartner.at
 0.0.0.0 schusselprada.com
@@ -27033,6 +27055,7 @@
 0.0.0.0 selmarketool.shop
 0.0.0.0 selorentiva.com
 0.0.0.0 selphymade.de
+0.0.0.0 selvorinai.net
 0.0.0.0 sem-solar.de
 0.0.0.0 semahomesale.com
 0.0.0.0 seminariovirtual.org
@@ -27864,6 +27887,7 @@
 0.0.0.0 skechersshop.at
 0.0.0.0 skecherstoresbest.de
 0.0.0.0 skelett-neu.com
+0.0.0.0 skelvurizont.at
 0.0.0.0 skf-logistics.com
 0.0.0.0 skfveckc.shop
 0.0.0.0 ski-apparel.com
@@ -29956,6 +29980,7 @@
 0.0.0.0 teiip.com
 0.0.0.0 teilbetreuteswohnen.at
 0.0.0.0 teilefahrradde.com
+0.0.0.0 teilradln.com
 0.0.0.0 teilwerkstatt.com
 0.0.0.0 tekimek.com
 0.0.0.0 tekmariss.com
@@ -30697,6 +30722,7 @@
 0.0.0.0 togetherrxacces.com
 0.0.0.0 toijoshd.com
 0.0.0.0 toitious.top
+0.0.0.0 tokbit.site
 0.0.0.0 tokblog.site
 0.0.0.0 tokeal.shop
 0.0.0.0 token-openai.com
@@ -32172,6 +32198,7 @@
 0.0.0.0 uszonestylish.com
 0.0.0.0 utahforkliftcompanyltd.shop
 0.0.0.0 utangwiki.com
+0.0.0.0 ute.investporfolio.com
 0.0.0.0 utilitech-anhaenger.com
 0.0.0.0 utlcm.noborn.com
 0.0.0.0 uttasheilerpraxis.de
