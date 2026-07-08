@@ -2,10 +2,10 @@
 # Pi-hole DNS Blocklist: Watchlist Internet
 # Source: https://www.watchlist-internet.at/liste-betruegerischer-shops/csv/
 # Pi-hole Source: https://github.com/nice42q/watchlist-internet
-# Last update: 2026-07-07 04:26:57 UTC
+# Last update: 2026-07-08 03:48:39 UTC
 #
 # --- Analysis statistics for this update ---
-# Total valid domains:       34997
+# Total valid domains:       35021
 # Duplicate entries removed: 8
 # Invalid lines filtered:    2
 # -------------------------------------------
@@ -668,6 +668,7 @@
 ||aisope.at^
 ||aiwishop.com^
 ||aix-bicycle.com^
+||aiyaphorm.at^
 ||ajar.shop^
 ||ajf-bike.de^
 ||ajfm.org^
@@ -986,6 +987,7 @@
 ||alpinex.at^
 ||alpinmotorcy.com^
 ||alpinvolt.de^
+||alpivesta.net^
 ||alpivogue.ch^
 ||alpstep.com^
 ||alro-stahlbau.de^
@@ -5169,6 +5171,7 @@
 ||cdwar.printscan.shop^
 ||ceagleon.com^
 ||cebestore.com^
+||cebuporn.com^
 ||cecglobalwholesales.com^
 ||cecil-marken.com^
 ||cecilaktion.de^
@@ -5277,6 +5280,7 @@
 ||chabgyu.shop^
 ||chabrie-verpackung.de^
 ||chacodeutschland.de^
+||chacos.at^
 ||chacoschuhe.com^
 ||chacosdeutschland.de^
 ||chafsap.com^
@@ -10264,6 +10268,7 @@
 ||fettverbrenneronline.com^
 ||feuchtigkeits.de^
 ||feuerbergplus.com^
+||feuerundgrill.myshopify.com^
 ||feuerwehr-oberaussem.de^
 ||feuerwehr-vehlen.de^
 ||fewelectric.com^
@@ -15372,6 +15377,7 @@
 ||jbl-deutschland.de^
 ||jblaga.top^
 ||jblat.at^
+||jblaustria.com^
 ||jblonline.store^
 ||jboonenp.com^
 ||jbschultis.com^
@@ -16839,6 +16845,7 @@
 ||kugelbahnshop.at^
 ||kuhlecke.de^
 ||kuhlgermany.com^
+||kuhlhaus-de.shop^
 ||kuhlmann-rechtsanwaelte.com^
 ||kuhlmann-rechtsanwaelte.de^
 ||kuhlmann-rechtsanwaelte.net^
@@ -17990,6 +17997,7 @@
 ||longchamposterrelch.com^
 ||longchomp.de.com^
 ||longmatchca.com^
+||longrunfood.com^
 ||longtime-gothic.de^
 ||longtoouk.com^
 ||lonoakwostore.com^
@@ -19505,6 +19513,7 @@
 ||middlewill.com^
 ||midea-deutschland.com^
 ||midea-europe.de^
+||midea-germany.de^
 ||midea-klima.de^
 ||mideadeutschland.de^
 ||midformsandalen.net^
@@ -21444,6 +21453,7 @@
 ||npowieki.com^
 ||nprojuara.com^
 ||nqior.shop^
+||nrer.shop^
 ||nrnpd.com^
 ||nsaasem.com^
 ||nsebtik.com^
@@ -22083,6 +22093,7 @@
 ||onlinedkny.com^
 ||onlinedogfood.store^
 ||onlinedoll-toy.com^
+||onlineeba.com^
 ||onlinefixedblade.com^
 ||onlineflamencoguitar.com^
 ||onlineforyou.net^
@@ -22156,6 +22167,7 @@
 ||onrunnergermany.com^
 ||onrunnersitalia.com^
 ||onrunning-at.myshoplaza.com^
+||onrunning-eu.myshoplaza.com^
 ||onrunning-osterreich.at^
 ||onrunning-shop.myshoplaza.com^
 ||onrunning001.myshoplaza.com^
@@ -22391,6 +22403,7 @@
 ||ordinarlim.com^
 ||ordinaryh.com^
 ||ordinaryi.com^
+||ordnungpro.com^
 ||ordtic.top^
 ||oreahome.de^
 ||oreal-crdt.online^
@@ -23785,6 +23798,7 @@
 ||pokemoncenter.com.de^
 ||pokeota.shop^
 ||pokeotade.shop^
+||pokepoint.shop^
 ||pokezonetcg.com^
 ||pokkia.com^
 ||polanishop.com^
@@ -25589,6 +25603,7 @@
 ||riddingglovesprada.com^
 ||ride-supply.com^
 ||rideessence.com^
+||ridefusiongear.com^
 ||ridegefuhl.de^
 ||ridekraft.de^
 ||ridelbergu.de^
@@ -26025,6 +26040,7 @@
 ||rudergerat.myshopify.com^
 ||rudiger-versand.de^
 ||rudolf-karl.de^
+||rudolphmaschine.de^
 ||rudyerickson.space^
 ||rueboo.com^
 ||rueckwaertssuche.de^
@@ -27188,6 +27204,7 @@
 ||servierenshop.com^
 ||sesiyes.top^
 ||sesselde.com^
+||sesuifxu.shop^
 ||setar.top^
 ||seteous.xyz^
 ||setfahrradtrikot.com^
@@ -28668,6 +28685,7 @@
 ||sprachgenie.at^
 ||sprachreiseshop.de^
 ||sprayitonyou.com^
+||spreach.de^
 ||spreewaldkiste.shop^
 ||sprengler-direkt.de^
 ||spring-exp.com^
@@ -29166,6 +29184,7 @@
 ||strom-versorgungen.de^
 ||stromverkehr.shop^
 ||stromverkehrde.shop^
+||stromzone.com^
 ||strong-toys.com^
 ||strongagainca.com^
 ||strongerski.com^
@@ -29787,6 +29806,7 @@
 ||tacticalfiring.com^
 ||tacticalknifedepot.com^
 ||tacticalknifepro.com^
+||tadauswelpen.de^
 ||taegliches-brot.at^
 ||taffetaandtattoos.com^
 ||tagalots.com^
@@ -29977,6 +29997,7 @@
 ||teaspoonca.com^
 ||tech-porta.de^
 ||tech-sikora.de^
+||tech.eco-outils.com^
 ||techaccessoriesshop.com^
 ||techdata-promo.at^
 ||techfleeece.com^
@@ -33262,6 +33283,7 @@
 ||waistwe.com^
 ||waitek.shop^
 ||wakeboardde.com^
+||wakritransport.com^
 ||wal24.de^
 ||walbaum-brennholz.com^
 ||waldbeutede.shop^
@@ -33709,6 +33731,7 @@
 ||wernersweinwelt.shop^
 ||wertalmpro.at^
 ||wertexmarkt.de^
+||wertovia.com^
 ||wertvollewelpenzuradoption.com^
 ||wesiou.com^
 ||westcinch.com^
@@ -34553,6 +34576,7 @@
 ||yoolo.shop^
 ||yooofa.com^
 ||yooso.de^
+||yootet.com^
 ||yorky.site^
 ||yortree.com^
 ||yoselt.de^
