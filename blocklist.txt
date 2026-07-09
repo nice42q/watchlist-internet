@@ -2,10 +2,10 @@
 # Pi-hole DNS Blocklist: Watchlist Internet
 # Source: https://www.watchlist-internet.at/liste-betruegerischer-shops/csv/
 # Pi-hole Source: https://github.com/nice42q/watchlist-internet
-# Last update: 2026-07-08 03:48:39 UTC
+# Last update: 2026-07-09 04:16:13 UTC
 #
 # --- Analysis statistics for this update ---
-# Total valid domains:       35021
+# Total valid domains:       35034
 # Duplicate entries removed: 8
 # Invalid lines filtered:    2
 # -------------------------------------------
@@ -2121,6 +2121,7 @@
 ||autoexpertpartshop.com^
 ||autogearlabflow.com^
 ||autoglobalshipping.com^
+||autohaus-ferkl.de^
 ||autohausbismuth.de^
 ||autohauselsdorf.de^
 ||autohausfuerst.de^
@@ -5714,6 +5715,7 @@
 ||cleanavio.com^
 ||cleancarpet.store^
 ||cleancorner.store^
+||cleaningproductsshop.com^
 ||cleanserprada.com^
 ||clearance--store.com^
 ||clearance-kitchen.com^
@@ -7086,6 +7088,7 @@
 ||decleaners.de^
 ||decohousely.com^
 ||decokento.com^
+||deconestprolab.com^
 ||decoopy.com^
 ||decoratem.com^
 ||decoratende.de^
@@ -8795,6 +8798,7 @@
 ||elektronlinestore.com^
 ||elektroschanze.com^
 ||elektrosde.com^
+||elektrosparkvien.com^
 ||elektrosuess.at^
 ||elektrotech24.de^
 ||elektrotop-shop.com^
@@ -9497,6 +9501,7 @@
 ||evansdplaw.com^
 ||evas-schmuck.com^
 ||evastamatova.com^
+||evavana.com^
 ||evbam.com^
 ||eve-lan.de^
 ||eveatmead.com^
@@ -11932,6 +11937,7 @@
 ||gesundheits-apo.com^
 ||gesundheitsaarland.de^
 ||gesundheitsbucher.com^
+||gesundheitsfor.de^
 ||gesundheitskontrolle.com^
 ||gesundmedizinische.com^
 ||gesundpur.at^
@@ -18032,6 +18038,7 @@
 ||lorana.de^
 ||lorcnsee.lol^
 ||lorealwear.com^
+||loreaofficial.shop^
 ||loreeskin.de^
 ||lorensyl.com^
 ||lori24.de^
@@ -19512,6 +19519,7 @@
 ||midasmarkt.com^
 ||middlewill.com^
 ||midea-deutschland.com^
+||midea-deutschland.de^
 ||midea-europe.de^
 ||midea-germany.de^
 ||midea-klima.de^
@@ -19915,6 +19923,7 @@
 ||modernashoes.com^
 ||modernegartenmobel.com^
 ||modernhome-pro.com^
+||modernlampart.com^
 ||modernlightus.com^
 ||modernmodehaus.com^
 ||modernoutdoorstandard.de^
@@ -20712,6 +20721,7 @@
 ||nauticwerk.com^
 ||nautikbedarf.com^
 ||navadexamazon.com^
+||navando.nl^
 ||navaro-shop.de^
 ||navbe.de^
 ||navigatil.store^
@@ -24542,6 +24552,7 @@
 ||qgreentechnology.com^
 ||qgripsearwax.com^
 ||qhgest.com^
+||qhvltajo.shop^
 ||qhzshcku.shop^
 ||qidi3d.com^
 ||qievpfhz.shop^
@@ -28015,6 +28026,7 @@
 ||skydeuce.com^
 ||skygarden.digital^
 ||skygateholding.uk^
+||skynore.de^
 ||skyoivest.shop^
 ||skyolines.com^
 ||skypetmovin.com^
@@ -33870,6 +33882,7 @@
 ||wildlingshoes-germany.com^
 ||wildlingshoes-nl.com^
 ||wildlingshoes-schweiz.com^
+||wildlingshoes.cc^
 ||wildlingshoes.cz^
 ||wildlingshoesaustralia.com^
 ||wildlingshoescanada.com^
