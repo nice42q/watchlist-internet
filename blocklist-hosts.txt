@@ -4327,6 +4327,7 @@
 0.0.0.0 brightter-fld.com
 0.0.0.0 brightwayv.com
 0.0.0.0 brigittebayr.de
+0.0.0.0 brikebrain.digital
 0.0.0.0 brilliant-blazers.net
 0.0.0.0 brilliant-photo.com
 0.0.0.0 brilliantbuildingj.com
@@ -6959,6 +6960,7 @@
 0.0.0.0 de.mahertech24.com
 0.0.0.0 de.mammotion.com
 0.0.0.0 de.markusdrueppel.com
+0.0.0.0 de.moravon.com
 0.0.0.0 de.mysalights.com
 0.0.0.0 de.nbynicole.com
 0.0.0.0 de.nikefreernoutlet.com
@@ -7139,7 +7141,6 @@
 0.0.0.0 degussa-onlineshop.de
 0.0.0.0 degussa-page.de
 0.0.0.0 degussa.one
-0.0.0.0 degussaonline.de
 0.0.0.0 dehaushalt-prada.com
 0.0.0.0 dehaushaltszentrum.com
 0.0.0.0 dehaustierbedarf.com
@@ -7320,6 +7321,7 @@
 0.0.0.0 depotlamps.com
 0.0.0.0 depotmenswear.com
 0.0.0.0 depotmotorcycle.com
+0.0.0.0 depotonlinestore.com
 0.0.0.0 depotsnow.com
 0.0.0.0 depotstationery.com
 0.0.0.0 depoz.company
@@ -8877,6 +8879,7 @@
 0.0.0.0 elo-cc.de
 0.0.0.0 eloisetonerr.com
 0.0.0.0 elon22.com
+0.0.0.0 eloneohome.shop
 0.0.0.0 eloquentn.com
 0.0.0.0 elottobuddy.com
 0.0.0.0 eloyguerra.com
@@ -9025,7 +9028,6 @@
 0.0.0.0 engeliebe.de
 0.0.0.0 engelke-reifen.com
 0.0.0.0 engels-mode.com
-0.0.0.0 engelsherz.com
 0.0.0.0 engelspellets.com
 0.0.0.0 engelswelpenhaus.de
 0.0.0.0 engineapp.sbs
@@ -13016,6 +13018,7 @@
 0.0.0.0 hampel.shop
 0.0.0.0 hamuelmaschinen.com
 0.0.0.0 hamurgrlakprofi.shop
+0.0.0.0 han3szd2ork.com
 0.0.0.0 hanazimu.com
 0.0.0.0 handarbeitenkaess.de
 0.0.0.0 handbagbrandsonline.com
@@ -13422,6 +13425,7 @@
 0.0.0.0 heiseno.de
 0.0.0.0 heissmanns.de
 0.0.0.0 heiz-oel24.com
+0.0.0.0 heiz-partner24.de
 0.0.0.0 heiz-pellets24.com
 0.0.0.0 heiz-smart.de
 0.0.0.0 heiz-traum.com
@@ -16155,6 +16159,7 @@
 0.0.0.0 keotgmbh.com
 0.0.0.0 keppey.com
 0.0.0.0 keramikkde.pro
+0.0.0.0 kern-recht.de
 0.0.0.0 kern-reifenversand.shop
 0.0.0.0 kernekom.com
 0.0.0.0 kernvogel.com
@@ -17842,6 +17847,7 @@
 0.0.0.0 liviaberlin.de
 0.0.0.0 liviafood.shop
 0.0.0.0 livicy.de
+0.0.0.0 living-smarter24.com
 0.0.0.0 livingbestsellers.com
 0.0.0.0 livingcatnapper.com
 0.0.0.0 livingchamonix.com
@@ -19512,6 +19518,7 @@
 0.0.0.0 midea-europe.de
 0.0.0.0 midea-germany.de
 0.0.0.0 midea-klima.de
+0.0.0.0 midea-portasplit.com
 0.0.0.0 mideadeutschland.de
 0.0.0.0 midformsandalen.net
 0.0.0.0 midikleider.com
@@ -21310,6 +21317,7 @@
 0.0.0.0 nordikb.com
 0.0.0.0 nordischesdesign.com
 0.0.0.0 nordjarl.shop
+0.0.0.0 nordmodehaus.com
 0.0.0.0 nordoil.de
 0.0.0.0 nordoutlets.com
 0.0.0.0 nordperlen-verchen.de
@@ -21438,6 +21446,7 @@
 0.0.0.0 novira-zurich.ch
 0.0.0.0 novirastore.com
 0.0.0.0 novo-consult.com
+0.0.0.0 novolo.shop
 0.0.0.0 now.illegalstore.xyz
 0.0.0.0 nowadayse.com
 0.0.0.0 nowbuyb.com
@@ -27977,6 +27986,7 @@
 0.0.0.0 skims.at
 0.0.0.0 skimsschweiz.com
 0.0.0.0 skina.nu
+0.0.0.0 skincarelimit.com
 0.0.0.0 skincareshophd.com
 0.0.0.0 skincci.net
 0.0.0.0 skinfleur.ae
@@ -28681,6 +28691,7 @@
 0.0.0.0 sportymenswear.com
 0.0.0.0 sportyraiment.com
 0.0.0.0 spotiifyprimesnova.ct.ws
+0.0.0.0 spotsound.fr
 0.0.0.0 spowo.at
 0.0.0.0 sppulsar.shop
 0.0.0.0 sprachgenie.at
@@ -32422,6 +32433,7 @@
 0.0.0.0 varonovo.de
 0.0.0.0 varoza.de
 0.0.0.0 vartis.at
+0.0.0.0 varulo.de
 0.0.0.0 vasagleangebote.de
 0.0.0.0 vasagleaugeschaft.com
 0.0.0.0 vasaglede.com
