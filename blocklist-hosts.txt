@@ -189,6 +189,7 @@
 0.0.0.0 ablefashionable.com
 0.0.0.0 ableory.xyz
 0.0.0.0 abm-industrie.com
+0.0.0.0 abmdistrib.com
 0.0.0.0 abnehmenapothekeonline.com
 0.0.0.0 abo-schnapper.de
 0.0.0.0 aboalyislam.com
@@ -6336,6 +6337,7 @@
 0.0.0.0 coxwainu.top
 0.0.0.0 coxyaivp.top
 0.0.0.0 coxycode.com
+0.0.0.0 cozeymaison.com
 0.0.0.0 cozeymaison.de
 0.0.0.0 cozislides.com
 0.0.0.0 cozy-christmascottage.com
@@ -8718,6 +8720,7 @@
 0.0.0.0 electrodeal.shop
 0.0.0.0 electrogaiety.com
 0.0.0.0 electrokaufen.de
+0.0.0.0 electrolager.de
 0.0.0.0 electronic-rc.com
 0.0.0.0 electronicade.com
 0.0.0.0 electronicaudio.store
@@ -15792,6 +15795,7 @@
 0.0.0.0 kadonimo.de
 0.0.0.0 kadoshops.de
 0.0.0.0 kaegreel.com
+0.0.0.0 kaelte-bringer.de
 0.0.0.0 kaelte-held.com
 0.0.0.0 kaermodz.com
 0.0.0.0 kaernten-bewegt.at
@@ -16499,6 +16503,7 @@
 0.0.0.0 klima-bonus.app
 0.0.0.0 klimabonus-2026.net
 0.0.0.0 klimabonus2026.at
+0.0.0.0 klimag.myshopify.com
 0.0.0.0 klimageld-2026.cc
 0.0.0.0 klimahaus.myshopify.com
 0.0.0.0 klimakaelteprofi.com
@@ -17260,6 +17265,7 @@
 0.0.0.0 lcgform.com
 0.0.0.0 lcimburk.com
 0.0.0.0 lcm-markets.com
+0.0.0.0 lcminvesting.com
 0.0.0.0 lcmotivee.com
 0.0.0.0 lcrownlady.com
 0.0.0.0 ldecalog.com
@@ -17515,6 +17521,7 @@
 0.0.0.0 levitraeurope.com
 0.0.0.0 levoda.de
 0.0.0.0 levoit.co.at
+0.0.0.0 levorelio.net
 0.0.0.0 levuna.ch
 0.0.0.0 lewitznetzwerk.de
 0.0.0.0 lex-lim.com
@@ -17951,6 +17958,7 @@
 0.0.0.0 loefflerrandallus.com
 0.0.0.0 loerce.com
 0.0.0.0 loevass.com
+0.0.0.0 loewe-osterreich.com
 0.0.0.0 loewe-vom-sauerland.de
 0.0.0.0 loewedeutschland.de
 0.0.0.0 lofboutique.lilshydasia.com
@@ -18683,6 +18691,7 @@
 0.0.0.0 manlyhost.com
 0.0.0.0 mannerapotheke24.com
 0.0.0.0 mannheimmodehaus.com
+0.0.0.0 mannstil.com
 0.0.0.0 manoloblahnik-osterreich.com
 0.0.0.0 manonjipnzz.com
 0.0.0.0 manorchfr.com
@@ -20834,6 +20843,7 @@
 0.0.0.0 net-inkasso.de
 0.0.0.0 net-profit.eu
 0.0.0.0 net.ipdwio.com
+0.0.0.0 netatmo.com.de
 0.0.0.0 netcomsip.com
 0.0.0.0 netherlands.gluconol-capsules.com
 0.0.0.0 netlfix-at.com
@@ -26001,6 +26011,7 @@
 0.0.0.0 rpmsxsde.shop
 0.0.0.0 rpods.shop
 0.0.0.0 rprojetarte.com
+0.0.0.0 rqhtyztv.shop
 0.0.0.0 rra-time.com
 0.0.0.0 rreplace.com
 0.0.0.0 rromaakt.de
