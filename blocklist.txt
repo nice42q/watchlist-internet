@@ -2,10 +2,10 @@
 # Pi-hole DNS Blocklist: Watchlist Internet
 # Source: https://www.watchlist-internet.at/liste-betruegerischer-shops/csv/
 # Pi-hole Source: https://github.com/nice42q/watchlist-internet
-# Last update: 2026-07-11 03:45:52 UTC
+# Last update: 2026-07-14 03:39:20 UTC
 #
 # --- Analysis statistics for this update ---
-# Total valid domains:       35057
+# Total valid domains:       35102
 # Duplicate entries removed: 8
 # Invalid lines filtered:    2
 # -------------------------------------------
@@ -1743,6 +1743,12 @@
 ||artycart.site^
 ||arulnathan.com^
 ||arvato-entertainment.de^
+||arvulonikanz-belgium.com^
+||arvulonikanz-netherlands.com^
+||arvulonikanz.com^
+||arvulonikanz.net^
+||arvulonikanz.org^
+||arvulonikanz.tech^
 ||arwibon.us^
 ||arxvple.com^
 ||aryachaiy.com^
@@ -2764,6 +2770,7 @@
 ||bavierth.shop^
 ||bavocan.com^
 ||bawitec.shop^
+||bawqpou.shop^
 ||baxmusic-sale.sa.com^
 ||baxtoninteriors.com^
 ||baya-bikini.de^
@@ -3489,6 +3496,7 @@
 ||bikecomponents24.de^
 ||bikecomponentsde.com^
 ||bikecozy.com^
+||bikecube.de^
 ||bikedealfactory.com^
 ||bikedevilzde.shop^
 ||bikeequipmentdepot.com^
@@ -3830,6 +3838,7 @@
 ||blastafinance.com^
 ||blastashop.com^
 ||blattberlin.com^
+||blattbucht.de^
 ||blaudonau.com^
 ||blaudonau.de^
 ||blaudonu.de^
@@ -4502,6 +4511,7 @@
 ||budiers.com^
 ||budo-walsrode.de^
 ||buecher-falten.at^
+||buecherfreund.com^
 ||bueliketon.net^
 ||buenger-lang.de^
 ||buenodeutschland.de^
@@ -5931,6 +5941,7 @@
 ||coffeeshopus.com^
 ||coffeetablede.com^
 ||coforallplus.com^
+||cogesal-miko.com^
 ||cognissa.com^
 ||cognitiveloop.org^
 ||coin-masterpro.com^
@@ -7343,6 +7354,7 @@
 ||der-fuchs.at^
 ||der-grune-schwamm.com^
 ||der-notarzt.at^
+||der-schnapsstodlsale.com^
 ||der-tonershop.de^
 ||derabatte.de^
 ||derabattfahrrad.com^
@@ -7433,6 +7445,7 @@
 ||desmoheart.com^
 ||desoccermode.com^
 ||desovmaster.com^
+||despachoca.com^
 ||despiertaverde.com^
 ||desportartikelrabatt.com^
 ||dessertdhopping.store^
@@ -8004,6 +8017,7 @@
 ||dosiman.shop^
 ||dosnowwear.com^
 ||dosoar-tech.de^
+||dotloveculture.com^
 ||dotmalls.com^
 ||dottyanddande.shop^
 ||dotuant.com^
@@ -8177,6 +8191,7 @@
 ||druvia.shop^
 ||drxon.de^
 ||drybox-innov.com^
+||drykorngeschaft.com^
 ||dryredwineshop.com^
 ||dsabunbadang.shop^
 ||dsc-logistic.com^
@@ -8623,6 +8638,7 @@
 ||ehrruhig.de^
 ||ehspelletsgmbh.de^
 ||ehwsgh.shop^
+||eichborn-berlin.de^
 ||eichholtzdeals.com^
 ||eichler-reifenversand.com^
 ||eichner-haushalt.com^
@@ -10375,6 +10391,7 @@
 ||finallyabsent.com^
 ||finalsales.shop^
 ||finance-pioneers.de^
+||finance91-eum55.sbs^
 ||financeline-group.co^
 ||financerevision.de^
 ||financialccessbenefits.com^
@@ -11350,6 +11367,7 @@
 ||g7shop.lol^
 ||ga-te.top^
 ||gaballo-handel.de^
+||gabelglanz.de^
 ||gabelnshop.com^
 ||gabion24.de^
 ||gabor-factory-outlet.com^
@@ -11828,6 +11846,7 @@
 ||gengyunwatch.com^
 ||genialkitchen.com^
 ||genialoff.com^
+||genieskauf.de^
 ||geniewelle.net^
 ||geniusfrank.website^
 ||geniusfxmaket.com^
@@ -11950,6 +11969,7 @@
 ||get-airzuma.com^
 ||get-akusoli.com^
 ||get-baseballstore.com^
+||get-coolizicoolzy.store^
 ||get-curaball.com^
 ||get-epicooler.com^
 ||get-fizzclean.com^
@@ -13231,6 +13251,7 @@
 ||haus-stmartin.de^
 ||haus-wein.com^
 ||haus-winterfeld.de^
+||haus.volksbarnk-at.site^
 ||hausannette.de^
 ||hausbulle.de^
 ||hausdampf.com^
@@ -13551,6 +13572,7 @@
 ||helldivers-merch.com^
 ||helle-klevens.shop^
 ||helleklevende.shop^
+||heller-rasenmaeher.com^
 ||hellermodus.com^
 ||hellertag.de^
 ||hello-mausi.de^
@@ -16087,6 +16109,7 @@
 ||kckmoneyy.com^
 ||kckocv.shop^
 ||kcsknightso.com^
+||kcttjctl.shop^
 ||kcypacking.com^
 ||kddgf.mebbx.com^
 ||kdoqlibh.shop^
@@ -16318,6 +16341,7 @@
 ||kindrucksackgarten.com^
 ||kindsoftools.com^
 ||kindundkrebs.eu^
+||kineticsportsland.shop^
 ||kinetship.top^
 ||kinevasculaire.com^
 ||kingbabystudide.shop^
@@ -16470,6 +16494,7 @@
 ||klassischesfahrradneu.com^
 ||klaudora.com^
 ||klauenpflegeschmid.de^
+||klaurboutik.shop^
 ||klaus-autoreifen.com^
 ||klaus-ziegert.de^
 ||klausalten.de^
@@ -16519,6 +16544,7 @@
 ||klimahaus.myshopify.com^
 ||klimakaelteprofi.com^
 ||klimapraemie-2026.cc^
+||klimawelts.com^
 ||klimmotorrad.com^
 ||kling-rasenmaher.com^
 ||klingerdirndl.com^
@@ -16797,6 +16823,7 @@
 ||krueger-dirndleu.shop^
 ||kruegerfest.de^
 ||kruegermadl.de^
+||kruegeroutlet.de^
 ||kruegertracht.de^
 ||kruegertrachten.de^
 ||krug-reifenhandel.com^
@@ -16936,6 +16963,7 @@
 ||kylyn2021.com^
 ||kyma-store.de^
 ||kynaz10fashion.com^
+||kynebeauty.de^
 ||kynubeauty.de^
 ||kyoshorc.com^
 ||kytoelektro.com^
@@ -18452,6 +18480,7 @@
 ||m.bit2meua.com^
 ||m.blockchaintransactions.cc^
 ||m.daefox.com^
+||m.genieskauf.de^
 ||m.gluschwein.de^
 ||m.hotacryptovip.com^
 ||m.kaufjoy.de^
@@ -19247,6 +19276,7 @@
 ||meintechnik.de^
 ||meintherapiedecken.de^
 ||meinwarenhaus.com^
+||meirne-bank99-at.site^
 ||meishops.top^
 ||meissner-baustoffhandel.de^
 ||meister-mode.de^
@@ -21196,6 +21226,7 @@
 ||nilnook.de^
 ||nils-brennholz.com^
 ||nimblecurl.com^
+||nimbusfuchs.com^
 ||nimoil.de^
 ||nina-nicole.de^
 ||ninaldst.com^
@@ -22545,6 +22576,7 @@
 ||osterreichschuheshop.com^
 ||osterreichschuheshops.com^
 ||ostiair.xyz^
+||ostyro.myshopify.com^
 ||osuparva.com^
 ||osuraring.com^
 ||oswald-juergens24.de^
@@ -24331,6 +24363,7 @@
 ||propertisz.com^
 ||property-24.com^
 ||property-era.com^
+||propertydamagehomeclaimtips.com^
 ||propinquiu.top^
 ||propitiouspantry.com^
 ||propitiousprospects.com^
@@ -24924,6 +24957,7 @@
 ||rasenmaherwendik.de^
 ||rasenmarkt.com^
 ||rasenmotor.com^
+||rasenrobo.com^
 ||rasenshop24.com^
 ||rasenstolz.com^
 ||rases.work^
@@ -25690,6 +25724,7 @@
 ||rineplex.com^
 ||rinkieker.de^
 ||rinstudio.de^
+||rio-handelshaus.de^
 ||riokapital.com^
 ||riokapital.eu^
 ||riosale.online^
@@ -26744,6 +26779,7 @@
 ||schapiman.com^
 ||scharfemesser.de^
 ||scharfeprofession.com^
+||scharrer-handel.com^
 ||schaumex.shop^
 ||schaumstofffischer.shop^
 ||schedule73parts.shop^
@@ -28961,6 +28997,7 @@
 ||stil-bruch.at^
 ||stil-mode.de^
 ||stilado.de^
+||stilberlin.com^
 ||stilblazer.com^
 ||stilehaus.de^
 ||stilejx.stilop.mom^
@@ -29017,6 +29054,7 @@
 ||stockuswomen.com^
 ||stockyis.com^
 ||stoeberlaedele.de^
+||stoffweltenshop.com^
 ||stofline.com^
 ||stoicdraussen.com^
 ||stokke-schritte.com^
@@ -29320,6 +29358,7 @@
 ||stylehotsale.com^
 ||styleiconcloset.com^
 ||stylelaurel.com^
+||styleoli.com^
 ||styler-outlet.com^
 ||stylereduction.com^
 ||stylerose.de^
@@ -29808,6 +29847,7 @@
 ||syyywatches.shop^
 ||sz-fishing.de^
 ||szdafanl.com^
+||szxlbxlz.shop^
 ||szzving.shop^
 ||t-lovelock.com^
 ||t-shirtssalede.com^
@@ -30593,6 +30633,7 @@
 ||thor-financial-apps.space^
 ||thorogooddeutschland.com^
 ||thorogooddeutschland.de^
+||thorogoodeutschland.de^
 ||thorogoodfrance.com^
 ||thorogoodfrance.fr^
 ||thoroughk.com^
@@ -31348,6 +31389,7 @@
 ||traum-moden.com^
 ||traumfloorshop.com^
 ||traumgarten.latahalcom.shop^
+||traumgirlanden.shop^
 ||traumwiese24.de^
 ||traumwolke.shop^
 ||traunsbergergarten.de^
@@ -32576,6 +32618,7 @@
 ||veluflex.com^
 ||velvetparfumde.com^
 ||velvezev.ru^
+||vema-elektro.de^
 ||vemoso-shop.de^
 ||vemoso.de^
 ||venaceous.top^
@@ -34009,6 +34052,7 @@
 ||witchrabi.com^
 ||witeanerly.com^
 ||withingss.at^
+||withingss.de^
 ||withoution.com^
 ||withoution.net^
 ||withstndridg.com^
@@ -34281,6 +34325,7 @@
 ||wuzmi.shop^
 ||wv-langen.de^
 ||wvmxf.jomanbygg.com^
+||wvvw.barnking-volksbanlk-at.site^
 ||ww12.pricesthese.com^
 ||ww7.finotive.net^
 ||wwb.sneakerz2020.com^
