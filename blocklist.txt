@@ -2,10 +2,10 @@
 # Pi-hole DNS Blocklist: Watchlist Internet
 # Source: https://www.watchlist-internet.at/liste-betruegerischer-shops/csv/
 # Pi-hole Source: https://github.com/nice42q/watchlist-internet
-# Last update: 2026-07-14 03:39:20 UTC
+# Last update: 2026-07-15 03:39:36 UTC
 #
 # --- Analysis statistics for this update ---
-# Total valid domains:       35102
+# Total valid domains:       35119
 # Duplicate entries removed: 8
 # Invalid lines filtered:    2
 # -------------------------------------------
@@ -411,6 +411,7 @@
 ||adl.okhxm.shop^
 ||adl.tlhqca.shop^
 ||adl.ukdil.shop^
+||adl.uoyps.shop^
 ||adl.wiksh.shop^
 ||adl.zixoko.shop^
 ||adler-energie.de^
@@ -6633,6 +6634,7 @@
 ||cutsalesabc.click^
 ||cutshopcentral.com^
 ||cutterfarm.de^
+||cuttingboarddirect.com^
 ||cuttlefish.approveturn.xyz^
 ||cv-tech-onlineshop.de^
 ||cveedxf.com^
@@ -8017,6 +8019,7 @@
 ||dosiman.shop^
 ||dosnowwear.com^
 ||dosoar-tech.de^
+||dotados-anhaenger.com^
 ||dotloveculture.com^
 ||dotmalls.com^
 ||dottyanddande.shop^
@@ -8101,6 +8104,7 @@
 ||dreifussn.com^
 ||dreirei.com^
 ||dreissig105.de^
+||drelkuvizen.at^
 ||dremberlyn.com^
 ||dresdenboutique.com^
 ||dresdenmodehaus.de^
@@ -15574,6 +15578,7 @@
 ||jobchange.at^
 ||jobdreamonline.com^
 ||jobflow.careers^
+||jobleads.com^
 ||jobpdfbookt.com^
 ||jobschmiede.com^
 ||jobspressos.com^
@@ -17232,6 +17237,7 @@
 ||laubfall.de^
 ||laudabletool.com^
 ||laudeer.top^
+||lauensteingarten.de^
 ||laufbekleidungonshop.com^
 ||laufenalltagnatur.com^
 ||laufenlust.com^
@@ -17731,6 +17737,7 @@
 ||likesell.store^
 ||likeshoeees.com^
 ||liketosurf.com^
+||likevlqwe.click^
 ||likitter.shop^
 ||likwispect.com^
 ||lilafkj.com^
@@ -18463,6 +18470,7 @@
 ||lxznpo.shop^
 ||lydiapet.space^
 ||lyfoiegras.com^
+||lyleandscott.com^
 ||lynch-care.com^
 ||lyndafowler.space^
 ||lyndsayblair.com^
@@ -18991,6 +18999,7 @@
 ||matyx-finances.com^
 ||matzek-matratzen.at^
 ||mauermayer.com^
+||mauersberger-rechtsanwalt.de^
 ||mauricegodefroy.com^
 ||mauromilana.it^
 ||maurrenn.com^
@@ -23827,6 +23836,8 @@
 ||pnndjlfm.tk^
 ||pnnert.com^
 ||pnulf.com^
+||pnuvelbar-ai.com^
+||pnuvelbar-ai.org^
 ||pnzietbd.shop^
 ||poalarhealth.com^
 ||poarthy.com^
@@ -24911,6 +24922,7 @@
 ||ralphlaenstore.com^
 ||ramblel.top^
 ||ramelliamode.de^
+||ramo-investezza.com^
 ||rampado.de^
 ||ramsesmarket.com^
 ||ramsgil.com^
@@ -28077,7 +28089,9 @@
 ||skrum.at^
 ||sktbideie.shop^
 ||skullslipper4.spring4sale.com^
+||skurvorizan.at^
 ||skuxsde.shop^
+||skvurthalen.at^
 ||skxshoes.com^
 ||skybounce.shop^
 ||skydeuce.com^
@@ -31896,6 +31910,7 @@
 ||unglaublichepreise.com^
 ||ungulain.top^
 ||unholivne.com^
+||uni-kredit-service.de^
 ||uniastin.top^
 ||unibail-assets.com^
 ||unibois-stammholz.com^
@@ -33448,6 +33463,7 @@
 ||warmbedroom.com^
 ||warmbike.com^
 ||warmcreativemall.com^
+||warme-quelle.com^
 ||warmeholzhaus.com^
 ||warmeluxe.com^
 ||warmeprofi.com^
@@ -33769,6 +33785,7 @@
 ||werkgeist.com^
 ||werkora-industrial.com^
 ||werkstattgerateprofi.com^
+||werkstattgitter.com^
 ||werkvoorraden.com^
 ||werkzeug-brandl.com^
 ||werkzeug-salesshop.com^
