@@ -2,10 +2,10 @@
 # Pi-hole DNS Blocklist: Watchlist Internet
 # Source: https://www.watchlist-internet.at/liste-betruegerischer-shops/csv/
 # Pi-hole Source: https://github.com/nice42q/watchlist-internet
-# Last update: 2026-07-15 03:39:36 UTC
+# Last update: 2026-07-16 03:41:48 UTC
 #
 # --- Analysis statistics for this update ---
-# Total valid domains:       35119
+# Total valid domains:       35140
 # Duplicate entries removed: 8
 # Invalid lines filtered:    2
 # -------------------------------------------
@@ -952,8 +952,10 @@
 ||alpen-malerbetrieb.de^
 ||alpenfaser.de^
 ||alpenfluss.at^
+||alpenholz.shop^
 ||alpenkindmode.com^
 ||alpenlinie.at^
+||alpenmode.com^
 ||alpennord.de^
 ||alpenpellets.pro^
 ||alpenrose-mode.com^
@@ -5395,6 +5397,7 @@
 ||cheapvogueclothing.com^
 ||cheazonpsell.xyz^
 ||chebkbest.site^
+||check-24.cc^
 ||checkdeinhoroskop.com^
 ||checkist.top^
 ||checkout.ekommmedia.com^
@@ -8634,6 +8637,7 @@
 ||egw-best.nl^
 ||eheringede.com^
 ||ehfzhepg.shop^
+||ehketzlg.shop^
 ||ehkschutzengel.de^
 ||ehlers-reifen.com^
 ||ehlertswelpen.com^
@@ -9143,6 +9147,7 @@
 ||enxtcv.shop^
 ||enzomartini.de^
 ||enzomorelli.de^
+||eolatetuko.shop^
 ||eolia-stores.shop^
 ||eoptvogue.com^
 ||eopure.de^
@@ -9790,6 +9795,7 @@
 ||fahrradersde.com^
 ||fahrradersport.com^
 ||fahrraderzukunft.com^
+||fahrradexklusiv.de^
 ||fahrradfreilaufde.com^
 ||fahrradgeschaft-de.com^
 ||fahrradhandel-ahrens.de^
@@ -10504,6 +10510,7 @@
 ||firewoiks.com^
 ||firewood-appliances.com^
 ||firewood.shopingstime.com^
+||fireworksecho.com^
 ||firmadmire.com^
 ||firmataube.de^
 ||firmenfinderonline.com^
@@ -11675,6 +11682,7 @@
 ||gartenfreunde-murrhardt.de^
 ||gartenfuhrer.de^
 ||gartengenosse.de^
+||gartengenussde.com^
 ||gartengluecklich.de^
 ||gartengreifer.de^
 ||gartenhausmodern.com^
@@ -13450,6 +13458,7 @@
 ||heimwerkzeugesde.com^
 ||heimwerkzeugladen.com^
 ||heine-reifen.com^
+||heinen-klimahaus.myshopify.com^
 ||heinkelmasch.de^
 ||heinrich-handel.com^
 ||heinso.shop^
@@ -13925,6 +13934,8 @@
 ||hoffsneakersireland.com^
 ||hofinger-modehaus.com^
 ||hofius-shop.shop^
+||hofkammerpro-de.live^
+||hofkammerpro.at^
 ||hofmann-reifenversand.shop^
 ||hofmannmode.de^
 ||hofnergraz.at^
@@ -14890,7 +14901,6 @@
 ||indoorlehurstconsultancy.com^
 ||industrialprotool.com^
 ||industrialstop.shop^
-||industriehub.de^
 ||inedito.fr^
 ||ineedthisorder.com^
 ||inertiafinance.co^
@@ -16507,6 +16517,7 @@
 ||kleankanteenbottle.com^
 ||kleaskunst.de^
 ||klebemeister.shop^
+||kleemeyermichael.com^
 ||kleid-speichernde.com^
 ||kleider-kabinett.de^
 ||kleiderleipzighaus.de^
@@ -16543,6 +16554,7 @@
 ||klick-ndb.de^
 ||klima-bonus.app^
 ||klimabonus-2026.net^
+||klimabonus-at.com^
 ||klimabonus2026.at^
 ||klimag.myshopify.com^
 ||klimageld-2026.cc^
@@ -20218,6 +20230,7 @@
 ||mostpopularr.com^
 ||motallo.com^
 ||motel-miio.com^
+||motelamiioofficial.com^
 ||motelmio.shop^
 ||motiontoure.top^
 ||motiontutsr.com^
@@ -21603,6 +21616,7 @@
 ||nwmoverscp.com^
 ||nwmuster.de^
 ||nwynner.shop^
+||nxhdyeu.shop^
 ||nxsfund.com^
 ||nxtstreetlondon.com^
 ||nxvred.hnvapbuy.shop^
@@ -23887,6 +23901,7 @@
 ||poleneoutlet.de^
 ||poleneparis-deutschland.com^
 ||poleneparis-osterreich.com^
+||poleneparis.at^
 ||polenepariss.com^
 ||poleneshoposterreich.com^
 ||polenesschweiz.com^
@@ -24197,6 +24212,7 @@
 ||primekredit.com^
 ||primelogisticllc.com^
 ||primesupply.shop^
+||primetechmarket.co^
 ||primetoolingsupply.com^
 ||primetraing.shop^
 ||primo-invest.com^
@@ -25134,6 +25150,7 @@
 ||redamencys.com^
 ||redaut.cc^
 ||redbeyie.com^
+||redefinedrebelit.com^
 ||redexcoln.com^
 ||redhighca.com^
 ||redlich-becker.de^
@@ -28360,6 +28377,7 @@
 ||solaraessence.shop^
 ||solarausrustung.com^
 ||solarek-energie.com^
+||solarek-energie.de^
 ||solarenergie-beleuchtung.de^
 ||solarenergiemarkt.com^
 ||solarien-berlin.de^
@@ -31822,6 +31840,7 @@
 ||uhrstern.net^
 ||uhvcti.shop^
 ||uiahgpuutgr.top^
+||uimlvmo.com^
 ||uiredg.com^
 ||uirght.com^
 ||uiwsacop.shop^
@@ -33104,6 +33123,7 @@
 ||vnvipshop.com^
 ||vnxk.net^
 ||voaupz.store^
+||voba-investment.net^
 ||voba-sign.cc^
 ||vocabos.com^
 ||vocabulark.com^
@@ -33960,6 +33980,7 @@
 ||wildlingch.com^
 ||wildlingde.shop^
 ||wildlingnl.com^
+||wildlingschuh.com^
 ||wildlingschuhede.com^
 ||wildlingshoes-de.com^
 ||wildlingshoes-germany.com^

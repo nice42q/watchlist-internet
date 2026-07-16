@@ -941,8 +941,10 @@
 0.0.0.0 alpen-malerbetrieb.de
 0.0.0.0 alpenfaser.de
 0.0.0.0 alpenfluss.at
+0.0.0.0 alpenholz.shop
 0.0.0.0 alpenkindmode.com
 0.0.0.0 alpenlinie.at
+0.0.0.0 alpenmode.com
 0.0.0.0 alpennord.de
 0.0.0.0 alpenpellets.pro
 0.0.0.0 alpenrose-mode.com
@@ -5384,6 +5386,7 @@
 0.0.0.0 cheapvogueclothing.com
 0.0.0.0 cheazonpsell.xyz
 0.0.0.0 chebkbest.site
+0.0.0.0 check-24.cc
 0.0.0.0 checkdeinhoroskop.com
 0.0.0.0 checkist.top
 0.0.0.0 checkout.ekommmedia.com
@@ -8623,6 +8626,7 @@
 0.0.0.0 egw-best.nl
 0.0.0.0 eheringede.com
 0.0.0.0 ehfzhepg.shop
+0.0.0.0 ehketzlg.shop
 0.0.0.0 ehkschutzengel.de
 0.0.0.0 ehlers-reifen.com
 0.0.0.0 ehlertswelpen.com
@@ -9132,6 +9136,7 @@
 0.0.0.0 enxtcv.shop
 0.0.0.0 enzomartini.de
 0.0.0.0 enzomorelli.de
+0.0.0.0 eolatetuko.shop
 0.0.0.0 eolia-stores.shop
 0.0.0.0 eoptvogue.com
 0.0.0.0 eopure.de
@@ -9779,6 +9784,7 @@
 0.0.0.0 fahrradersde.com
 0.0.0.0 fahrradersport.com
 0.0.0.0 fahrraderzukunft.com
+0.0.0.0 fahrradexklusiv.de
 0.0.0.0 fahrradfreilaufde.com
 0.0.0.0 fahrradgeschaft-de.com
 0.0.0.0 fahrradhandel-ahrens.de
@@ -10493,6 +10499,7 @@
 0.0.0.0 firewoiks.com
 0.0.0.0 firewood-appliances.com
 0.0.0.0 firewood.shopingstime.com
+0.0.0.0 fireworksecho.com
 0.0.0.0 firmadmire.com
 0.0.0.0 firmataube.de
 0.0.0.0 firmenfinderonline.com
@@ -11664,6 +11671,7 @@
 0.0.0.0 gartenfreunde-murrhardt.de
 0.0.0.0 gartenfuhrer.de
 0.0.0.0 gartengenosse.de
+0.0.0.0 gartengenussde.com
 0.0.0.0 gartengluecklich.de
 0.0.0.0 gartengreifer.de
 0.0.0.0 gartenhausmodern.com
@@ -13439,6 +13447,7 @@
 0.0.0.0 heimwerkzeugesde.com
 0.0.0.0 heimwerkzeugladen.com
 0.0.0.0 heine-reifen.com
+0.0.0.0 heinen-klimahaus.myshopify.com
 0.0.0.0 heinkelmasch.de
 0.0.0.0 heinrich-handel.com
 0.0.0.0 heinso.shop
@@ -13914,6 +13923,8 @@
 0.0.0.0 hoffsneakersireland.com
 0.0.0.0 hofinger-modehaus.com
 0.0.0.0 hofius-shop.shop
+0.0.0.0 hofkammerpro-de.live
+0.0.0.0 hofkammerpro.at
 0.0.0.0 hofmann-reifenversand.shop
 0.0.0.0 hofmannmode.de
 0.0.0.0 hofnergraz.at
@@ -14879,7 +14890,6 @@
 0.0.0.0 indoorlehurstconsultancy.com
 0.0.0.0 industrialprotool.com
 0.0.0.0 industrialstop.shop
-0.0.0.0 industriehub.de
 0.0.0.0 inedito.fr
 0.0.0.0 ineedthisorder.com
 0.0.0.0 inertiafinance.co
@@ -16496,6 +16506,7 @@
 0.0.0.0 kleankanteenbottle.com
 0.0.0.0 kleaskunst.de
 0.0.0.0 klebemeister.shop
+0.0.0.0 kleemeyermichael.com
 0.0.0.0 kleid-speichernde.com
 0.0.0.0 kleider-kabinett.de
 0.0.0.0 kleiderleipzighaus.de
@@ -16532,6 +16543,7 @@
 0.0.0.0 klick-ndb.de
 0.0.0.0 klima-bonus.app
 0.0.0.0 klimabonus-2026.net
+0.0.0.0 klimabonus-at.com
 0.0.0.0 klimabonus2026.at
 0.0.0.0 klimag.myshopify.com
 0.0.0.0 klimageld-2026.cc
@@ -20207,6 +20219,7 @@
 0.0.0.0 mostpopularr.com
 0.0.0.0 motallo.com
 0.0.0.0 motel-miio.com
+0.0.0.0 motelamiioofficial.com
 0.0.0.0 motelmio.shop
 0.0.0.0 motiontoure.top
 0.0.0.0 motiontutsr.com
@@ -21592,6 +21605,7 @@
 0.0.0.0 nwmoverscp.com
 0.0.0.0 nwmuster.de
 0.0.0.0 nwynner.shop
+0.0.0.0 nxhdyeu.shop
 0.0.0.0 nxsfund.com
 0.0.0.0 nxtstreetlondon.com
 0.0.0.0 nxvred.hnvapbuy.shop
@@ -23876,6 +23890,7 @@
 0.0.0.0 poleneoutlet.de
 0.0.0.0 poleneparis-deutschland.com
 0.0.0.0 poleneparis-osterreich.com
+0.0.0.0 poleneparis.at
 0.0.0.0 polenepariss.com
 0.0.0.0 poleneshoposterreich.com
 0.0.0.0 polenesschweiz.com
@@ -24186,6 +24201,7 @@
 0.0.0.0 primekredit.com
 0.0.0.0 primelogisticllc.com
 0.0.0.0 primesupply.shop
+0.0.0.0 primetechmarket.co
 0.0.0.0 primetoolingsupply.com
 0.0.0.0 primetraing.shop
 0.0.0.0 primo-invest.com
@@ -25123,6 +25139,7 @@
 0.0.0.0 redamencys.com
 0.0.0.0 redaut.cc
 0.0.0.0 redbeyie.com
+0.0.0.0 redefinedrebelit.com
 0.0.0.0 redexcoln.com
 0.0.0.0 redhighca.com
 0.0.0.0 redlich-becker.de
@@ -28349,6 +28366,7 @@
 0.0.0.0 solaraessence.shop
 0.0.0.0 solarausrustung.com
 0.0.0.0 solarek-energie.com
+0.0.0.0 solarek-energie.de
 0.0.0.0 solarenergie-beleuchtung.de
 0.0.0.0 solarenergiemarkt.com
 0.0.0.0 solarien-berlin.de
@@ -31811,6 +31829,7 @@
 0.0.0.0 uhrstern.net
 0.0.0.0 uhvcti.shop
 0.0.0.0 uiahgpuutgr.top
+0.0.0.0 uimlvmo.com
 0.0.0.0 uiredg.com
 0.0.0.0 uirght.com
 0.0.0.0 uiwsacop.shop
@@ -33093,6 +33112,7 @@
 0.0.0.0 vnvipshop.com
 0.0.0.0 vnxk.net
 0.0.0.0 voaupz.store
+0.0.0.0 voba-investment.net
 0.0.0.0 voba-sign.cc
 0.0.0.0 vocabos.com
 0.0.0.0 vocabulark.com
@@ -33949,6 +33969,7 @@
 0.0.0.0 wildlingch.com
 0.0.0.0 wildlingde.shop
 0.0.0.0 wildlingnl.com
+0.0.0.0 wildlingschuh.com
 0.0.0.0 wildlingschuhede.com
 0.0.0.0 wildlingshoes-de.com
 0.0.0.0 wildlingshoes-germany.com
