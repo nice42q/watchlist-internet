@@ -2,10 +2,10 @@
 # Pi-hole DNS Blocklist: Watchlist Internet
 # Source: https://www.watchlist-internet.at/liste-betruegerischer-shops/csv/
 # Pi-hole Source: https://github.com/nice42q/watchlist-internet
-# Last update: 2026-07-24 03:47:31 UTC
+# Last update: 2026-07-25 03:42:04 UTC
 #
 # --- Analysis statistics for this update ---
-# Total valid domains:       35233
+# Total valid domains:       35242
 # Duplicate entries removed: 8
 # Invalid lines filtered:    2
 # -------------------------------------------
@@ -1310,6 +1310,7 @@
 ||anioomcable.shop^
 ||anitawittmann.com^
 ||aniverlsari.com^
+||ankelinerherz.com^
 ||ankerflowtech.shop^
 ||ankerkrautde.shop^
 ||ankle-boots-store.com^
@@ -2310,6 +2311,7 @@
 ||awishday.com^
 ||awpepgmd.top^
 ||axa-immo.us^
+||axel-maschine.de^
 ||axelarigatoschuhe.com^
 ||axelarigatowien.com^
 ||axessinvest.de^
@@ -3369,6 +3371,7 @@
 ||beteli.store^
 ||betonruttler.com^
 ||betontop.com^
+||betrailo.com^
 ||betrise-capital.ltd^
 ||betrisecapitals.ltd^
 ||betrmode.com^
@@ -9619,6 +9622,7 @@
 ||ewige-seide.de^
 ||ewigesleder.com^
 ||ewighair.com^
+||ewzmvasz.shop^
 ||ex-field.com^
 ||ex-sot.com^
 ||exactlydrum.com^
@@ -9894,6 +9898,7 @@
 ||fahrstadt.de^
 ||fahrstander.com^
 ||fahrtechnikteile.com^
+||fahrzeugcamp.com^
 ||fahrzeugpflegetreskow.de^
 ||fahrzeugprada.de^
 ||fahrzeugscanner24.de^
@@ -11727,6 +11732,7 @@
 ||gartenira.com^
 ||gartenix.com^
 ||gartenkings.de^
+||gartenkraft-de.com^
 ||gartenkreuzfahrt.de^
 ||gartenladende.com^
 ||gartenlandschaftladen.com^
@@ -18534,6 +18540,7 @@
 ||lxcvt.shop^
 ||lxuygoods.com^
 ||lxznpo.shop^
+||lydevmkt.shop^
 ||lydiapet.space^
 ||lyfoiegras.com^
 ||lyleandscott.com^
@@ -25081,6 +25088,7 @@
 ||rauter-beck.de^
 ||rave-atelier.com^
 ||ravella-dortmund.de^
+||ravenciax.shop^
 ||ravenprombagsoutlet2021.com^
 ||ravishingcosmetology.com^
 ||rawtop.foodarray.shop^
@@ -34057,6 +34065,7 @@
 ||wihasale.com^
 ||wika-shop.com^
 ||wika-shop.de^
+||wikebygb.shop^
 ||wikelski.com^
 ||wiki4diy.com^
 ||wikiadvj.com^
