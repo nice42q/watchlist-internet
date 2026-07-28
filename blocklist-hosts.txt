@@ -130,6 +130,7 @@
 0.0.0.0 899ag.com
 0.0.0.0 8evlcbsuk3cm9agc-49220550809.shopifypreview.com
 0.0.0.0 8lots.com
+0.0.0.0 9889adl.dxnqt.shop
 0.0.0.0 99rabats.shop
 0.0.0.0 a-baustofflager.com
 0.0.0.0 a.seven-st.com
@@ -990,6 +991,7 @@
 0.0.0.0 alsa-shop.de
 0.0.0.0 alsara-online.de
 0.0.0.0 alsclearance.com
+0.0.0.0 alskdrmo.shop
 0.0.0.0 alsoatic.top
 0.0.0.0 alsobeside.com
 0.0.0.0 alstran-spedition.com
@@ -1254,6 +1256,7 @@
 0.0.0.0 anhaenger-geraete.com
 0.0.0.0 anhaenger-gross.de
 0.0.0.0 anhaenger-von-thule.de
+0.0.0.0 anhaengerhandel-leipzig.com
 0.0.0.0 anhaengerhandel-leipziig.de
 0.0.0.0 anhaengerkauf24.com
 0.0.0.0 anhaengerklasen.de
@@ -1951,6 +1954,7 @@
 0.0.0.0 ateliermunchen.de
 0.0.0.0 atfalunaverlag.shop
 0.0.0.0 atfin.org
+0.0.0.0 atfinanciialad.com
 0.0.0.0 atfolix.shop
 0.0.0.0 atfolixde.shop
 0.0.0.0 atgeneralwil.com
@@ -2082,6 +2086,8 @@
 0.0.0.0 aurorevandoren.com
 0.0.0.0 auroxtrade.net
 0.0.0.0 aurum-fix-corp.com
+0.0.0.0 aurum-foundation.com
+0.0.0.0 aurum.foundation
 0.0.0.0 aus-gelassen.de
 0.0.0.0 ausgewalhtheim.de
 0.0.0.0 ausgnade.shop
@@ -2126,6 +2132,7 @@
 0.0.0.0 autoexpertpartshop.com
 0.0.0.0 autogearlabflow.com
 0.0.0.0 autoglobalshipping.com
+0.0.0.0 autohaus-ferkl.de
 0.0.0.0 autohausbismuth.de
 0.0.0.0 autohauselsdorf.de
 0.0.0.0 autohausfuerst.de
@@ -3219,6 +3226,7 @@
 0.0.0.0 bestbagstore.com
 0.0.0.0 bestbeauty-style.com
 0.0.0.0 bestbikecyclinggear.com
+0.0.0.0 bestbikede.com
 0.0.0.0 bestboneconduction.com
 0.0.0.0 bestbookshop.site
 0.0.0.0 bestbrakesrabatt.com
@@ -4545,6 +4553,7 @@
 0.0.0.0 building-toysshop.com
 0.0.0.0 buildmaterialstore.com
 0.0.0.0 builikee.com
+0.0.0.0 buislearny.com
 0.0.0.0 buitifo-fashion.com
 0.0.0.0 bukkwood.com
 0.0.0.0 bulgariaapteka.com
@@ -4855,6 +4864,7 @@
 0.0.0.0 campingmay.com
 0.0.0.0 campingnatur.com
 0.0.0.0 campingneu.com
+0.0.0.0 campingplatze-de.com
 0.0.0.0 campingpromo.store
 0.0.0.0 campingstuhleshop.com
 0.0.0.0 campingsverkauf.com
@@ -5064,6 +5074,7 @@
 0.0.0.0 casaivora.com
 0.0.0.0 casamargarita-gt.com
 0.0.0.0 casamaza.uk
+0.0.0.0 casanovera.com
 0.0.0.0 cascade-luzern.shop
 0.0.0.0 cascosoffroad.com
 0.0.0.0 caseetepen.com
@@ -6256,6 +6267,7 @@
 0.0.0.0 coracosmetic.live
 0.0.0.0 coralcoveswim.com
 0.0.0.0 cordes-reifenversand.com
+0.0.0.0 coreex.ch
 0.0.0.0 coregarment.com
 0.0.0.0 coremat-industrie.com
 0.0.0.0 corentinmaribro.shop
@@ -6743,6 +6755,7 @@
 0.0.0.0 daily-clearance.com
 0.0.0.0 daily-disney.com
 0.0.0.0 daily-jewelry123.com
+0.0.0.0 daily-outfit.de
 0.0.0.0 dailychallenge1.com
 0.0.0.0 dailyexpertfx.com
 0.0.0.0 dailyforu.com
@@ -9933,6 +9946,7 @@
 0.0.0.0 familienbegleiterin.de
 0.0.0.0 familienmobil24.de
 0.0.0.0 familienschatze.com
+0.0.0.0 familienzeltneu.com
 0.0.0.0 familienzug.ch
 0.0.0.0 familievlaar.com
 0.0.0.0 familiewelpenhaus.com
@@ -12043,6 +12057,7 @@
 0.0.0.0 getenergyfix.com
 0.0.0.0 getepicooler.com
 0.0.0.0 getfashionnew.com
+0.0.0.0 getflowersforsociety.shop
 0.0.0.0 getfurnitureabout.com
 0.0.0.0 getguitarowner.com
 0.0.0.0 getherion.com
@@ -12268,6 +12283,7 @@
 0.0.0.0 glaswarenrabatt.com
 0.0.0.0 glaubensweg.com
 0.0.0.0 glaydssale.shop
+0.0.0.0 gldclothing.com
 0.0.0.0 gleaminggazette.shop
 0.0.0.0 gleamoramunchen.de
 0.0.0.0 gleane.de
@@ -14158,6 +14174,7 @@
 0.0.0.0 homelyno.com
 0.0.0.0 homelynyc.com
 0.0.0.0 homelysale.com
+0.0.0.0 homemerchpro.com
 0.0.0.0 homemodernliving.com
 0.0.0.0 homenestlyauralab.com
 0.0.0.0 homenormann.com
@@ -14596,6 +14613,7 @@
 0.0.0.0 husshuntd.top
 0.0.0.0 hustlenation.store
 0.0.0.0 hut-vogue.com
+0.0.0.0 hutare.com
 0.0.0.0 hutchputchde.shop
 0.0.0.0 hutdesignherren.com
 0.0.0.0 hutprofis.shop
@@ -14781,6 +14799,7 @@
 0.0.0.0 iheq.shop
 0.0.0.0 ihinmusubio.com
 0.0.0.0 ihljpbdo.shop
+0.0.0.0 ihnlhrqf.shop
 0.0.0.0 ihrbedarf.com
 0.0.0.0 ihrbegleiterimalltag.de
 0.0.0.0 ihreanhanger.com
@@ -16823,6 +16842,7 @@
 0.0.0.0 kraft-profil-technik.eu
 0.0.0.0 kraftdesweins.com
 0.0.0.0 kraftholz.shop
+0.0.0.0 krafthoz-pellets.com
 0.0.0.0 kraftraumpro.com
 0.0.0.0 kraftsohle.de
 0.0.0.0 krafttool24.com
@@ -19936,6 +19956,7 @@
 0.0.0.0 mobilfunk-schmidtchen.de
 0.0.0.0 mobilixpro.com
 0.0.0.0 mobilmitkids.de
+0.0.0.0 mobischule.com
 0.0.0.0 mobitracker.org
 0.0.0.0 mobivita.de
 0.0.0.0 mochathedogstore.de
@@ -21902,6 +21923,7 @@
 0.0.0.0 officialcamping.com
 0.0.0.0 officialclimbing.com
 0.0.0.0 officialcomficraft.com
+0.0.0.0 officialfixdessertchocolatier.com
 0.0.0.0 officialfurnitures.com
 0.0.0.0 officialhomekit.com
 0.0.0.0 officialhometool.com
@@ -23391,6 +23413,7 @@
 0.0.0.0 pensiontradingai.com
 0.0.0.0 peoalfonsi.it
 0.0.0.0 people.purecap.xyz
+0.0.0.0 peoplespot.io
 0.0.0.0 pepe-jeans.at
 0.0.0.0 peppermayo.com
 0.0.0.0 peppermayo.eu
@@ -27316,6 +27339,7 @@
 0.0.0.0 sentimentw.com
 0.0.0.0 sentis.club
 0.0.0.0 senzza.de
+0.0.0.0 seoeeo.com
 0.0.0.0 separaten.com
 0.0.0.0 sepgoal.com
 0.0.0.0 sepkicks.com
@@ -32132,6 +32156,7 @@
 0.0.0.0 urban-autoreifen.com
 0.0.0.0 urban-hits.de
 0.0.0.0 urban-patterns.de
+0.0.0.0 urban-rad.com
 0.0.0.0 urban-transporte.com
 0.0.0.0 urbancarpetloft.com
 0.0.0.0 urbanclasse.store
@@ -34471,6 +34496,7 @@
 0.0.0.0 wxinthai.com
 0.0.0.0 wxnlucky.com
 0.0.0.0 wynajemwroclaw.com
+0.0.0.0 wzdnymoc.shop
 0.0.0.0 wzyzz.hillvieworganicfarm.com
 0.0.0.0 x-clarity.com
 0.0.0.0 x-drugs.info
@@ -34507,6 +34533,7 @@
 0.0.0.0 xellanederlandbv.com
 0.0.0.0 xenforts.com
 0.0.0.0 xeniapublicity.com
+0.0.0.0 xenokrat.de
 0.0.0.0 xenoud.com
 0.0.0.0 xenstream.shop
 0.0.0.0 xeond.com
@@ -35020,6 +35047,7 @@
 0.0.0.0 zentraleapo.de
 0.0.0.0 zentralorgan.at
 0.0.0.0 zentrof.com
+0.0.0.0 zentrovian.de
 0.0.0.0 zenvada.de
 0.0.0.0 zenvys.de
 0.0.0.0 zenymab.com
