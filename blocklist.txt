@@ -2,10 +2,10 @@
 # Pi-hole DNS Blocklist: Watchlist Internet
 # Source: https://www.watchlist-internet.at/liste-betruegerischer-shops/csv/
 # Pi-hole Source: https://github.com/nice42q/watchlist-internet
-# Last update: 2026-07-28 03:40:32 UTC
+# Last update: 2026-07-29 03:44:04 UTC
 #
 # --- Analysis statistics for this update ---
-# Total valid domains:       35270
+# Total valid domains:       35288
 # Duplicate entries removed: 8
 # Invalid lines filtered:    2
 # -------------------------------------------
@@ -1042,6 +1042,7 @@
 ||aluproholz.shop^
 ||alurela.de^
 ||alureva.de^
+||aluvea.de^
 ||aluver.es^
 ||alvaradoedmarie.com^
 ||alvarezmarta.com^
@@ -1313,6 +1314,7 @@
 ||anioomcable.shop^
 ||anitawittmann.com^
 ||aniverlsari.com^
+||ankeir.com^
 ||ankelinerherz.com^
 ||ankerflowtech.shop^
 ||ankerkrautde.shop^
@@ -6278,8 +6280,10 @@
 ||coracosmetic.live^
 ||coralcoveswim.com^
 ||cordes-reifenversand.com^
+||cordreelprada.com^
 ||coreex.ch^
 ||coregarment.com^
+||coreglp.at^
 ||coremat-industrie.com^
 ||corentinmaribro.shop^
 ||coreprettys.com^
@@ -7523,6 +7527,7 @@
 ||deutmart.de^
 ||deutsch-markt.com^
 ||deutschapotheke.com^
+||deutschdeal.com^
 ||deutsche-arzneimittel.com^
 ||deutsche-backwaren-manufaktur.com^
 ||deutsche-bit.de^
@@ -10164,6 +10169,7 @@
 ||fastel.top^
 ||fastenergy24.com^
 ||fastenerk.com^
+||fastfatbike.de^
 ||fastflowp.top^
 ||fastforextradelab.com^
 ||fasthousemoto.com^
@@ -11995,6 +12001,7 @@
 ||germany-kitchenware-store.com^
 ||germanyrimowa.com^
 ||germanytool.com^
+||germins.de^
 ||gerogalsop.com^
 ||gerrys-modehaus.com^
 ||gersnchht.store^
@@ -12137,6 +12144,7 @@
 ||ghingwala.shop^
 ||ghjmtt.com^
 ||ghjoeij.store^
+||ghkmaili.shop^
 ||ghogispa.com^
 ||ghostduster.de^
 ||ghostis.de^
@@ -12159,6 +12167,7 @@
 ||giessweinca.com^
 ||giessweinno.com^
 ||giessweins.at^
+||giessweins.es^
 ||giessweins.it^
 ||giessweinschuhe.com^
 ||giessweinshop.com^
@@ -13762,6 +13771,7 @@
 ||herzfunken.com^
 ||herzkissenmallin.de^
 ||herzklang-tirol.at^
+||herzmarkt24.de^
 ||herzmitliebe.de^
 ||herzogberlin.de^
 ||herzstil.de^
@@ -14200,6 +14210,7 @@
 ||homepillswebstore.com^
 ||homeplaceshop.com^
 ||homeprotool.com^
+||homer24.com^
 ||homerootsoutlet.com^
 ||homersport.de^
 ||homerugsale.com^
@@ -15413,6 +15424,7 @@
 ||jacadishop.com^
 ||jacadistore.com^
 ||jacadivipstore.com^
+||jack-wolfiskin.com^
 ||jackeherren.top^
 ||jackenjackets.de^
 ||jackenpascher.com^
@@ -15801,6 +15813,7 @@
 ||jteamssme.com^
 ||jtechourway.shop^
 ||jtgmarket.com^
+||jth-transport.be^
 ||jtshoponline.com^
 ||jtssr.com^
 ||jtylercooley.com^
@@ -16619,6 +16632,7 @@
 ||klemars.de^
 ||klempnerwerkzeug.com^
 ||klenkholzag.de^
+||klettererpro.com^
 ||kletternalpinismus.de^
 ||kleurrijkedame.com^
 ||kleversholz.com^
@@ -20254,6 +20268,7 @@
 ||mooncointrade.com^
 ||moonfloxtrade.net^
 ||moongor.com^
+||moonkie.de^
 ||moonlampofficial.com^
 ||moonpod.de^
 ||moonsoy.com^
@@ -20273,6 +20288,7 @@
 ||morebicycle.com^
 ||moreflyfish.com^
 ||morenius.de^
+||morenutriitiion.com^
 ||morenutritiion.shop^
 ||morenutritionde.shop^
 ||morenutritionfeen.shop^
@@ -20344,6 +20360,7 @@
 ||motorcycleonussale.com^
 ||motorcyclezesty.com^
 ||motorcycperky.com^
+||motoriderde.com^
 ||motorprada.de^
 ||motorrad-ausstattung.com^
 ||motorrad-levy-elsa.com^
@@ -24168,7 +24185,6 @@
 ||poweromasch.shop^
 ||powerphase.net^
 ||powerplate-salzburg.at^
-||powersebike.com^
 ||powerthr.com^
 ||powertool-deal.com^
 ||powertools-market.shop^
@@ -24228,6 +24244,7 @@
 ||premium-union-credit.de^
 ||premium-unipay-card.de^
 ||premium-yields.com^
+||premiumedelnicetrachtenmo.shop^
 ||premiumee.com^
 ||premiumer.co^
 ||premiumfinancesolutionsltd.com^
@@ -32786,6 +32803,7 @@
 ||vendorhub.store^
 ||vendorra-dusseldorf.com^
 ||vendusa.de^
+||vendyle.com^
 ||venemero.com^
 ||veneracrea.com^
 ||venessashop.com^

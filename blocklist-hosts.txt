@@ -1031,6 +1031,7 @@
 0.0.0.0 aluproholz.shop
 0.0.0.0 alurela.de
 0.0.0.0 alureva.de
+0.0.0.0 aluvea.de
 0.0.0.0 aluver.es
 0.0.0.0 alvaradoedmarie.com
 0.0.0.0 alvarezmarta.com
@@ -1302,6 +1303,7 @@
 0.0.0.0 anioomcable.shop
 0.0.0.0 anitawittmann.com
 0.0.0.0 aniverlsari.com
+0.0.0.0 ankeir.com
 0.0.0.0 ankelinerherz.com
 0.0.0.0 ankerflowtech.shop
 0.0.0.0 ankerkrautde.shop
@@ -6267,8 +6269,10 @@
 0.0.0.0 coracosmetic.live
 0.0.0.0 coralcoveswim.com
 0.0.0.0 cordes-reifenversand.com
+0.0.0.0 cordreelprada.com
 0.0.0.0 coreex.ch
 0.0.0.0 coregarment.com
+0.0.0.0 coreglp.at
 0.0.0.0 coremat-industrie.com
 0.0.0.0 corentinmaribro.shop
 0.0.0.0 coreprettys.com
@@ -7512,6 +7516,7 @@
 0.0.0.0 deutmart.de
 0.0.0.0 deutsch-markt.com
 0.0.0.0 deutschapotheke.com
+0.0.0.0 deutschdeal.com
 0.0.0.0 deutsche-arzneimittel.com
 0.0.0.0 deutsche-backwaren-manufaktur.com
 0.0.0.0 deutsche-bit.de
@@ -10153,6 +10158,7 @@
 0.0.0.0 fastel.top
 0.0.0.0 fastenergy24.com
 0.0.0.0 fastenerk.com
+0.0.0.0 fastfatbike.de
 0.0.0.0 fastflowp.top
 0.0.0.0 fastforextradelab.com
 0.0.0.0 fasthousemoto.com
@@ -11984,6 +11990,7 @@
 0.0.0.0 germany-kitchenware-store.com
 0.0.0.0 germanyrimowa.com
 0.0.0.0 germanytool.com
+0.0.0.0 germins.de
 0.0.0.0 gerogalsop.com
 0.0.0.0 gerrys-modehaus.com
 0.0.0.0 gersnchht.store
@@ -12126,6 +12133,7 @@
 0.0.0.0 ghingwala.shop
 0.0.0.0 ghjmtt.com
 0.0.0.0 ghjoeij.store
+0.0.0.0 ghkmaili.shop
 0.0.0.0 ghogispa.com
 0.0.0.0 ghostduster.de
 0.0.0.0 ghostis.de
@@ -12148,6 +12156,7 @@
 0.0.0.0 giessweinca.com
 0.0.0.0 giessweinno.com
 0.0.0.0 giessweins.at
+0.0.0.0 giessweins.es
 0.0.0.0 giessweins.it
 0.0.0.0 giessweinschuhe.com
 0.0.0.0 giessweinshop.com
@@ -13751,6 +13760,7 @@
 0.0.0.0 herzfunken.com
 0.0.0.0 herzkissenmallin.de
 0.0.0.0 herzklang-tirol.at
+0.0.0.0 herzmarkt24.de
 0.0.0.0 herzmitliebe.de
 0.0.0.0 herzogberlin.de
 0.0.0.0 herzstil.de
@@ -14189,6 +14199,7 @@
 0.0.0.0 homepillswebstore.com
 0.0.0.0 homeplaceshop.com
 0.0.0.0 homeprotool.com
+0.0.0.0 homer24.com
 0.0.0.0 homerootsoutlet.com
 0.0.0.0 homersport.de
 0.0.0.0 homerugsale.com
@@ -15402,6 +15413,7 @@
 0.0.0.0 jacadishop.com
 0.0.0.0 jacadistore.com
 0.0.0.0 jacadivipstore.com
+0.0.0.0 jack-wolfiskin.com
 0.0.0.0 jackeherren.top
 0.0.0.0 jackenjackets.de
 0.0.0.0 jackenpascher.com
@@ -15790,6 +15802,7 @@
 0.0.0.0 jteamssme.com
 0.0.0.0 jtechourway.shop
 0.0.0.0 jtgmarket.com
+0.0.0.0 jth-transport.be
 0.0.0.0 jtshoponline.com
 0.0.0.0 jtssr.com
 0.0.0.0 jtylercooley.com
@@ -16608,6 +16621,7 @@
 0.0.0.0 klemars.de
 0.0.0.0 klempnerwerkzeug.com
 0.0.0.0 klenkholzag.de
+0.0.0.0 klettererpro.com
 0.0.0.0 kletternalpinismus.de
 0.0.0.0 kleurrijkedame.com
 0.0.0.0 kleversholz.com
@@ -20243,6 +20257,7 @@
 0.0.0.0 mooncointrade.com
 0.0.0.0 moonfloxtrade.net
 0.0.0.0 moongor.com
+0.0.0.0 moonkie.de
 0.0.0.0 moonlampofficial.com
 0.0.0.0 moonpod.de
 0.0.0.0 moonsoy.com
@@ -20262,6 +20277,7 @@
 0.0.0.0 morebicycle.com
 0.0.0.0 moreflyfish.com
 0.0.0.0 morenius.de
+0.0.0.0 morenutriitiion.com
 0.0.0.0 morenutritiion.shop
 0.0.0.0 morenutritionde.shop
 0.0.0.0 morenutritionfeen.shop
@@ -20333,6 +20349,7 @@
 0.0.0.0 motorcycleonussale.com
 0.0.0.0 motorcyclezesty.com
 0.0.0.0 motorcycperky.com
+0.0.0.0 motoriderde.com
 0.0.0.0 motorprada.de
 0.0.0.0 motorrad-ausstattung.com
 0.0.0.0 motorrad-levy-elsa.com
@@ -24157,7 +24174,6 @@
 0.0.0.0 poweromasch.shop
 0.0.0.0 powerphase.net
 0.0.0.0 powerplate-salzburg.at
-0.0.0.0 powersebike.com
 0.0.0.0 powerthr.com
 0.0.0.0 powertool-deal.com
 0.0.0.0 powertools-market.shop
@@ -24217,6 +24233,7 @@
 0.0.0.0 premium-union-credit.de
 0.0.0.0 premium-unipay-card.de
 0.0.0.0 premium-yields.com
+0.0.0.0 premiumedelnicetrachtenmo.shop
 0.0.0.0 premiumee.com
 0.0.0.0 premiumer.co
 0.0.0.0 premiumfinancesolutionsltd.com
@@ -32775,6 +32792,7 @@
 0.0.0.0 vendorhub.store
 0.0.0.0 vendorra-dusseldorf.com
 0.0.0.0 vendusa.de
+0.0.0.0 vendyle.com
 0.0.0.0 venemero.com
 0.0.0.0 veneracrea.com
 0.0.0.0 venessashop.com
