@@ -2,10 +2,10 @@
 # Pi-hole DNS Blocklist: Watchlist Internet
 # Source: https://www.watchlist-internet.at/liste-betruegerischer-shops/csv/
 # Pi-hole Source: https://github.com/nice42q/watchlist-internet
-# Last update: 2026-07-29 03:44:04 UTC
+# Last update: 2026-07-30 03:33:23 UTC
 #
 # --- Analysis statistics for this update ---
-# Total valid domains:       35288
+# Total valid domains:       35296
 # Duplicate entries removed: 8
 # Invalid lines filtered:    2
 # -------------------------------------------
@@ -5061,6 +5061,7 @@
 ||carrotuj.com^
 ||carrujos.com^
 ||carrycotsangebote.de^
+||cars-boutique.de^
 ||carsmodeles.com^
 ||carstruckstoy.com^
 ||cartec-gruppe.de^
@@ -5379,6 +5380,7 @@
 ||charlinerat.com^
 ||charloll.com^
 ||charlottdesign.de^
+||charlottetilbury-de.com^
 ||charlystore.de^
 ||charmadora.shop^
 ||charmantss.com^
@@ -12646,6 +12648,7 @@
 ||gradinamax.at^
 ||gradinamax.hr^
 ||gradine.top^
+||gradschcafe.com^
 ||graefde.com^
 ||graenergie.com^
 ||graf-collegen.com^
@@ -13717,6 +13720,7 @@
 ||hensphere.shop^
 ||henworld.shop^
 ||henylife.shop^
+||hepativa.de^
 ||hepcrs.com^
 ||heqingxiangye.com^
 ||hera-gorgeous.net^
@@ -14752,6 +14756,7 @@
 ||icprc.tcs-rud.com^
 ||ictholder.com^
 ||id-austria.at-bmf-gv-uberprufung.com^
+||id-austria.at.gv-oesterreich.com^
 ||id-austria.bmf-gv-at.com^
 ||idabitar.com^
 ||idaffodil.shop^
@@ -19509,6 +19514,7 @@
 ||menwearstunning.com^
 ||meowcastle.ca^
 ||meowsupplies.store^
+||mepalconstruction.com^
 ||mephistoaustria.com^
 ||mephistofabrikverkauf.com^
 ||mephistoshoeireland.com^
@@ -33157,6 +33163,7 @@
 ||vita-pflege.de^
 ||vitafeetdeu.com^
 ||vitafeetdeut.com^
+||vitafus.com^
 ||vitaglp.com^
 ||vital-vibe.com^
 ||vitaldelikatesse.com^
@@ -33495,6 +33502,7 @@
 ||vwraresparepartshop.com^
 ||vwutaq.com^
 ||vxiqv.com^
+||vxyyiurw.shop^
 ||vyepehijab.com^
 ||vyjak.com^
 ||vylkogroup.com^
