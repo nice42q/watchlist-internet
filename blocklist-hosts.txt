@@ -2072,6 +2072,7 @@
 0.0.0.0 auntgear.com
 0.0.0.0 auntsunclestassen.com
 0.0.0.0 aura-basel.ch
+0.0.0.0 aurafior.shop
 0.0.0.0 aurahous.com
 0.0.0.0 auraineg.com
 0.0.0.0 aurainfusions.com
@@ -2292,6 +2293,7 @@
 0.0.0.0 avoura.de
 0.0.0.0 avregatnx.monster
 0.0.0.0 avrilamaya.com
+0.0.0.0 avtmcugf.shop
 0.0.0.0 avyara.de
 0.0.0.0 awaisms.com
 0.0.0.0 awanzi.com
@@ -3500,6 +3502,7 @@
 0.0.0.0 bike-poc.com
 0.0.0.0 bike-specialized.com
 0.0.0.0 bike-verwaltungs.de
+0.0.0.0 bike2bikes.com
 0.0.0.0 bikeabus.com
 0.0.0.0 bikeaccessoriesneu.com
 0.0.0.0 bikebegeistert.com
@@ -6197,6 +6200,7 @@
 0.0.0.0 containerbewegen.com
 0.0.0.0 containercargo.shop
 0.0.0.0 containercompany.shop
+0.0.0.0 containerdhggmbh.de
 0.0.0.0 containerdienstheiliggmbh.de
 0.0.0.0 containerservicestarzgmbh.de
 0.0.0.0 containerslager.com
@@ -14340,6 +14344,7 @@
 0.0.0.0 horstz.shop
 0.0.0.0 hortensies.com
 0.0.0.0 hortihaven.net
+0.0.0.0 hortmann-gesetz.de
 0.0.0.0 hortura.de
 0.0.0.0 horzesshop.top
 0.0.0.0 hosalet.com
@@ -14673,6 +14678,7 @@
 0.0.0.0 hypesbeauty.de
 0.0.0.0 hypescrape.com
 0.0.0.0 hypnose-gluecklich.de
+0.0.0.0 hypo-4u.de
 0.0.0.0 hypulse.de
 0.0.0.0 hysnsic.com
 0.0.0.0 hysszhh.com
@@ -17079,6 +17085,7 @@
 0.0.0.0 kynebeauty.de
 0.0.0.0 kynubeauty.de
 0.0.0.0 kyoshorc.com
+0.0.0.0 kyros-mining.github.io
 0.0.0.0 kytoelektro.com
 0.0.0.0 kzoephoto.com
 0.0.0.0 kzp-handel.com
@@ -25253,6 +25260,7 @@
 0.0.0.0 recetasplus.com
 0.0.0.0 rechato.com
 0.0.0.0 rechtsanwalt-adams.com
+0.0.0.0 rechtsanwalt-breithaupt.de
 0.0.0.0 rechtsanwalt-scheer.net
 0.0.0.0 rechtsanwalt-sirrenberg.de
 0.0.0.0 rechtsanwalt-wiegmann.de
