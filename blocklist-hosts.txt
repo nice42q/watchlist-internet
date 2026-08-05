@@ -51,6 +51,7 @@
 0.0.0.0 222-t.com
 0.0.0.0 223.de.com
 0.0.0.0 22crypton-tradings.com
+0.0.0.0 24-fahrradladen.com
 0.0.0.0 24-modellstore.com
 0.0.0.0 247-healthstore.com
 0.0.0.0 247blue.de
@@ -818,6 +819,7 @@
 0.0.0.0 alisreinigungservice.de
 0.0.0.0 alitec-online-sto.shop
 0.0.0.0 aliveffect.com
+0.0.0.0 alkan-bike.com
 0.0.0.0 alkapczynska.com
 0.0.0.0 all-eco.eu
 0.0.0.0 all-est.com
@@ -5401,6 +5403,7 @@
 0.0.0.0 chasellsm.click
 0.0.0.0 chaserclothes.com
 0.0.0.0 chastitybox.com
+0.0.0.0 chat-box.ai
 0.0.0.0 chatfever.at
 0.0.0.0 chatgpt-dividende.de
 0.0.0.0 chatgpt-investment.de
@@ -6659,6 +6662,7 @@
 0.0.0.0 custom.changepool.xyz
 0.0.0.0 customalls.com
 0.0.0.0 customerwelcome.top
+0.0.0.0 custosprivatstiftung.at
 0.0.0.0 cutadorns.com
 0.0.0.0 cutblajat.com
 0.0.0.0 cutcy.top
@@ -13806,6 +13810,7 @@
 0.0.0.0 heute-horoskope.de
 0.0.0.0 heveganl.com
 0.0.0.0 hexagonresources.org
+0.0.0.0 hextryxstorm.digital
 0.0.0.0 heydearde.shop
 0.0.0.0 heydude-schuhe.de
 0.0.0.0 heydude-spain.com
@@ -16674,6 +16679,7 @@
 0.0.0.0 klimabonus-2026.net
 0.0.0.0 klimabonus-at.com
 0.0.0.0 klimabonus2026.at
+0.0.0.0 klimafresh.com
 0.0.0.0 klimag.myshopify.com
 0.0.0.0 klimageld-2026.cc
 0.0.0.0 klimagerat.com
@@ -17107,6 +17113,7 @@
 0.0.0.0 kyoshorc.com
 0.0.0.0 kyros-mining.github.io
 0.0.0.0 kytoelektro.com
+0.0.0.0 kzlkozlm.shop
 0.0.0.0 kzoephoto.com
 0.0.0.0 kzp-handel.com
 0.0.0.0 kzv-kirdorf.de
@@ -17570,6 +17577,7 @@
 0.0.0.0 leguano-at.com
 0.0.0.0 leguano-schuhe.at
 0.0.0.0 leguanoschuhe.at
+0.0.0.0 lehmann-gartenmaschinen.com
 0.0.0.0 lehmann-kauf.com
 0.0.0.0 lehmannatelier.de
 0.0.0.0 lehmannhannover.de
@@ -17631,6 +17639,7 @@
 0.0.0.0 lendowl.co
 0.0.0.0 lengerich-kontor.de
 0.0.0.0 lengerts.de
+0.0.0.0 lenimara.at
 0.0.0.0 lennartkreutz.de
 0.0.0.0 lenoxsale.com
 0.0.0.0 leoapotheke-detmold.de
@@ -19290,6 +19299,7 @@
 0.0.0.0 medicalandbeautycare.com
 0.0.0.0 medicalapotheke.com
 0.0.0.0 medicalbasic.de
+0.0.0.0 medicalsupportsale.com
 0.0.0.0 medicamententreparticulier.com
 0.0.0.0 medicine73.com
 0.0.0.0 medicineronline.net
@@ -20398,6 +20408,7 @@
 0.0.0.0 motoholland.com
 0.0.0.0 motokultur-shop.com
 0.0.0.0 motonordic.shop
+0.0.0.0 motopartsdeutschland.com
 0.0.0.0 motorblockelektrik.com
 0.0.0.0 motorcyclecastlex.com
 0.0.0.0 motorcycleonussale.com
@@ -20493,6 +20504,7 @@
 0.0.0.0 mrugalla-restaurator.de
 0.0.0.0 mrzubehorgeschaft.com
 0.0.0.0 ms-shippings.net
+0.0.0.0 msanhanger.at
 0.0.0.0 msc-transglobal.com
 0.0.0.0 mscweissenbach.at
 0.0.0.0 mse-the-beautycompany.shop
@@ -21387,6 +21399,7 @@
 0.0.0.0 nikeuk.uk.com
 0.0.0.0 nikfalaht.com
 0.0.0.0 niki4u.at
+0.0.0.0 nikicloth.de
 0.0.0.0 nikiexportdiffusion.com
 0.0.0.0 nikitakelley.com
 0.0.0.0 nikkiluzzi.com
@@ -21642,6 +21655,7 @@
 0.0.0.0 novana-berlin.de
 0.0.0.0 novando.de
 0.0.0.0 novant.fr
+0.0.0.0 novaris-capitallimited.ltd
 0.0.0.0 novarixtrader.net
 0.0.0.0 novasabers.de
 0.0.0.0 novateki.com
@@ -23533,6 +23547,7 @@
 0.0.0.0 peritacionjudicialoficial.com
 0.0.0.0 perlatoschuhe.com
 0.0.0.0 perlatoshoe.com
+0.0.0.0 perlenwerk.com
 0.0.0.0 perlenzwoelfe.de
 0.0.0.0 perlidit.org
 0.0.0.0 perlimpinpinde.shop
@@ -26989,6 +27004,7 @@
 0.0.0.0 schaumex.shop
 0.0.0.0 schaumstofffischer.shop
 0.0.0.0 schedule73parts.shop
+0.0.0.0 schelhammer-systems.com
 0.0.0.0 schellenschmie.de
 0.0.0.0 schemecarce.net
 0.0.0.0 schemette.top
@@ -28305,6 +28321,7 @@
 0.0.0.0 skyquaddrone.com
 0.0.0.0 skyrro.com
 0.0.0.0 skyvoi-de.com
+0.0.0.0 skywork.ai
 0.0.0.0 skyxon.de
 0.0.0.0 sl-handel24.de
 0.0.0.0 sl-leasinggesmbh.at
@@ -28414,6 +28431,7 @@
 0.0.0.0 smitdeals.de
 0.0.0.0 smk.dog
 0.0.0.0 smlkje.com
+0.0.0.0 smokelabin.com
 0.0.0.0 smokerland.net
 0.0.0.0 smokingwares.com
 0.0.0.0 smono.life
@@ -35282,6 +35300,7 @@
 0.0.0.0 zoneustoys.com
 0.0.0.0 zonevogue-us.com
 0.0.0.0 zoneyell.com
+0.0.0.0 zonixwater.com
 0.0.0.0 zonlaythuo.com
 0.0.0.0 zooclouduk.com
 0.0.0.0 zoodom.at
