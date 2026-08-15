@@ -2,10 +2,10 @@
 # Pi-hole DNS Blocklist: Watchlist Internet
 # Source: https://www.watchlist-internet.at/liste-betruegerischer-shops/csv/
 # Pi-hole Source: https://github.com/nice42q/watchlist-internet
-# Last update: 2026-08-14 03:00:51 UTC
+# Last update: 2026-08-15 01:52:16 UTC
 #
 # --- Analysis statistics for this update ---
-# Total valid domains:       35534
+# Total valid domains:       35542
 # Duplicate entries removed: 8
 # Invalid lines filtered:    2
 # -------------------------------------------
@@ -1670,7 +1670,6 @@
 ||aretephoenix.com^
 ||arfinag.icu^
 ||arguscapital.net^
-||arialscompany.at^
 ||ariat-megasales.shop^
 ||ariat-osterreich.at^
 ||ariat-western.com^
@@ -11354,6 +11353,7 @@
 ||fullsora.de^
 ||fullswingfootwear.com^
 ||fullzcash.com^
+||fullzcash.vip^
 ||funccy.com^
 ||functional-bike.com^
 ||functoolslp.com^
@@ -11787,6 +11787,7 @@
 ||garten-frische.de^
 ||garten-hagemann.com^
 ||garten-heimwerken.com^
+||garten-market.com^
 ||garten-outdoor.com^
 ||garten-pflanzen-pro.com^
 ||garten-rasentraktor.com^
@@ -12366,6 +12367,7 @@
 ||glanz-mode.de^
 ||glanzberg-mode.de^
 ||glanzschuh.com^
+||glanzwiese.com^
 ||glaprestige.com^
 ||glas-gs.de^
 ||glas-plus.at^
@@ -16946,6 +16948,7 @@
 ||kopfwaermer.com^
 ||kopkde.shop^
 ||koppermuller-markt.de^
+||koppermuller-shop.de^
 ||koppsic.top^
 ||kopticschool.de^
 ||korase.de^
@@ -19377,6 +19380,7 @@
 ||mediamarkt-berlin.com^
 ||mediamarkt-de.com^
 ||mediamarkt-de.store^
+||mediamarkt-gg.com^
 ||mediamigo.net^
 ||median-home.com^
 ||medianews77.com^
@@ -21157,6 +21161,7 @@
 ||nestleena.com^
 ||nestleix.com^
 ||nestleovae.com^
+||nestmylab.com^
 ||nestmypad.com^
 ||nestproh.com^
 ||nestrack.shop^
@@ -25281,6 +25286,7 @@
 ||rasenmahershop.com^
 ||rasenmaherwendik.de^
 ||rasenmarkt.com^
+||rasenmaschinen.com^
 ||rasenmotor.com^
 ||rasenrobo.com^
 ||rasenshop24.com^
@@ -27251,6 +27257,7 @@
 ||schrader-reifen.com^
 ||schraderbilliger.com^
 ||schrankede.com^
+||schraubenhub.de^
 ||schraubenpro.com^
 ||schraubheld24.de^
 ||schraubschmiede.de^
@@ -35077,6 +35084,7 @@
 ||yonexs.at^
 ||yongset.shop^
 ||yonkine.com^
+||yonook.com^
 ||yoocaa.com^
 ||yoohal.com^
 ||yoolo.shop^
