@@ -10609,6 +10609,7 @@
 0.0.0.0 fintessxpert.com
 0.0.0.0 fintrexia.org
 0.0.0.0 finyxrefund.com
+0.0.0.0 finzanzonline.com
 0.0.0.0 fiorenz.com
 0.0.0.0 fiorora.com
 0.0.0.0 fipecampania.it

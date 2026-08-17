@@ -2,10 +2,10 @@
 # Pi-hole DNS Blocklist: Watchlist Internet
 # Source: https://www.watchlist-internet.at/liste-betruegerischer-shops/csv/
 # Pi-hole Source: https://github.com/nice42q/watchlist-internet
-# Last update: 2026-08-15 01:52:16 UTC
+# Last update: 2026-08-17 01:56:57 UTC
 #
 # --- Analysis statistics for this update ---
-# Total valid domains:       35542
+# Total valid domains:       35543
 # Duplicate entries removed: 8
 # Invalid lines filtered:    2
 # -------------------------------------------
@@ -10620,6 +10620,7 @@
 ||fintessxpert.com^
 ||fintrexia.org^
 ||finyxrefund.com^
+||finzanzonline.com^
 ||fiorenz.com^
 ||fiorora.com^
 ||fipecampania.it^
