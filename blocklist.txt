@@ -2,12 +2,12 @@
 # Pi-hole DNS Blocklist: Watchlist Internet
 # Source: https://www.watchlist-internet.at/liste-betruegerischer-shops/csv/
 # Pi-hole Source: https://github.com/nice42q/watchlist-internet
-# Last update: 2026-08-17 01:56:57 UTC
+# Last update: 2026-08-18 01:52:55 UTC
 #
 # --- Analysis statistics for this update ---
-# Total valid domains:       35543
+# Total valid domains:       35584
 # Duplicate entries removed: 8
-# Invalid lines filtered:    2
+# Invalid lines filtered:    3
 # -------------------------------------------
 #
 ||01534.bitcoinasystem.su^
@@ -578,6 +578,7 @@
 ||agogland.top^
 ||agowest.com^
 ||agrarbedarfshop.com^
+||agrarhaustier.com^
 ||agrarstarz.shop^
 ||agreead.top^
 ||agreealso.com^
@@ -1711,6 +1712,7 @@
 ||armstore.one^
 ||armstres.com^
 ||armxn.com^
+||armywe.site^
 ||arnelsen.de^
 ||arnold-steimle.de^
 ||arnoldswelpenhaus.com^
@@ -2608,6 +2610,7 @@
 ||bankdjournalsur.com^
 ||bankindq.com^
 ||banking-emirates.com^
+||banking.dolomiten.sbs^
 ||banking.narodnabanka.sk^
 ||banking.wsboh.org^
 ||bankot.top^
@@ -2803,6 +2806,7 @@
 ||bausatzwelt.de^
 ||baustellenbedarfbillig.com^
 ||baustellenbedarfrabatt.com^
+||baustoffestore.com^
 ||baustoffwerkzeug.com^
 ||bauteilegest.com^
 ||bauundgarten.com^
@@ -3469,6 +3473,7 @@
 ||bibling.xyz^
 ||bibox-coin.com^
 ||bicelio.com^
+||bici-vience.com^
 ||bicycle-clearance.com^
 ||bicycle-exercise.com^
 ||bicycle-hotsale.com^
@@ -4144,6 +4149,7 @@
 ||borpillshop.com^
 ||borrow-money7.college^
 ||bortiq.com^
+||borvane.com^
 ||boschk.myshopify.com^
 ||boschk.store^
 ||boschtoolshop.com^
@@ -4813,6 +4819,7 @@
 ||cachoyarg.com^
 ||cacjack.com^
 ||cacoery.top^
+||cacollypetfood.com^
 ||cadcoinpro.ca^
 ||cadeauxchef.com^
 ||cadenrs.com^
@@ -6835,6 +6842,7 @@
 ||dalmatinac.de^
 ||dalmory.com^
 ||dalnicka.cz^
+||dam-autoshop.com^
 ||damatro.com^
 ||damco-logistics.com^
 ||damco-ltd.com^
@@ -7280,6 +7288,7 @@
 ||dein-rundfunkbeitrag.de^
 ||dein-schuhheld.com^
 ||dein-sicheres-bad.de^
+||deinbeautytraum.com^
 ||deinbezirkunddu.at^
 ||deine-djs.de^
 ||deine-mode.shop^
@@ -7757,6 +7766,7 @@
 ||digjaberb.com^
 ||digles.at^
 ||dihaadil.com^
+||diivokine.com^
 ||dikano-danmark.com^
 ||dilary.com^
 ||diliving.com^
@@ -8012,6 +8022,7 @@
 ||dollsandsofttoys.com^
 ||dolomite.co.at^
 ||dolomite.com.de^
+||dolomitenbahk.com^
 ||dolophin.com^
 ||dolters.de^
 ||dom-home.com^
@@ -8704,6 +8715,7 @@
 ||effectth.top^
 ||effectualfashion.com^
 ||effectvesr.top^
+||effexlaw.com^
 ||efficiencye.com^
 ||efficient-flow.solutions^
 ||efficienthandtools.com^
@@ -8891,6 +8903,7 @@
 ||elektriker-john.at^
 ||elektriker-koc.at^
 ||elektriker-notdienstwien.com^
+||elektriker-rudolf.at^
 ||elektriker-zone.at^
 ||elektriker.fink24.info^
 ||elektriker.kv-service.at^
@@ -9038,6 +9051,7 @@
 ||elureea.de^
 ||eluxeoutlet.de^
 ||eluxuryonline.com^
+||elvamat.com^
 ||elwods.store^
 ||elwomis.de^
 ||elysianr.uk^
@@ -10017,6 +10031,7 @@
 ||familiarm.net^
 ||familiarn.com^
 ||familie-amelsberg.de^
+||familien-auf-tour.de^
 ||familienbegleiterin.de^
 ||familienmobil24.de^
 ||familienschatze.com^
@@ -10467,6 +10482,7 @@
 ||fideligencia.com^
 ||fidelius21.at^
 ||fideltylife.com^
+||fidexico.eu^
 ||fidilityprofx.com^
 ||field-baseball.com^
 ||field-locomotive.com^
@@ -11494,6 +11510,7 @@
 ||fxpremiertrades.com^
 ||fxprofitplanet.com^
 ||fxrikg.shop^
+||fxsazczb.shop^
 ||fxtfinanceportfolio.com^
 ||fxtradespolkaakcyjna.com^
 ||fxuniontrading.com^
@@ -12932,6 +12949,7 @@
 ||gruber-reifenversand.com^
 ||gruber-wien.com^
 ||grubergraz.at^
+||grubervienna.com^
 ||grubmanns.de^
 ||gruene-niederbarnim.de^
 ||gruene-spende.de^
@@ -13722,6 +13740,7 @@
 ||heizungstechworld.com^
 ||heizungszubehoer.com^
 ||heizungundklimawelt.com^
+||heizwelt24.shop^
 ||heizx.de^
 ||heizzu.de^
 ||hejhannide.shop^
@@ -15212,6 +15231,7 @@
 ||installateur-nothilfe.at^
 ||installateur-platz1.at^
 ||installateur-profis24.at^
+||installateur-rudolf.at^
 ||installateur-top.at^
 ||installateur.artpro-24.pro^
 ||installateur.hilfe-24.at^
@@ -16189,6 +16209,7 @@
 ||karenjsander.com^
 ||karenmillendeutschland.de^
 ||karenmiss.com^
+||karger-agentur.de^
 ||kargoka.store^
 ||karikaturde.shop^
 ||karimafartous.com^
@@ -16299,6 +16320,7 @@
 ||kaukokiito.top^
 ||kaulmann-berlin.de^
 ||kausholzs.com^
+||kausnackwelt.com^
 ||kavehomesale.shop^
 ||kavri.de^
 ||kawaiiroleplay.com^
@@ -17408,6 +17430,7 @@
 ||lasportiva.club^
 ||lasportivaapps.com^
 ||lasportivaat.at^
+||lasportivaaustria.myshoplaza.com^
 ||lasportivade.club^
 ||lasportivaeu.top^
 ||lasportivait.top^
@@ -19759,6 +19782,7 @@
 ||mewmews.com^
 ||mexc.com^
 ||mexdkjuf.com^
+||mexdkjuo.com^
 ||mexicotabs.com^
 ||mexisale.com^
 ||mexxireland.com^
@@ -21014,6 +21038,7 @@
 ||natuerlichfutter.com^
 ||natur-held.de^
 ||natura-zuda.de^
+||naturabenteuer.com^
 ||naturacare360.com^
 ||naturalhatu-shop.com^
 ||naturalhavalandirma.com^
@@ -21453,6 +21478,7 @@
 ||nicetechmax.com^
 ||nicetechpro.com^
 ||nicetoolpalace.com^
+||nicetossyhn.click^
 ||niceusopp.com^
 ||nicheforge.com^
 ||nichespares.com^
@@ -23492,6 +23518,7 @@
 ||pbc-olympic.de^
 ||pbdataq.com^
 ||pbglab.it^
+||pbici.com^
 ||pbpksbd.com^
 ||pbvipshop.com^
 ||pc-akku.at^
@@ -23500,6 +23527,7 @@
 ||pc.daefox.com^
 ||pcakkusdirekt.de^
 ||pcdok.at^
+||pcdpyqtc.shop^
 ||pcpartsvendor.com^
 ||pcsada.com^
 ||pd99.cc^
@@ -23653,6 +23681,7 @@
 ||perfumestylish.com^
 ||perfumology.shop^
 ||perganok.site^
+||pergus-data.de^
 ||perhapsia.top^
 ||perimetem.com^
 ||perimtharty.com^
@@ -24426,6 +24455,7 @@
 ||premium-union-credit.de^
 ||premium-unipay-card.de^
 ||premium-yields.com^
+||premiumedelnicetrachtenmo.com^
 ||premiumedelnicetrachtenmo.shop^
 ||premiumee.com^
 ||premiumer.co^
@@ -24887,6 +24917,7 @@
 ||pv-norden.shop^
 ||pvabazon.com^
 ||pvanlage24.com^
+||pvncjdw.shop^
 ||pvqkcuin.shop^
 ||pw-express.com^
 ||pwbeq.com^
@@ -27173,6 +27204,7 @@
 ||schluessel-maxi.at^
 ||schluesseldienst-hilfe.at^
 ||schluesseldienst-hilft.at^
+||schluesseldienst-rudolf.at^
 ||schluesseldienst.platz-1.at^
 ||schluesseldienst.valers.site^
 ||schluesseldienst123.at^
@@ -27251,6 +27283,7 @@
 ||schonewelpenzuverkaufen.de^
 ||schonewolke.com^
 ||schoneyorkshirewelpen.com^
+||schonique.com^
 ||schoolbagsale.com^
 ||schoolsupplies-official.com^
 ||schottenring33-wien.at^
@@ -29084,6 +29117,7 @@
 ||sports-off.com^
 ||sports-rugby.com^
 ||sports-theshop.com^
+||sports-xpert.com^
 ||sportsashoes.com^
 ||sportsbag.store^
 ||sportsbagssales.com^
@@ -29214,6 +29248,7 @@
 ||standard-oel.de^
 ||standardearning.online^
 ||standesamt-portal.de^
+||standprofi.com^
 ||stanfpv.com^
 ||stanley-cups.at^
 ||stanley-cups.de^
@@ -29672,6 +29707,7 @@
 ||stuhleclient.com^
 ||stumpf-autoreifen.com^
 ||stunning-clothes.shop^
+||stunningmakeupstore.com^
 ||stunningshoe.com^
 ||stunt-team.at^
 ||stupistic.top^
@@ -33320,6 +33356,7 @@
 ||vintagehomekit-us.com^
 ||vintageitisrain.store^
 ||vintageladies.de^
+||vintagespinvinyl.com^
 ||vintageusfurniture.com^
 ||vintageweinde.com^
 ||vintanzo.de^
@@ -33327,6 +33364,7 @@
 ||vintedi.vip^
 ||vintedreselling.eu^
 ||vintross.de^
+||vinvieux.com^
 ||vinylcollectorde.shop^
 ||vinylrecordmall.com^
 ||violawatch.shop^
@@ -33480,6 +33518,7 @@
 ||vivpetsupply.com^
 ||vivsix.com^
 ||vizsales.com^
+||vjzxdhai.shop^
 ||vkvtoshop.top^
 ||vl-soudure.com^
 ||vlappartient.com^
@@ -34439,6 +34478,7 @@
 ||winkersy.top^
 ||winkler-gartenhandel.de^
 ||winkler-modehaus.de^
+||winklers-handel.de^
 ||winmauvip.store^
 ||winteasm.com^
 ||wintechfxglobal.com^
@@ -35503,6 +35543,7 @@
 ||zubehorstiefel.com^
 ||zuchterheim.com^
 ||zuedy.de^
+||zuhausealltaglernen.com^
 ||zuhauseshopde.shop^
 ||zuhaushop.de^
 ||zuhiog.com^
