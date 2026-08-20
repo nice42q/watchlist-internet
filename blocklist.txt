@@ -2,10 +2,10 @@
 # Pi-hole DNS Blocklist: Watchlist Internet
 # Source: https://www.watchlist-internet.at/liste-betruegerischer-shops/csv/
 # Pi-hole Source: https://github.com/nice42q/watchlist-internet
-# Last update: 2026-08-19 01:55:08 UTC
+# Last update: 2026-08-20 01:53:57 UTC
 #
 # --- Analysis statistics for this update ---
-# Total valid domains:       35788
+# Total valid domains:       35820
 # Duplicate entries removed: 8
 # Invalid lines filtered:    3
 # -------------------------------------------
@@ -977,6 +977,7 @@
 ||alpennord.de^
 ||alpenpellets.pro^
 ||alpenrose-mode.com^
+||alpenroute36.com^
 ||alpenwien.com^
 ||alpenwolken.de^
 ||alperchokenarev.com^
@@ -3929,6 +3930,7 @@
 ||blaudonu.de^
 ||blaue-dragoner.de^
 ||blaujade.com^
+||blaupause-leipzig.shop^
 ||blazertokids.com^
 ||bleadersci.com^
 ||blemie-germany.com^
@@ -4236,6 +4238,7 @@
 ||bowpity.com^
 ||bowtech-impuls.de^
 ||bowtielatest.com^
+||box-trailers.com^
 ||box4container.com^
 ||boxcomedy.com^
 ||boxed-memories.us^
@@ -6590,6 +6593,7 @@
 ||crocsosterreich.at^
 ||crocsoutletdeutschland.com^
 ||crokdalien.com^
+||croozerangebote.com^
 ||crop-better.net^
 ||crop-bytes.com^
 ||crop.patientburn.xyz^
@@ -6781,6 +6785,7 @@
 ||cyclegearmart.com^
 ||cyclemartpro.com^
 ||cycleorigin.com^
+||cyclepartsstore.com^
 ||cyclepirelliprofile.com^
 ||cyclepopular.com^
 ||cycleshopworld.com^
@@ -7849,6 +7854,7 @@
 ||directnixne.shop^
 ||directsalesr.top^
 ||directzs.com^
+||direkt-fahrrad-roller.de^
 ||direkte-verarbeitung.site^
 ||dirkdreier.de^
 ||dirkethilfe24.at^
@@ -8600,7 +8606,6 @@
 ||ebliss.shop^
 ||ebmini.de^
 ||ebnblog.com^
-||eboerse.shop^
 ||ebooklyn.net^
 ||eburpat.com^
 ||ebuy.webestry.life^
@@ -12360,6 +12365,7 @@
 ||gigachains.com^
 ||gigaly.at^
 ||gigant-agencyjny.com^
+||gigantautoteile.com^
 ||gigasport8.myshoplaza.com^
 ||gigawelt.com^
 ||gigawelt.net^
@@ -12918,6 +12924,7 @@
 ||grillenrabatt.com^
 ||grillfuerstde.com^
 ||grillfuerstshop.com^
+||grillhausug.com^
 ||grillmatte.at^
 ||grillmeisterde.com^
 ||grillprofishop.com^
@@ -13560,6 +13567,7 @@
 ||hausversand.com^
 ||hauswelt.shop^
 ||hautarzt-augsburg.info^
+||haute-berlin.de^
 ||hautecouturetaschenreinigung.de^
 ||hauwuwatch.com^
 ||havaartwork.shop^
@@ -14189,6 +14197,7 @@
 ||hodinkle.com^
 ||hoeglshoes.com^
 ||hoelzemann-herrmann.de^
+||hofasudtransport.com^
 ||hofberg-stil.com^
 ||hofer-austria.shop^
 ||hofer-graz.com^
@@ -14395,6 +14404,7 @@
 ||homelovingus.com^
 ||homeluxehub.com^
 ||homelyia.com^
+||homelyist.com^
 ||homelyno.com^
 ||homelynyc.com^
 ||homelysale.com^
@@ -15139,6 +15149,7 @@
 ||impecspalm.pro^
 ||impeller-sales.com^
 ||impellerde.com^
+||impellerverkauf.com^
 ||imperial-craft.com^
 ||imperialboutique.de^
 ||imperialgardz.com^
@@ -15671,6 +15682,7 @@
 ||jafar-france.fr^
 ||jaffe-rechtsanwaelte.de^
 ||jag-elec.com^
+||jagdschwestern.de^
 ||jagdundungarn.at^
 ||jagerdrive.com^
 ||jagfa.com^
@@ -16822,6 +16834,7 @@
 ||klarvi.de^
 ||klassfx.com^
 ||klassisch.grafik-krakora.at^
+||klassischelichter.com^
 ||klassischesfahrradneu.com^
 ||klaudora.com^
 ||klauenpflegeschmid.de^
@@ -16871,6 +16884,7 @@
 ||klick-ndb.de^
 ||klima-bonus.app^
 ||klima-heizung-pumpen.com^
+||klimaanlageportal.de^
 ||klimabonus-2026.net^
 ||klimabonus-antrag.co^
 ||klimabonus-at.com^
@@ -18152,6 +18166,7 @@
 ||limmstore.com^
 ||limon-shop.at^
 ||limoza.de^
+||lin7dwerk46.com^
 ||linashop.de^
 ||linavellegoods.com^
 ||lindabonf.shop^
@@ -18272,6 +18287,7 @@
 ||liviaberlin.de^
 ||liviafood.shop^
 ||livicy.de^
+||livineda.de^
 ||living-smarter24.com^
 ||livingbestsellers.com^
 ||livingcatnapper.com^
@@ -19787,6 +19803,7 @@
 ||menstorewear.com^
 ||menstrualdisc.de^
 ||mentailtyinand.top^
+||mentalabs.org^
 ||mentalitynot.top^
 ||mentech.shop^
 ||mentfieldlgs.com^
@@ -20811,6 +20828,7 @@
 ||muhiuddino.shop^
 ||muidi.com^
 ||mujiosterreich.com^
+||mulevas.com^
 ||mullandfraser.com^
 ||muller-berlin.co^
 ||muller-graz.com^
@@ -22686,6 +22704,7 @@
 ||onlytwonow.top^
 ||onlywesternclo.com^
 ||onmenproducts.com^
+||onnutritionatshop.com^
 ||ono-7.top^
 ||onopenbooks.com^
 ||onosterreich.at^
@@ -25256,6 +25275,7 @@
 ||ra-ganske.de^
 ||ra-gleissner.de^
 ||ra-gsklegal.de^
+||ra-owl.de^
 ||ra-rick.de^
 ||raab-reifen.com^
 ||raabeenq.com^
@@ -25357,6 +25377,7 @@
 ||raderstore.de^
 ||radfahrenrabatt.com^
 ||radfahrzeit.com^
+||radfit24.com^
 ||radhabeauty.shop^
 ||radhandel24.de^
 ||radiadoresadicionales.com^
@@ -26562,6 +26583,7 @@
 ||rovikshop.de^
 ||rovola.de^
 ||rovux.co^
+||rowenta.com.de^
 ||rowentaelektro.com^
 ||rowsayca.com^
 ||roxyaustria.at^
@@ -26581,6 +26603,7 @@
 ||royalinspire.com^
 ||royalinvestmentconsortium.com^
 ||royalkitten.at^
+||royalpfoten.de^
 ||royalranaltd.com^
 ||royalrobpascher.de^
 ||royaura.shop^
@@ -29597,6 +29620,7 @@
 ||stilvollesgeschirr.com^
 ||stilvollherr.de^
 ||stimeyou.com^
+||stimmfang.com^
 ||stinco-insolvenz.de^
 ||sting-ring.de^
 ||stitchcompagnon.store^
@@ -30391,6 +30415,7 @@
 ||swixski.de^
 ||swizzpro.com^
 ||swristbandpro.com^
+||swzec.store^
 ||sxiuer.com^
 ||sxjmzw.shop^
 ||sxm.uk.com^
@@ -31949,6 +31974,7 @@
 ||trainhause.com^
 ||trainingboxsales.com^
 ||trainseries.com^
+||trainwelt.com^
 ||trakkerbillig.com^
 ||trakl-leibl.at^
 ||trallsland.com^
@@ -31994,6 +32020,7 @@
 ||traumfloorshop.com^
 ||traumgarten.latahalcom.shop^
 ||traumgirlanden.shop^
+||traumwelpenzuhause.de^
 ||traumwiese24.de^
 ||traumwolke.shop^
 ||traunsbergergarten.de^
@@ -33209,6 +33236,7 @@
 ||vejavienna.at^
 ||vejoheza.top^
 ||velanoshop.com^
+||velareehhaus.com^
 ||velaro-plus.com^
 ||velencia.de^
 ||velhaven.net^
@@ -33289,6 +33317,7 @@
 ||verbition.top^
 ||verbundmarkt.com^
 ||verdalucina.com^
+||verde-wallet.com^
 ||verein-sulzbrunn.de^
 ||vereins-web.at^
 ||vereinsregisterauszug.at^
@@ -33985,6 +34014,7 @@
 ||wafturef.com^
 ||wagemannmode.de^
 ||wagenfreude.de^
+||wagner-baumaschinen.com^
 ||wagner-boutique.com^
 ||wagner-mode.com^
 ||wagner-versandhaus.net^
@@ -34312,6 +34342,7 @@
 ||wegoflight.com^
 ||wegovy-osterreich.com^
 ||wegovymexicopharmacy.com^
+||weidemann-kanzlei.de^
 ||weidmullertool.com^
 ||weidner-shop.de^
 ||weigelt-heizung.de^
@@ -35269,6 +35300,7 @@
 ||yesokjewelry.com^
 ||yesperly.com^
 ||yetast.top^
+||yeti.com.de^
 ||yexktahz.shop^
 ||yfregent.com^
 ||yfruitnut.com^
