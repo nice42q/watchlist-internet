@@ -627,6 +627,7 @@
 0.0.0.0 aio-vita.com
 0.0.0.0 air-jordan4.com
 0.0.0.0 air-max.at
+0.0.0.0 air-profits.com
 0.0.0.0 air-uposterreich.at
 0.0.0.0 air-uposterreich.com
 0.0.0.0 air3panda1.store
@@ -875,6 +876,7 @@
 0.0.0.0 allesfuerzuhause.com
 0.0.0.0 allesfur-baby.com
 0.0.0.0 allesheizung.de
+0.0.0.0 allesimalltag.com
 0.0.0.0 allesineinemshop.com
 0.0.0.0 allesnettokredit.com
 0.0.0.0 allesoutdoor.de
@@ -1727,6 +1729,7 @@
 0.0.0.0 arptrade.com
 0.0.0.0 arraiconvert.com
 0.0.0.0 arriba-elektro.de
+0.0.0.0 arrivaldaresprocedure.com
 0.0.0.0 arrowlabelca.com
 0.0.0.0 arrowtun.com
 0.0.0.0 arrsdo.com
@@ -2343,6 +2346,7 @@
 0.0.0.0 awirer.com
 0.0.0.0 awishday.com
 0.0.0.0 awpepgmd.top
+0.0.0.0 awsea.eu.cc
 0.0.0.0 axa-immo.us
 0.0.0.0 axel-maschine.de
 0.0.0.0 axelarigatoschuhe.com
@@ -2374,6 +2378,7 @@
 0.0.0.0 ayfbxefm.veseleusi.cz
 0.0.0.0 aylanzo-store.de
 0.0.0.0 aylica.de
+0.0.0.0 aymwoljw.shop
 0.0.0.0 aynosa.de
 0.0.0.0 ayola.de
 0.0.0.0 ayparwebt.com
@@ -4110,6 +4115,7 @@
 0.0.0.0 bonbelle.shop
 0.0.0.0 bonbelle.store
 0.0.0.0 bongochat.de
+0.0.0.0 bongochat.me
 0.0.0.0 bonluda.de
 0.0.0.0 bonneauchloee.com
 0.0.0.0 bonorumcbdde.shop
@@ -4792,6 +4798,7 @@
 0.0.0.0 byelvira.de
 0.0.0.0 byemmabecker.de
 0.0.0.0 byfianna.de
+0.0.0.0 bygeneva.de
 0.0.0.0 byilse.de
 0.0.0.0 bykidesigns.com
 0.0.0.0 bylassenhome.com
@@ -6964,6 +6971,7 @@
 0.0.0.0 dasoo.de
 0.0.0.0 dasorevaparis.de
 0.0.0.0 dassoustore.com
+0.0.0.0 daswarenregal.com
 0.0.0.0 daswirthshaus.com
 0.0.0.0 datactively.com
 0.0.0.0 dataery.xyz
@@ -7324,6 +7332,7 @@
 0.0.0.0 deine-wolle.shop
 0.0.0.0 deinefunde.de
 0.0.0.0 deinegartenprofis.de
+0.0.0.0 deinemarktplatz24.com
 0.0.0.0 deinemoebelpacker24.at
 0.0.0.0 deineschmuckkiste.de
 0.0.0.0 deinetierliebe.de
@@ -7755,6 +7764,7 @@
 0.0.0.0 dienstleistung-horvath.com
 0.0.0.0 dienstprogrammeverkauf.com
 0.0.0.0 diepholz-versand.shop
+0.0.0.0 diermann-marketing.net
 0.0.0.0 dieschwarzwalderkuche.com
 0.0.0.0 diesel-osterreich.com
 0.0.0.0 diesel-outlet.de
@@ -7861,6 +7871,7 @@
 0.0.0.0 discoument.store
 0.0.0.0 discount-audio-equipment.com
 0.0.0.0 discount-kobalt.com
+0.0.0.0 discount-lightingshop.com
 0.0.0.0 discount-mytholon.shop
 0.0.0.0 discount-on-car-parts.com
 0.0.0.0 discount-pharmacy.cfd
@@ -8392,6 +8403,7 @@
 0.0.0.0 duftdabei.de
 0.0.0.0 duftefursie.com
 0.0.0.0 dugoutmugs.shop
+0.0.0.0 duhm-motorgerate.de
 0.0.0.0 duisburg-fashion.de
 0.0.0.0 duitsland1.myshopify.com
 0.0.0.0 dulcine.de
@@ -9141,6 +9153,7 @@
 0.0.0.0 emmaschneider.de
 0.0.0.0 emmastebbings.com
 0.0.0.0 emmastein.shop
+0.0.0.0 emmastuttgart.com
 0.0.0.0 emmaweberr.de
 0.0.0.0 emmay.de
 0.0.0.0 emmebineon.it
@@ -9351,6 +9364,7 @@
 0.0.0.0 eradprofi.com
 0.0.0.0 erainvest.net
 0.0.0.0 erasterry.com
+0.0.0.0 erbeborse.com
 0.0.0.0 erbrechtstage-gera.de
 0.0.0.0 erclubi.cc
 0.0.0.0 ercudia.shop
@@ -9449,6 +9463,7 @@
 0.0.0.0 esn-fitness.com
 0.0.0.0 esneuroutlet.com
 0.0.0.0 esnoutleteur.com
+0.0.0.0 esnssalies.shop
 0.0.0.0 esnsupply.shop
 0.0.0.0 esoftn.shop
 0.0.0.0 esotecde.shop
@@ -9510,7 +9525,6 @@
 0.0.0.0 estransportundlogistik-gmbh.de
 0.0.0.0 estraorchard.com
 0.0.0.0 estrategen.de
-0.0.0.0 esy-oil.com
 0.0.0.0 esyqefp.top
 0.0.0.0 et.butgas.com
 0.0.0.0 etacticali.com
@@ -10595,6 +10609,7 @@
 0.0.0.0 financialpronews.com
 0.0.0.0 financleguarantycoporation.com
 0.0.0.0 finanz-schnell.de
+0.0.0.0 finanzamt-familienbeihilfe-at.com
 0.0.0.0 finanzaufsichtsbehoerde.com
 0.0.0.0 finanzonline-gvbmfgv.info
 0.0.0.0 finanzonline.at.bmf.gv-uberprufung.com
@@ -11331,6 +11346,7 @@
 0.0.0.0 fridayexpo.com
 0.0.0.0 fridaymall.info
 0.0.0.0 frieda-taschen.de
+0.0.0.0 friedamuenchen.com
 0.0.0.0 friedaskitchen.de
 0.0.0.0 friedberg-mode.de
 0.0.0.0 friedrich-modehaus.de
@@ -12148,6 +12164,7 @@
 0.0.0.0 germanqualitaet.de
 0.0.0.0 germany-best-coffee.com
 0.0.0.0 germany-kitchenware-store.com
+0.0.0.0 germany-numis.com
 0.0.0.0 germanyrimowa.com
 0.0.0.0 germanytool.com
 0.0.0.0 germins.de
@@ -12165,6 +12182,7 @@
 0.0.0.0 geschenklust.com
 0.0.0.0 geschenkwand.de
 0.0.0.0 geschenkzone.at
+0.0.0.0 geschichteinmetall.com
 0.0.0.0 geschirr-de.com
 0.0.0.0 geschirronyx.com
 0.0.0.0 geschirrspueler.lbspro.at
@@ -14474,6 +14492,7 @@
 0.0.0.0 homlsy.shop
 0.0.0.0 hommestage.com
 0.0.0.0 homnifi.com
+0.0.0.0 homolius-brennstoffe.com
 0.0.0.0 homoloogie.com
 0.0.0.0 hondroine.es
 0.0.0.0 hondrostrongs.de
@@ -14759,6 +14778,7 @@
 0.0.0.0 huiiltn.shop
 0.0.0.0 hulahip.de
 0.0.0.0 hulapro.de
+0.0.0.0 huliabu.com
 0.0.0.0 hulkmusclerx.mymusclepay.com
 0.0.0.0 hulkwheels.com
 0.0.0.0 humehealth.de
@@ -15862,6 +15882,7 @@
 0.0.0.0 jivligcm.shop
 0.0.0.0 jixstorem.com
 0.0.0.0 jjctrans.com
+0.0.0.0 jjjbeqgj.shop
 0.0.0.0 jjmalibumen.com
 0.0.0.0 jjohnjagler.shop
 0.0.0.0 jjponlinea.com
@@ -16146,6 +16167,7 @@
 0.0.0.0 kabelsteckerladen.com
 0.0.0.0 kabilev.com
 0.0.0.0 kabilon.com
+0.0.0.0 kabinettdermunze.com
 0.0.0.0 kachi-berlin.de
 0.0.0.0 kadewetasche.com
 0.0.0.0 kadonimo.de
@@ -16642,6 +16664,7 @@
 0.0.0.0 kimberlybishop.shop
 0.0.0.0 kimi-home.com
 0.0.0.0 kimionis.com
+0.0.0.0 kimlongfood.com
 0.0.0.0 kimperuecken.de
 0.0.0.0 kimtisor.com
 0.0.0.0 kinallyf.com
@@ -16660,6 +16683,7 @@
 0.0.0.0 kinderlichtblicke.de
 0.0.0.0 kindermobelre.com
 0.0.0.0 kindersachenmitwachsend.com
+0.0.0.0 kindersafetech.com
 0.0.0.0 kinderspielzeugangebote.com
 0.0.0.0 kindertische.com
 0.0.0.0 kinderverkehrswelt.de
@@ -16840,6 +16864,7 @@
 0.0.0.0 kleider-kabinett.de
 0.0.0.0 kleiderleipzighaus.de
 0.0.0.0 kleidermafia.shop
+0.0.0.0 kleiderschrankkauf.com
 0.0.0.0 kleiderweltboutique.com
 0.0.0.0 kleidung-prada.com
 0.0.0.0 kleidungfrilufts.com
@@ -17058,6 +17083,7 @@
 0.0.0.0 kontano.de
 0.0.0.0 kontomeinelbaraiffeisen.com
 0.0.0.0 kontoraiffeisenmeinelba.com
+0.0.0.0 kontorundkueche.com
 0.0.0.0 kontoverlaengerung.com
 0.0.0.0 koochand.com
 0.0.0.0 koodakde.shop
@@ -17074,6 +17100,7 @@
 0.0.0.0 koppsic.top
 0.0.0.0 kopticschool.de
 0.0.0.0 korase.de
+0.0.0.0 korbheld.de
 0.0.0.0 korda-fishing.com
 0.0.0.0 kortner-partner.de
 0.0.0.0 kortova.com
@@ -18050,6 +18077,7 @@
 0.0.0.0 lifesattributes.de
 0.0.0.0 lifestyle-brands-us.com
 0.0.0.0 lifestylebicycle.com
+0.0.0.0 lifestylehub24.com
 0.0.0.0 lifestylemallshop.com
 0.0.0.0 lifestyleshoe.com
 0.0.0.0 lifestylewaren.com
@@ -19803,6 +19831,7 @@
 0.0.0.0 meowcastle.ca
 0.0.0.0 meowsupplies.store
 0.0.0.0 mepalconstruction.com
+0.0.0.0 mepalconstructionmodulaire.com
 0.0.0.0 mephistoaustria.com
 0.0.0.0 mephistofabrikverkauf.com
 0.0.0.0 mephistoshoeireland.com
@@ -20924,6 +20953,7 @@
 0.0.0.0 mutipre.shop
 0.0.0.0 muttermode.de
 0.0.0.0 muumall.com
+0.0.0.0 muvena-mode.com
 0.0.0.0 muysale.cn
 0.0.0.0 muzenaudio.com
 0.0.0.0 mvbergweiler.de
@@ -21440,6 +21470,7 @@
 0.0.0.0 newairfield.com
 0.0.0.0 newambesonne.com
 0.0.0.0 newamerrug.com
+0.0.0.0 newappc.cc
 0.0.0.0 newatfirst.com
 0.0.0.0 newathleticsus.com
 0.0.0.0 newaverr.com
@@ -22838,6 +22869,7 @@
 0.0.0.0 opkjobsmcqs.shop
 0.0.0.0 oplire.com
 0.0.0.0 opongo.shop
+0.0.0.0 opotrips.com
 0.0.0.0 oppositen.com
 0.0.0.0 opropaset.com
 0.0.0.0 opt-household.com
@@ -23002,6 +23034,7 @@
 0.0.0.0 orthoflexcare.com
 0.0.0.0 orthofrei.com
 0.0.0.0 orthomode.de
+0.0.0.0 orthonex.de
 0.0.0.0 orthoomed.com
 0.0.0.0 orthopadie-berlin.com
 0.0.0.0 orthovital.at
@@ -24227,6 +24260,7 @@
 0.0.0.0 plattenangebote.com
 0.0.0.0 plattengeschaft.de
 0.0.0.0 plattenspielerde.de
+0.0.0.0 platzsieg.com
 0.0.0.0 plavonpvcdemak.com
 0.0.0.0 play.cine-flix.co
 0.0.0.0 playboysclothingsale.com
@@ -24493,6 +24527,7 @@
 0.0.0.0 portalray.com
 0.0.0.0 portaqua.shop
 0.0.0.0 portaspliteu.com
+0.0.0.0 portathesauri.com
 0.0.0.0 portefeuillephoto.com
 0.0.0.0 porterblushu.com
 0.0.0.0 porterpowermatic.com
@@ -25206,6 +25241,7 @@
 0.0.0.0 quatalitive.com
 0.0.0.0 quatclub.com
 0.0.0.0 qubira.shop
+0.0.0.0 qudjvnr.shop
 0.0.0.0 quechasult.com
 0.0.0.0 queckone.com
 0.0.0.0 queen-sparkles.com
@@ -27333,6 +27369,7 @@
 0.0.0.0 scharfemesser.de
 0.0.0.0 scharfeprofession.com
 0.0.0.0 scharrer-handel.com
+0.0.0.0 schatzkammeronline.com
 0.0.0.0 schaumex.shop
 0.0.0.0 schaumstofffischer.shop
 0.0.0.0 schedule73parts.shop
@@ -27389,6 +27426,7 @@
 0.0.0.0 schluss-folgerung.de
 0.0.0.0 schlusseldienst.at
 0.0.0.0 schlussmit.at
+0.0.0.0 schmahl-gartengeraete.de
 0.0.0.0 schmerz-stopper.de
 0.0.0.0 schmid-autoreifen.com
 0.0.0.0 schmid-rechtsanwaelte.de
@@ -27542,6 +27580,7 @@
 0.0.0.0 schwanhaus.de
 0.0.0.0 schwansgut.de
 0.0.0.0 schwarzjutta.com
+0.0.0.0 schwarzklettern.de
 0.0.0.0 schwarzmarktwaffenhandler.de
 0.0.0.0 schwarzrunen.de
 0.0.0.0 schwarzseide.myshopify.com
@@ -28668,6 +28707,7 @@
 0.0.0.0 skyvoi-de.com
 0.0.0.0 skywork.ai
 0.0.0.0 skyxon.de
+0.0.0.0 sl-handel.de
 0.0.0.0 sl-handel24.de
 0.0.0.0 sl-leasinggesmbh.at
 0.0.0.0 slabtownkev.com
@@ -28751,6 +28791,7 @@
 0.0.0.0 smartkochen.com
 0.0.0.0 smartmoney-deal-now.com
 0.0.0.0 smartnurseca.com
+0.0.0.0 smartphonepartner.com
 0.0.0.0 smartphonepeak.lunakebe.com
 0.0.0.0 smartplantivy.com
 0.0.0.0 smartplayground.de
@@ -29000,6 +29041,7 @@
 0.0.0.0 solyball.com
 0.0.0.0 somefuns.com
 0.0.0.0 someshoper.com
+0.0.0.0 somiy.com
 0.0.0.0 sommer-angebote.com
 0.0.0.0 sommer-mode.co
 0.0.0.0 sommerekzem.at
@@ -32286,6 +32328,7 @@
 0.0.0.0 tuinbalkon.com
 0.0.0.0 tulip-aphrod.co.uk
 0.0.0.0 tummamma.store
+0.0.0.0 tunedautoparts.com
 0.0.0.0 tunepart.com
 0.0.0.0 tunespot.de
 0.0.0.0 tungaloytools.com
@@ -33000,6 +33043,7 @@
 0.0.0.0 uyoo.store
 0.0.0.0 uyqwb.com
 0.0.0.0 uysnells.shop
+0.0.0.0 uzulidwf.shop
 0.0.0.0 v-olklstore.shop
 0.0.0.0 v3.new-cion.cc
 0.0.0.0 vacamion.com
@@ -34279,6 +34323,7 @@
 0.0.0.0 weber-werkstatt.com
 0.0.0.0 webermode.com
 0.0.0.0 weberoutlet.com
+0.0.0.0 webers.co.at
 0.0.0.0 webersalzburg.at
 0.0.0.0 weberstyle.de
 0.0.0.0 weberundalbrecht.de
@@ -34464,6 +34509,7 @@
 0.0.0.0 werkzeugefurprofis.com
 0.0.0.0 werkzeugemaschinen.com
 0.0.0.0 werkzeugepremium.com
+0.0.0.0 werkzeugerasenmaher.de
 0.0.0.0 werkzeugesale.com
 0.0.0.0 werkzeugewelt.com
 0.0.0.0 werkzeugexpress.com
@@ -34490,6 +34536,7 @@
 0.0.0.0 wernershop.de
 0.0.0.0 wernersweinwelt.shop
 0.0.0.0 wertalmpro.at
+0.0.0.0 wertanker.com
 0.0.0.0 wertexmarkt.de
 0.0.0.0 wertovia.com
 0.0.0.0 wertvollewelpenzuradoption.com
@@ -35111,6 +35158,7 @@
 0.0.0.0 xlthomannmusic.shop
 0.0.0.0 xlumina.at
 0.0.0.0 xlumina.de
+0.0.0.0 xmadramen.club
 0.0.0.0 xmb.cc
 0.0.0.0 xmkkan.info
 0.0.0.0 xn--anhnger-auto-shop-sqb.de
@@ -35216,6 +35264,7 @@
 0.0.0.0 yabchtead.com
 0.0.0.0 yaberauto.com
 0.0.0.0 yacht-offers.com
+0.0.0.0 yachtausstattung.com
 0.0.0.0 yachtzubeoernordsee.shop
 0.0.0.0 yadushamahenthiran.com
 0.0.0.0 yafistore.com
