@@ -2,10 +2,10 @@
 # Pi-hole DNS Blocklist: Watchlist Internet
 # Source: https://www.watchlist-internet.at/liste-betruegerischer-shops/csv/
 # Pi-hole Source: https://github.com/nice42q/watchlist-internet
-# Last update: 2026-08-25 01:54:55 UTC
+# Last update: 2026-08-26 02:00:42 UTC
 #
 # --- Analysis statistics for this update ---
-# Total valid domains:       35956
+# Total valid domains:       35978
 # Duplicate entries removed: 8
 # Invalid lines filtered:    3
 # -------------------------------------------
@@ -3586,6 +3586,7 @@
 ||bikebegeistert.com^
 ||bikebitsde.com^
 ||bikeblitz.de^
+||bikeboxstore.com^
 ||bikeboys-onlineshop.de^
 ||bikeboys-onlineshop.net^
 ||bikebuddys.net^
@@ -4785,6 +4786,7 @@
 ||buyxtoken.com^
 ||buzzhence.com^
 ||buzzyclothing.com^
+||bvbfussballtrikots.de^
 ||bvipweather.shop^
 ||bvp-frobel.de^
 ||bvsprobtp.com^
@@ -5345,6 +5347,7 @@
 ||celinegrand.com^
 ||celinemichaud.com^
 ||celinoe.de^
+||celio.com.de^
 ||celivaa.de^
 ||cellbee.shop^
 ||cellelieve.com^
@@ -5457,6 +5460,7 @@
 ||chanfat.com^
 ||channeldecoration.com^
 ||chansflavor.com^
+||chantierest.com^
 ||chaosdesign24de.shop^
 ||chaplinr.com^
 ||chapmbv.com^
@@ -6297,6 +6301,7 @@
 ||consulius.de^
 ||consultist-germany.com^
 ||consumptione.com^
+||contacthunt.io^
 ||contacttain.com^
 ||containerbewegen.com^
 ||containercargo.shop^
@@ -6642,6 +6647,7 @@
 ||cryptex-online.de^
 ||cryptex.to^
 ||cryptmaketrade.com^
+||crypto-boerse.com^
 ||crypto-invest-ai.de^
 ||crypto-invest-strategie.de^
 ||crypto-mineinvests.com^
@@ -10046,6 +10052,7 @@
 ||fahrradladen-brand.de^
 ||fahrradladen-hoffmann.de^
 ||fahrradladende.com^
+||fahrradlenker.com^
 ||fahrradmeierigm.com^
 ||fahrradneu-de.com^
 ||fahrradneuheiten.com^
@@ -11997,6 +12004,7 @@
 ||gartentrend.shop^
 ||gartenundwerkzeug.com^
 ||gartenweltdeutsch.com^
+||gartenwerkzeugeprofi.com^
 ||gartenzauberwelt.shop^
 ||garved.com^
 ||garyfurniture.shop^
@@ -12151,6 +12159,7 @@
 ||genuiney.com^
 ||genuinnev.top^
 ||genussfaktor.com^
+||genussfein.com^
 ||genusskeller.com^
 ||genussnutz.com^
 ||genzfshop.com^
@@ -13201,6 +13210,7 @@
 ||gutes-brennholz.com^
 ||guteseben.de^
 ||gutgarten.com^
+||gutmann-strategies.at^
 ||gutmotorradteile.com^
 ||gutscheingarten24.de^
 ||gutscheinglueck24.de^
@@ -16351,6 +16361,7 @@
 ||kanzlei-statz.de^
 ||kanzlei-zimmermann-partner.com^
 ||kanzleiklaus.de^
+||kanzleitreuhand.com^
 ||kaodasuan.shop^
 ||kaperes.com^
 ||kapes-agency.com^
@@ -19483,6 +19494,7 @@
 ||matzek-matratzen.at^
 ||mauermayer.com^
 ||mauersberger-rechtsanwalt.de^
+||maulkorbkauf.com^
 ||mauricegodefroy.com^
 ||mauromilana.it^
 ||maurrenn.com^
@@ -19754,6 +19766,7 @@
 ||meinelbakonto.com^
 ||meinenamenskette.com^
 ||meinenaugenhelfen.com^
+||meineogk.at^
 ||meinepflegeapotheke.de^
 ||meineprojektoren.com^
 ||meinesafebox.com^
@@ -20524,6 +20537,7 @@
 ||modeuniversum.com^
 ||modeuniversum.store^
 ||modevissa.com^
+||modeweiss.com^
 ||modewelt-24.de^
 ||modeweltberlin.de^
 ||modeweltparis.com^
@@ -21324,6 +21338,7 @@
 ||navaro-shop.de^
 ||navbe.de^
 ||navigatil.store^
+||navisdkarten.de^
 ||navoli.de^
 ||navroopdhillon.com^
 ||navrosup.com^
@@ -24783,6 +24798,7 @@
 ||prima-shiplines.com^
 ||primalsale.shop^
 ||primamulch.at^
+||primary-markets.com^
 ||primary-structures.de^
 ||primarycarenw.com^
 ||primaryearrings.com^
@@ -28238,6 +28254,7 @@
 ||shop.uifuifx.shop^
 ||shop.vffvllo.shop^
 ||shop.vipsshop.ga^
+||shop.wellaray.com^
 ||shop.wkffku.top^
 ||shop.wmrwmry.shop^
 ||shop.xotufh.top^
@@ -29156,6 +29173,7 @@
 ||sonkehj.com^
 ||sonlitech.de^
 ||sonnenlit.de^
+||sonnensparo.com^
 ||sonnenstuebchen.at^
 ||sonnighof.de^
 ||sonninstr-stock.com^
@@ -31806,6 +31824,7 @@
 ||topbyone.com^
 ||topchicgeneral.com^
 ||topcious.co^
+||topcyclebike.com^
 ||topdiags.shop^
 ||topdigitalcashapp.com^
 ||topeakcycle.com^
@@ -32084,6 +32103,7 @@
 ||trailer-container.com^
 ||trailer-master.de^
 ||trailer-master.eu^
+||trailerfrance.com^
 ||trailersmore.com^
 ||trailertour.com^
 ||trailrunningsale.com^
@@ -32538,6 +32558,7 @@
 ||ueximious.com^
 ||ueyiwegjfsg.shop^
 ||uffugim.run^
+||ufheimwerker-de.com^
 ||ufixen.com^
 ||ufolepbourgogne.org^
 ||ugfxrl.shop^
@@ -34606,6 +34627,7 @@
 ||werkzeugefurprofis.com^
 ||werkzeugemaschinen.com^
 ||werkzeugepremium.com^
+||werkzeugeprofi.com^
 ||werkzeugerasenmaher.de^
 ||werkzeugesale.com^
 ||werkzeugewelt.com^
