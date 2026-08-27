@@ -5391,6 +5391,7 @@
 0.0.0.0 ceylonss.com
 0.0.0.0 cf-bags.com
 0.0.0.0 cfashionus.com
+0.0.0.0 cfbl-premiumholz.de
 0.0.0.0 cfd.amadeus-markets.com
 0.0.0.0 cfd.diamond-tradeltd.com
 0.0.0.0 cfd.divine-group.io
@@ -6562,6 +6563,7 @@
 0.0.0.0 creamywear.com
 0.0.0.0 creatableshop.com
 0.0.0.0 createwithbuy.com
+0.0.0.0 creatinmarkt.com
 0.0.0.0 creative.lighting
 0.0.0.0 creativecookhouse.com
 0.0.0.0 creativefabrica.com
@@ -7763,6 +7765,7 @@
 0.0.0.0 dicamgruppe.de
 0.0.0.0 diccord.ru
 0.0.0.0 dicha-anhaenger.com
+0.0.0.0 dicha-bike.com
 0.0.0.0 dick-reifen.com
 0.0.0.0 dickbath.live
 0.0.0.0 dickiesgermany.com
@@ -8510,6 +8513,7 @@
 0.0.0.0 dynafitrabatt.de
 0.0.0.0 dynamictrevion.com
 0.0.0.0 dynamodeal.de
+0.0.0.0 dynamorad.com
 0.0.0.0 dynoscooterde.shop
 0.0.0.0 dyshopvip.com
 0.0.0.0 dyson-de.de
@@ -13446,6 +13450,7 @@
 0.0.0.0 hannas-modehaus.com
 0.0.0.0 hannashop.de
 0.0.0.0 hannelore.shop
+0.0.0.0 hannibalcorp.com
 0.0.0.0 hannibalvajilla.com
 0.0.0.0 hannover-mode.de
 0.0.0.0 hannoverebike.de
@@ -15581,6 +15586,7 @@
 0.0.0.0 irhumdmama.com
 0.0.0.0 iridarium.top
 0.0.0.0 iris-perschmann.de
+0.0.0.0 iris-von-arnim.com
 0.0.0.0 irisbb.com
 0.0.0.0 irish-supply.com
 0.0.0.0 irishpub-solingen.de
@@ -15909,6 +15915,7 @@
 0.0.0.0 jfitwork.com
 0.0.0.0 jgfrqhh.top
 0.0.0.0 jggli26v.shop
+0.0.0.0 jgkittrx.shop
 0.0.0.0 jgregoryfineart.com
 0.0.0.0 jhokkistore.com
 0.0.0.0 jiabess.com
@@ -16727,6 +16734,7 @@
 0.0.0.0 kind-heit.de
 0.0.0.0 kindderstadt.shop
 0.0.0.0 kindderstadteu.shop
+0.0.0.0 kinddeshoprstadt.com
 0.0.0.0 kindduckling.com
 0.0.0.0 kindel.top
 0.0.0.0 kinder-reich.at
@@ -16902,6 +16910,7 @@
 0.0.0.0 klarsteinkuche.com
 0.0.0.0 klartnzm.glanzrmvh.click
 0.0.0.0 klarvi.de
+0.0.0.0 klassealltagsport.com
 0.0.0.0 klassfx.com
 0.0.0.0 klassisch.grafik-krakora.at
 0.0.0.0 klassischelichter.com
@@ -17251,6 +17260,7 @@
 0.0.0.0 krnbcase.com
 0.0.0.0 krobboshop.de
 0.0.0.0 kronberg-partner.de
+0.0.0.0 kronbergpartner.com
 0.0.0.0 kronbergwien.at
 0.0.0.0 kronenstil.de
 0.0.0.0 kronwald-mode.de
@@ -17296,6 +17306,7 @@
 0.0.0.0 ktexpm.com
 0.0.0.0 ktkfcase.com
 0.0.0.0 ktmoutlet.at
+0.0.0.0 ktontools.com
 0.0.0.0 ktriple.com
 0.0.0.0 ktristandy.com
 0.0.0.0 kuch-gala24.de
@@ -18511,6 +18522,7 @@
 0.0.0.0 loneros.de
 0.0.0.0 long-distancerunningtechnologysarbspecltd.com
 0.0.0.0 longapminer.com
+0.0.0.0 longchamp-at.at
 0.0.0.0 longchamp-factory-outlet.com
 0.0.0.0 longchamp-osterreich.com
 0.0.0.0 longchamp-schweiz.com
@@ -19243,6 +19255,7 @@
 0.0.0.0 maransolo.shop
 0.0.0.0 marbreeze.com
 0.0.0.0 marc-cain-eu.shop
+0.0.0.0 marcant.store
 0.0.0.0 marcfisherlady.com
 0.0.0.0 marcfisherwien.at
 0.0.0.0 marchavdm.com
@@ -22493,6 +22506,7 @@
 0.0.0.0 oilvinegarmarket.shop
 0.0.0.0 oilwed.bookfocus.surf
 0.0.0.0 oinepukin.com
+0.0.0.0 oinpmrtk.shop
 0.0.0.0 oinpress.com
 0.0.0.0 oins.shop
 0.0.0.0 oinstroj.com
@@ -22593,6 +22607,7 @@
 0.0.0.0 omonyeselfcare.co
 0.0.0.0 omrontechils.com
 0.0.0.0 on-at.com
+0.0.0.0 on-at.myshoplaza.com
 0.0.0.0 on-cloud-de.shop
 0.0.0.0 on-cloudoutletfactory.com
 0.0.0.0 on-handel.com
@@ -22778,6 +22793,7 @@
 0.0.0.0 onlinestores.2024cheapoutlet.com
 0.0.0.0 onlinestores.outlets2022.ru
 0.0.0.0 onlinestrausss.sa.com
+0.0.0.0 onlinetoolsale.com
 0.0.0.0 onlinetopgarden.com
 0.0.0.0 onlineusbike.com
 0.0.0.0 onlineusgear.com
@@ -23868,6 +23884,7 @@
 0.0.0.0 pefteas.today
 0.0.0.0 pegnitzratzen.de
 0.0.0.0 peiaoa.com
+0.0.0.0 pekira.de
 0.0.0.0 pelagiot.cc
 0.0.0.0 peletovekotelny.cz
 0.0.0.0 pelkruvilanz.at
@@ -24757,6 +24774,7 @@
 0.0.0.0 presparkle.com
 0.0.0.0 pressdown.co
 0.0.0.0 presseausweis-beantragen.at
+0.0.0.0 presshubrixel.com
 0.0.0.0 pressl.co
 0.0.0.0 presssi.shop
 0.0.0.0 prestige-container.com
@@ -25804,6 +25822,7 @@
 0.0.0.0 reebokoutlet.de
 0.0.0.0 reeddecory.com
 0.0.0.0 reef-deutschland.com
+0.0.0.0 reelgazeki.com
 0.0.0.0 reelmasterde.com
 0.0.0.0 reepner.com
 0.0.0.0 refiglim.buzz
@@ -27442,6 +27461,7 @@
 0.0.0.0 scgyj.animepanorama.com
 0.0.0.0 schaap.at
 0.0.0.0 schachworkshop.de
+0.0.0.0 schadensboerse.at
 0.0.0.0 schaedlingsschutz.at
 0.0.0.0 schafflutzel-motorgerate.com
 0.0.0.0 schafproduktion24.de
@@ -28794,6 +28814,7 @@
 0.0.0.0 skypetmovin.com
 0.0.0.0 skyquaddrone.com
 0.0.0.0 skyrro.com
+0.0.0.0 skysupp.com
 0.0.0.0 skyvoi-de.com
 0.0.0.0 skywork.ai
 0.0.0.0 skyxon.de
@@ -30199,6 +30220,7 @@
 0.0.0.0 sumzom.com
 0.0.0.0 sun-hotter.net
 0.0.0.0 sun-real-estate.com
+0.0.0.0 sun-seller.com
 0.0.0.0 sun68web.com
 0.0.0.0 suncoin.xyz
 0.0.0.0 sundancean.com
@@ -32546,6 +32568,7 @@
 0.0.0.0 ueqlkvv.bar
 0.0.0.0 ueximious.com
 0.0.0.0 ueyiwegjfsg.shop
+0.0.0.0 uffpeeet.shop
 0.0.0.0 uffugim.run
 0.0.0.0 ufheimwerker-de.com
 0.0.0.0 ufixen.com
@@ -35125,6 +35148,7 @@
 0.0.0.0 wrongian.top
 0.0.0.0 wrtcmme.com
 0.0.0.0 wsboh.org
+0.0.0.0 wsbrennholzoberberg-gmbh-de.com
 0.0.0.0 wsdios.com
 0.0.0.0 wseomight.com
 0.0.0.0 wsmiccraev.shop
@@ -35240,6 +35264,7 @@
 0.0.0.0 xflyrc.com
 0.0.0.0 xftg03.solutions
 0.0.0.0 xfvss.com
+0.0.0.0 xgkyqpwa.shop
 0.0.0.0 xglcclij.shop
 0.0.0.0 xh-a7.com
 0.0.0.0 xhfadacai.com
@@ -35884,6 +35909,7 @@
 0.0.0.0 zonesportsus.com
 0.0.0.0 zoneswimopt.com
 0.0.0.0 zonetoolopt.com
+0.0.0.0 zonetrove.com
 0.0.0.0 zoneusfootball.com
 0.0.0.0 zoneustoys.com
 0.0.0.0 zonevogue-us.com
