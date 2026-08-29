@@ -2,10 +2,10 @@
 # Pi-hole DNS Blocklist: Watchlist Internet
 # Source: https://www.watchlist-internet.at/liste-betruegerischer-shops/csv/
 # Pi-hole Source: https://github.com/nice42q/watchlist-internet
-# Last update: 2026-08-28 11:30:03 UTC
+# Last update: 2026-08-29 07:09:30 UTC
 #
 # --- Analysis statistics for this update ---
-# Total valid domains:       36015
+# Total valid domains:       36030
 # Duplicate entries removed: 8
 # Invalid lines filtered:    3
 # -------------------------------------------
@@ -534,6 +534,7 @@
 ||affirmfind.com^
 ||affordableuniquepro.shop^
 ||affusopaola.com^
+||afisfahrrad.shop^
 ||afk-guild.at^
 ||afltool.com^
 ||aflycatus.com^
@@ -6187,6 +6188,7 @@
 ||comfortablefeme.com^
 ||comfortablejewelry.com^
 ||comfortablemen.com^
+||comfortableoutdoorsports.com^
 ||comfortableraiment.com^
 ||comforthostep.de^
 ||comfy-max.de^
@@ -7182,6 +7184,7 @@
 ||de.thereverselookup.com^
 ||de.topps.com^
 ||de.tour-home.com^
+||de.try-lumive.com^
 ||de.ultimate-gainz.com^
 ||de.wellreplicas.to^
 ||de.xynapay.com^
@@ -14175,6 +14178,7 @@
 ||hipoff.fullgrow.club^
 ||hipoff.iistrike.club^
 ||hipoff.sohat.shop^
+||hiporashop.com^
 ||hippo2.eth.limo^
 ||hippouchsales.com^
 ||hiremyparents.com^
@@ -15284,6 +15288,7 @@
 ||industrialprotool.com^
 ||industrialstop.shop^
 ||industriefachbedarf24.com^
+||industriefahrzeugshop.com^
 ||inedito.fr^
 ||ineedthisorder.com^
 ||inertiafinance.co^
@@ -16963,6 +16968,7 @@
 ||kleinesengelparadies.com^
 ||kleinewunderhaus.de^
 ||kleinezeitung.co^
+||kleinfeld-modehaus.de^
 ||kleinheidt.de^
 ||kleintiermanagement.de^
 ||kleinwien.at^
@@ -17588,6 +17594,7 @@
 ||landwirt-und-container.com^
 ||landwirtschaftlicheegbr.com^
 ||landwirtschaftshop.com^
+||landwirttierhalt.com^
 ||lane-properties.com^
 ||laneyea.com^
 ||lang-reifenhandel.com^
@@ -18915,6 +18922,7 @@
 ||luxedore.com^
 ||luxefetch.com^
 ||luxegemmy.com^
+||luxelivingzone.com^
 ||luxemall.link^
 ||luxeparfum.co.uk^
 ||luxeron.de^
@@ -20387,6 +20395,7 @@
 ||moba23abc.shop^
 ||mobefind-de.com^
 ||mobefind.com^
+||mobel-wahls.shop^
 ||mobel-welt.com^
 ||mobelauslaufde.com^
 ||mobelgeschaft-neu.com^
@@ -20876,6 +20885,7 @@
 ||mpso.deveri.de^
 ||mpxyju.com^
 ||mqqso.de^
+||mr-schluessel24.at^
 ||mr-ticket-deals.de^
 ||mr.bet^
 ||mrair.xyz^
@@ -24456,6 +24466,7 @@
 ||pm365.ga^
 ||pm365.tk^
 ||pmade.top^
+||pmbrioox.shop^
 ||pmdsuo.shop^
 ||pmfootballs.com^
 ||pminoglou.com^
@@ -27694,6 +27705,7 @@
 ||schuster-wien.at^
 ||schusters-handel.de^
 ||schutz-mode.de^
+||schutzhals.com^
 ||schutzhand.com^
 ||schutzworkwear.com^
 ||schwaarm.de^
@@ -27705,6 +27717,7 @@
 ||schwahn-shop.com^
 ||schwanhaus.de^
 ||schwansgut.de^
+||schwartz-kollegen.com^
 ||schwarzjutta.com^
 ||schwarzklettern.de^
 ||schwarzmarktwaffenhandler.de^
@@ -29291,6 +29304,7 @@
 ||spanisch-essen.at^
 ||spareshop.at^
 ||sparfashion.de^
+||sparhaustechnik.de^
 ||sparhimmel24.de^
 ||sparimperium.shop^
 ||sparkingde.shop^
@@ -33625,6 +33639,7 @@
 ||viain.top^
 ||viajesdeplaceryencanto.com^
 ||vialine-pharma-fr.com^
+||viallecontainer.com^
 ||vianced-hamburg.de^
 ||viankhoury.com^
 ||viare-brooklyn.com^
