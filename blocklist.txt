@@ -2,10 +2,10 @@
 # Pi-hole DNS Blocklist: Watchlist Internet
 # Source: https://www.watchlist-internet.at/liste-betruegerischer-shops/csv/
 # Pi-hole Source: https://github.com/nice42q/watchlist-internet
-# Last update: 2026-08-29 07:09:30 UTC
+# Last update: 2026-08-31 22:54:17 UTC
 #
 # --- Analysis statistics for this update ---
-# Total valid domains:       36030
+# Total valid domains:       36073
 # Duplicate entries removed: 8
 # Invalid lines filtered:    3
 # -------------------------------------------
@@ -117,6 +117,7 @@
 ||5-drugs.com^
 ||5-pocketjeans.com^
 ||50bikes.de^
+||51-sports.com^
 ||52magicdownload.com^
 ||52magicdownloads.com^
 ||5479.coinsystem.su^
@@ -1685,6 +1686,7 @@
 ||arenaswimstore.com^
 ||aresc.de^
 ||aretephoenix.com^
+||arf-van-sales-ltd.de^
 ||arfinag.icu^
 ||arguscapital.net^
 ||ariat-megasales.shop^
@@ -2544,6 +2546,7 @@
 ||bagstorenid.com^
 ||bagsvintage.com^
 ||baguesdefiancailles.com^
+||bagwa-kredit.de^
 ||bahismaksat.com^
 ||bahiwa.com^
 ||bahnhof-apotheke-hersbruck.de^
@@ -4386,6 +4389,7 @@
 ||brendavalosa.com^
 ||brenn-holzinger.at^
 ||brennholz-conrady.com^
+||brennholz-emil.de^
 ||brennholz-geschaft.com^
 ||brennholz-goignerog.at^
 ||brennholz-helden24.com^
@@ -4499,6 +4503,7 @@
 ||brokerzeroca.com^
 ||broksi.de^
 ||bromess.space^
+||bronoir.de^
 ||brontivex.com^
 ||brookfield-eu.com^
 ||brookfieldassets.eu^
@@ -5775,6 +5780,7 @@
 ||circumstancen.com^
 ||circumstancen.net^
 ||cirialostaunau.com^
+||cirtadistribution.com^
 ||ciscooe.com^
 ||cisiaso.shop^
 ||cit-solution.at^
@@ -8703,6 +8709,7 @@
 ||ecoalfsale.at^
 ||ecohabitsy.com^
 ||ecoholz-gmbh.eu^
+||ecohubfast.com^
 ||ecohubfast.shop^
 ||ecolestaubin.fr^
 ||ecoloboiisdechauffage.com^
@@ -8994,6 +9001,7 @@
 ||eleganzamode.de^
 ||eleganziagems.com^
 ||eleganzmodehaus.de^
+||eleganzwohnen.de^
 ||elegare.de^
 ||elegranitl.com^
 ||elegsant.com^
@@ -9838,6 +9846,7 @@
 ||excellentussite.com^
 ||exceptionalg.com^
 ||exchangeo.fr^
+||excite-anhaenger.de^
 ||excitement.pro^
 ||exclusive-keys.de^
 ||exclusive-makeup.com^
@@ -10054,6 +10063,7 @@
 ||fahrradhelden.com^
 ||fahrradhelmeneu.com^
 ||fahrradkassettede.com^
+||fahrradkern.de^
 ||fahrradkleinteile.com^
 ||fahrradkontor.com^
 ||fahrradladen-brand.de^
@@ -10449,6 +10459,7 @@
 ||feintoll.de^
 ||feixunseo.com^
 ||feldluft.de^
+||feldmann-munchen.com^
 ||feldmann-reifen.com^
 ||feldmanwam.com^
 ||feleshajett.com^
@@ -10469,7 +10480,6 @@
 ||felix-messer.de^
 ||fell-freund.at^
 ||fella-handel.de^
-||fellnasenstube.de^
 ||felsbergers.de^
 ||felsinacare.at^
 ||feltbicycleshop.com^
@@ -11006,6 +11016,7 @@
 ||flnanzonline.net^
 ||floange.com^
 ||flock-offers.com^
+||flofrei.com^
 ||floipad.shop^
 ||flolyea.com^
 ||floorage.top^
@@ -11888,6 +11899,7 @@
 ||garden-de.myshopify.com^
 ||garden-machines-shop.com^
 ||garden-machines.com^
+||garden-of-excellence.com^
 ||garden-sell.com^
 ||garden-toolsshop.com^
 ||gardenagarten.com^
@@ -12566,6 +12578,7 @@
 ||globalcommercehub.online^
 ||globalconnect24.net^
 ||globalcryptotraders.com^
+||globaldispatch.info^
 ||globalexpressearning.com^
 ||globalfowarders-sa.com^
 ||globalinvestmentift.com^
@@ -12609,6 +12622,7 @@
 ||glowyplant.de^
 ||glowzonevip.com^
 ||glpura.com^
+||glsiwod.shop^
 ||glucavit.com^
 ||gluckaro.de^
 ||gluckarode.shop^
@@ -13415,6 +13429,7 @@
 ||handmadestoe.cc^
 ||handmadestoree.cc^
 ||handmadesure.cc^
+||handpanira.com^
 ||handpanora.com^
 ||handpickdecoration.com^
 ||handpickgeneralstore.com^
@@ -18248,6 +18263,8 @@
 ||limbach.io^
 ||limebrandco.com^
 ||limestonebd.com^
+||limex-solutions.gmbh^
+||limex.solutions^
 ||liminous-sun.com^
 ||limit-bicycle.com^
 ||limit-outdoor.com^
@@ -19358,6 +19375,7 @@
 ||market.clearancewhirl.com^
 ||market.darrowmere.com^
 ||market.halewick.com^
+||market.novaris-capitallimited.ltd^
 ||market.saverevolve.com^
 ||market.vailmere.com^
 ||market24prime.shop^
@@ -21850,6 +21868,7 @@
 ||ninewestschuhdeutschland.com^
 ||ninewestwomen.com^
 ||ninjachemise.com^
+||ninjakitchenllc.com^
 ||nintendo-store.de^
 ||ninthcit.de^
 ||nioekure.com^
@@ -22079,6 +22098,7 @@
 ||novana-berlin.de^
 ||novando.de^
 ||novant.fr^
+||novaris-capitallimited.cfd^
 ||novaris-capitallimited.ltd^
 ||novarixtrader.net^
 ||novasabers.de^
@@ -22087,6 +22107,7 @@
 ||novator-consulting.com^
 ||novatrustmarket.com^
 ||novavitalia.de^
+||novavitalia.io^
 ||novelbuys.com^
 ||novele.de^
 ||novelnalit.net^
@@ -23232,6 +23253,7 @@
 ||otronical.de^
 ||otto-deat.de^
 ||otto-kauf.de^
+||otto-retouren.de^
 ||ottocast.de^
 ||ottoelektro.de^
 ||ottogamingps.de^
@@ -23570,6 +23592,7 @@
 ||pabloboutique.com^
 ||paceheadst.shop^
 ||paceorigin.com^
+||pacevora.shop^
 ||pachfold.top^
 ||pacificgroup.ltd^
 ||pacificmailsexpress.com^
@@ -23582,6 +23605,7 @@
 ||paddleaway.de^
 ||paddy-aroma.shop^
 ||padelfreunde.shop^
+||padelschlag.com^
 ||paedia.top^
 ||paeoniany.com^
 ||paganidesignstore.com^
@@ -24396,6 +24420,7 @@
 ||playtennistoo.com^
 ||playtive-eu.com^
 ||playtunnelsale.com^
+||playvenix.de^
 ||plazabathroom.com^
 ||plazabaubles.com^
 ||plazabikini.com^
@@ -24699,6 +24724,7 @@
 ||poulsenaarhus.com^
 ||pourershop.com^
 ||powderxpirit.at^
+||power-efficiency.info^
 ||power-laden.store^
 ||power-toolsale.com^
 ||power-vac.de^
@@ -27269,6 +27295,7 @@
 ||salzburg-atelier.at^
 ||salzburg-outlet.at^
 ||salzburgapotheke.com^
+||salzburgerhof-dienten.com^
 ||salzburgmode.at^
 ||salzmann-c.at^
 ||salzmode.com^
@@ -27492,7 +27519,6 @@
 ||scgyj.animepanorama.com^
 ||schaap.at^
 ||schachworkshop.de^
-||schadensboerse.at^
 ||schaedlingsschutz.at^
 ||schafflutzel-motorgerate.com^
 ||schafproduktion24.de^
@@ -27561,6 +27587,7 @@
 ||schluss-folgerung.de^
 ||schlusseldienst.at^
 ||schlussmit.at^
+||schmahl-gartengeraete.com^
 ||schmahl-gartengeraete.de^
 ||schmerz-stopper.de^
 ||schmid-autoreifen.com^
@@ -27833,6 +27860,7 @@
 ||securesmartoptions.online^
 ||securityarch.top^
 ||sedastepanian.com^
+||sedatasgo.com^
 ||sediebanchi.com^
 ||sediop.com^
 ||sedore.de^
@@ -28268,6 +28296,7 @@
 ||shop-volcom.com^
 ||shop-womenshoe.com^
 ||shop.asfinag.llc^
+||shop.asfinag.ltd^
 ||shop.asfinaq.de^
 ||shop.askdrkan.com^
 ||shop.birkenseusale.com^
@@ -29089,6 +29118,7 @@
 ||softwarekaufen24.de^
 ||sohab-haushaltsgerate.com^
 ||sohaus.shop^
+||sohlenlos.com^
 ||sohoohair.de^
 ||soilorchard.com^
 ||sokhdomresidence.com^
@@ -29695,6 +29725,7 @@
 ||steakfolk.com^
 ||stealthgamechanger.com^
 ||steamfaerie.com^
+||steampunk-xix.de^
 ||steamtoy-store.com^
 ||steedtrade.com^
 ||steelcabinetsonline.com^
@@ -30583,6 +30614,7 @@
 ||swissassetsmanagement.ch^
 ||swissbitcoins.com^
 ||swisscap.pro^
+||swissclaim-ag.ch^
 ||swisscoinco.com^
 ||swissladen.com^
 ||swisslona.ch^
@@ -30991,6 +31023,7 @@
 ||terlasosfs.top^
 ||term-re.com^
 ||termex.cc^
+||terminal.novaris-capitallimited.cfd^
 ||terminatei.com^
 ||termink.com^
 ||terminologe.com^
@@ -31687,6 +31720,7 @@
 ||tolovesupreme.site^
 ||toltechomenew.com^
 ||tom-ford.co.za^
+||tom-trailer.com^
 ||tomacycle.eu^
 ||tomallcart.shop^
 ||tomek-reifen.de^
@@ -33480,6 +33514,7 @@
 ||venority.de^
 ||venoswears.de^
 ||vensix.shop^
+||ventalaurashop.com^
 ||ventechatgpt.com^
 ||ventilatoroase.myshopify.com^
 ||ventrafx.com^
@@ -33624,6 +33659,7 @@
 ||vg61eaim.shop^
 ||vgr8.com^
 ||vgrdint.com^
+||vgtwlrlx.shop^
 ||vhatkevada.shop^
 ||vhtxz.liokohts.top^
 ||via-bestdeal24.com^
@@ -33797,6 +33833,7 @@
 ||vipprogrammer.com^
 ||vipsupport-eu.com^
 ||viqra.shop^
+||viraldefi.com^
 ||virandos.de^
 ||viranny.de^
 ||virany.de^
@@ -34652,6 +34689,7 @@
 ||werkora-industrial.com^
 ||werkstattgerateprofi.com^
 ||werkstattgitter.com^
+||werkstattmaschinen.com^
 ||werkstattzentrum.com^
 ||werktech24.com^
 ||werkundwarme.de^
@@ -34992,6 +35030,7 @@
 ||wohlfuehl.at^
 ||wohlina.de^
 ||wohlrab-handel.de^
+||wohlseinmarkt.de^
 ||wohlwaren.de^
 ||wohlwohnen.at^
 ||wohn-perle.de^
@@ -35170,6 +35209,7 @@
 ||wpokr.store^
 ||wpyslr.com^
 ||wqnck.com^
+||wqnwpxdj.shop^
 ||wra24.de^
 ||wrapsi.shop^
 ||wrestle-hub.com^
@@ -35437,6 +35477,7 @@
 ||yacht-offers.com^
 ||yachtausstattung.com^
 ||yachtzubeoernordsee.shop^
+||yadjmjrx.shop^
 ||yadushamahenthiran.com^
 ||yafistore.com^
 ||yakfowl.com^
@@ -35514,6 +35555,7 @@
 ||yfregent.com^
 ||yfruitnut.com^
 ||ygatha.com^
+||ygnooddg.shop^
 ||ygservise.top^
 ||ygworc.com^
 ||yhconfe.com^
@@ -35533,6 +35575,7 @@
 ||yjob.ivebelting.com^
 ||ykfojdaa.shop^
 ||ykocb.com^
+||ykwkgndw.shop^
 ||ylehmed.top^
 ||ylosdn.com^
 ||ylpkbpm.top^
