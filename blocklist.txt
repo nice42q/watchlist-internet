@@ -2,10 +2,10 @@
 # Pi-hole DNS Blocklist: Watchlist Internet
 # Source: https://www.watchlist-internet.at/liste-betruegerischer-shops/csv/
 # Pi-hole Source: https://github.com/nice42q/watchlist-internet
-# Last update: 2026-09-02 04:42:30 UTC
+# Last update: 2026-09-03 04:39:03 UTC
 #
 # --- Analysis statistics for this update ---
-# Total valid domains:       36090
+# Total valid domains:       36112
 # Duplicate entries removed: 8
 # Invalid lines filtered:    3
 # -------------------------------------------
@@ -1178,6 +1178,7 @@
 ||amsamazon.cz^
 ||amscrypto.com^
 ||amsere.de^
+||amsterdamluxe.com^
 ||amsterdamout.store^
 ||amstokens.io^
 ||amstovicek.com^
@@ -3232,6 +3233,7 @@
 ||berlinglamour.de^
 ||berlinherren.de^
 ||berlinkaffee.myshopify.com^
+||berlinlabel.com^
 ||berlinmedz.com^
 ||berlinmoon.com^
 ||berlinmotoworks.com^
@@ -4984,6 +4986,7 @@
 ||campingneu.com^
 ||campingpas.de^
 ||campingplatze-de.com^
+||campingplatzede.com^
 ||campingpromo.store^
 ||campingstuhleshop.com^
 ||campingsverkauf.com^
@@ -5832,6 +5835,7 @@
 ||claracamila.de^
 ||claracasperjuwelen.de^
 ||clarachristine-wien.at^
+||claraluzern.ch^
 ||clarasdad.de^
 ||clareba-tech.de^
 ||clarematheson.com^
@@ -6359,6 +6363,7 @@
 ||cookclearance.com^
 ||cookcommodity.com^
 ||cookcope.com^
+||cookieland.live^
 ||cookoow.com^
 ||cookstreasure.com^
 ||cookvibegear.com^
@@ -6701,6 +6706,7 @@
 ||csbclo.de^
 ||csbdbuy.com^
 ||csbsts.site^
+||csdoki.shop^
 ||csebasoft.com^
 ||cserveni.at^
 ||csfenagp.icu^
@@ -9203,6 +9209,7 @@
 ||emilyedwards.de^
 ||emilyschmuck.com^
 ||eminetfinancesystem.com^
+||emma-frankfurt.com^
 ||emma-keller.de^
 ||emma-matraze.com^
 ||emma.oninu.com^
@@ -12030,6 +12037,7 @@
 ||gartenwerkzeugeprofi.com^
 ||gartenzauberwelt.shop^
 ||gartmotor.com^
+||gartnereivlasi.myshopify.com^
 ||garved.com^
 ||garyfurniture.shop^
 ||gas-ertrag.app^
@@ -12050,6 +12058,7 @@
 ||gastrade.company^
 ||gastro-express.at^
 ||gastro-max-profi.com^
+||gastrobedarfmarkt.com^
 ||gastrodeals24de.shop^
 ||gastronomiebedarf24.com^
 ||gastrosabicas.com^
@@ -12959,6 +12968,7 @@
 ||green-boisdechauffage.com^
 ||green-shops.site^
 ||green-vest.io^
+||greenandcoavenue.shop^
 ||greenbitcoin.xyz^
 ||greenblisscrash.com^
 ||greenearthheatingandair.com^
@@ -14089,6 +14099,7 @@
 ||heydude-schuhe.de^
 ||heydude-spain.com^
 ||heydudelife.com^
+||heydudeonline.top^
 ||heydudeschuhe-wien.com^
 ||heydudeschuhe.at^
 ||heydudeschuhe.com^
@@ -16473,6 +16484,7 @@
 ||katespade--online.com^
 ||katespadeoutletscanada.ca^
 ||kateve.shop^
+||katharinaberlin.de^
 ||katharinengasse9.at^
 ||katherinebrokaw.com^
 ||kathielpe.de^
@@ -18831,6 +18843,7 @@
 ||luckyyise.com^
 ||lucretias.shop^
 ||lucullusacademy.com^
+||lucyclara.com^
 ||lucyjoes.com^
 ||ludoloveov.pics^
 ||ludwigmaria.at^
@@ -19381,6 +19394,7 @@
 ||market.cedarbourne.com^
 ||market.clearancewhirl.com^
 ||market.darrowmere.com^
+||market.glenleigha.com^
 ||market.halewick.com^
 ||market.novaris-capitallimited.ltd^
 ||market.saverevolve.com^
@@ -20201,6 +20215,7 @@
 ||mileslowca.com^
 ||milgriom.com^
 ||mililandz.com^
+||militaerbedarf.com^
 ||milkaierts.com^
 ||millaroem.com^
 ||milleniumtradenetwork.com^
@@ -22244,6 +22259,7 @@
 ||nxsfund.com^
 ||nxtstreetlondon.com^
 ||nxvred.hnvapbuy.shop^
+||nyccharm.com^
 ||nydjosterreich.com^
 ||nyfolk.de^
 ||nygsaxx.top^
@@ -23958,6 +23974,7 @@
 ||pellets-bei-wolf.com^
 ||pellets-maschinen.de^
 ||pelletsgeschaft.com^
+||pelletwerk.com^
 ||pelletwerk.eu^
 ||pellina.shop^
 ||peloft.shop^
@@ -24615,6 +24632,7 @@
 ||poolcosmetic.com^
 ||poolfilterneu.de^
 ||poolfreunde.com^
+||poolfrisch.com^
 ||pooloas.de^
 ||pooloase.shop^
 ||poolreinigerde.com^
@@ -29392,6 +29410,7 @@
 ||speditionspellets.com^
 ||speditransportes.com^
 ||speechast.top^
+||speechfaith.com^
 ||speechinca.com^
 ||speechoutcry.com^
 ||speed-information.com^
@@ -30657,6 +30676,7 @@
 ||syltbildergalerie.shop^
 ||sylviabeauty.xyz^
 ||sylviamartens.de^
+||sylvie-jacques.com^
 ||sylvieboutique.de^
 ||symbandpb.com^
 ||symbiosiswellbeing.com^
@@ -34191,6 +34211,7 @@
 ||vphami.top^
 ||vplan-beratung.org^
 ||vponary.com^
+||vpu-vorbereitung.com^
 ||vpu-vorbereitung.online^
 ||vpufuchs.com^
 ||vputest.online^
@@ -35391,6 +35412,7 @@
 ||xmkkan.info^
 ||xn--anhnger-auto-shop-sqb.de^
 ||xn--anhnger-meister-2kb.de^
+||xn--anhngerglck-n8a23a.de^
 ||xn--apotheke-sterreich-l3b.com^
 ||xn--cossterreich-6ib.com^
 ||xn--dein-schlsselanhnger-qzb43c.de^
