@@ -4270,6 +4270,7 @@
 0.0.0.0 boxingonsaleus.com
 0.0.0.0 boxingsalehot.com
 0.0.0.0 boxsportversand.de
+0.0.0.0 boxtrail.de
 0.0.0.0 boxx-container.com
 0.0.0.0 boxx-container.de
 0.0.0.0 boyatatech.com
@@ -4408,6 +4409,7 @@
 0.0.0.0 brennholzruhl.de
 0.0.0.0 brennholzstore.de
 0.0.0.0 brennholzverkaufer.com
+0.0.0.0 brennholzvidos.at
 0.0.0.0 brennholzwerner.de
 0.0.0.0 brennstoffe-heinrich.de
 0.0.0.0 brennstoffe-meier.de
@@ -5045,6 +5047,7 @@
 0.0.0.0 canvasshoesalestore.com
 0.0.0.0 canvasvista.com
 0.0.0.0 canvasxde.shop
+0.0.0.0 canyonoutlet.de
 0.0.0.0 canyonsavebig.shop
 0.0.0.0 canyonsummersale.shop
 0.0.0.0 capacityk.com
@@ -5064,6 +5067,7 @@
 0.0.0.0 capitalmarket24.com
 0.0.0.0 capitalmaster.de
 0.0.0.0 capitalsail.com
+0.0.0.0 capitalus-clients.com
 0.0.0.0 capitalxf.com
 0.0.0.0 capitalxfmarket.com
 0.0.0.0 capitalxsolution.com
@@ -6963,6 +6967,7 @@
 0.0.0.0 dannerdeutschland.de
 0.0.0.0 dannerdeutschlandde.com
 0.0.0.0 danneronlineshop.at
+0.0.0.0 dannerosterreich.at
 0.0.0.0 danners.co.at
 0.0.0.0 dannerschuhe.at
 0.0.0.0 dannerschuhedeutschland.com
@@ -7701,6 +7706,7 @@
 0.0.0.0 deutschwelpenplatz.de
 0.0.0.0 dev-real-estate.com
 0.0.0.0 devado.de
+0.0.0.0 devalife.eu
 0.0.0.0 devaude.top
 0.0.0.0 devaudee.top
 0.0.0.0 develomrit.com
@@ -11936,6 +11942,7 @@
 0.0.0.0 garonsbeachome.com
 0.0.0.0 garshopbuy.site
 0.0.0.0 garshoping.com
+0.0.0.0 garten-forstgerate.de
 0.0.0.0 garten-frische.de
 0.0.0.0 garten-hagemann.com
 0.0.0.0 garten-heimwerken.com
@@ -13218,6 +13225,7 @@
 0.0.0.0 gunnelalm.com
 0.0.0.0 gunstigebademode.com
 0.0.0.0 gunterundfinn.de
+0.0.0.0 gurdarao.com
 0.0.0.0 gurudehub.com
 0.0.0.0 gurukullame.com
 0.0.0.0 gurupek.com
@@ -13847,6 +13855,7 @@
 0.0.0.0 heizfreude.de
 0.0.0.0 heizgut24.com
 0.0.0.0 heizhaus-kohle.de
+0.0.0.0 heizholz-express.com
 0.0.0.0 heizino.de
 0.0.0.0 heizkauf.de
 0.0.0.0 heizkessel-sale.com
@@ -14621,6 +14630,7 @@
 0.0.0.0 hoperainbo.com
 0.0.0.0 hopesecuritiecd.com
 0.0.0.0 hopesport.de
+0.0.0.0 hopfenpur.com
 0.0.0.0 hopofferca.com
 0.0.0.0 hoppe-elektro24.de
 0.0.0.0 hoptrendely.com
@@ -15804,6 +15814,7 @@
 0.0.0.0 jaipurhomeshop.com
 0.0.0.0 jajazandova.com
 0.0.0.0 jako-o.svip-de.shop
+0.0.0.0 jalousienservice.at
 0.0.0.0 jambutme.org
 0.0.0.0 james-watches.com
 0.0.0.0 jamesacartwright.com
@@ -16425,6 +16436,7 @@
 0.0.0.0 karenmillendeutschland.de
 0.0.0.0 karenmiss.com
 0.0.0.0 karger-agentur.de
+0.0.0.0 kargeragentur.de
 0.0.0.0 kargoka.store
 0.0.0.0 karikaturde.shop
 0.0.0.0 karimafartous.com
@@ -17008,6 +17020,7 @@
 0.0.0.0 klick-ndb.de
 0.0.0.0 klima-bonus.app
 0.0.0.0 klima-heizung-pumpen.com
+0.0.0.0 klima.bonus-gutschrift.cc
 0.0.0.0 klimaanlageportal.de
 0.0.0.0 klimabonus-2026.net
 0.0.0.0 klimabonus-antrag.co
@@ -17145,6 +17158,7 @@
 0.0.0.0 koenig-naturfriseur.de
 0.0.0.0 koenigssee-uhrmanufaktur.de
 0.0.0.0 koenigsthal.de
+0.0.0.0 koenigzeit.co
 0.0.0.0 kofireisen.com
 0.0.0.0 kofitnessd.top
 0.0.0.0 kogenheimholz.com
@@ -17676,6 +17690,7 @@
 0.0.0.0 laspop.top
 0.0.0.0 lasporitiva.com
 0.0.0.0 lasport.top
+0.0.0.0 lasportiva-at.com
 0.0.0.0 lasportiva-online.top
 0.0.0.0 lasportiva.club
 0.0.0.0 lasportivaapps.com
@@ -21026,6 +21041,7 @@
 0.0.0.0 munster-mode.com
 0.0.0.0 munster-mode.de
 0.0.0.0 muorgstore.com
+0.0.0.0 mur-shop.com
 0.0.0.0 muralover.com
 0.0.0.0 murielfellous.com
 0.0.0.0 murindo.de
@@ -21283,6 +21299,7 @@
 0.0.0.0 nagagoparaju.com
 0.0.0.0 nagawpf.com
 0.0.0.0 nagisa.today
+0.0.0.0 nahenwebshop.de
 0.0.0.0 nailissimi.com
 0.0.0.0 nailsartshop.com
 0.0.0.0 nailsmith.co
@@ -22143,6 +22160,7 @@
 0.0.0.0 noveteadram.com
 0.0.0.0 noviale.de
 0.0.0.0 novifashion.de
+0.0.0.0 novintraa.myshopify.com
 0.0.0.0 novira-berlin.com
 0.0.0.0 novira-zurich.ch
 0.0.0.0 novirastore.com
@@ -26199,6 +26217,7 @@
 0.0.0.0 renery.top
 0.0.0.0 renetverito.com
 0.0.0.0 renew-cstmrs.com
+0.0.0.0 renier-box.com
 0.0.0.0 renner-autoreifen.shop
 0.0.0.0 rennkurbelde.com
 0.0.0.0 rennrad-rabatte.com
@@ -26687,6 +26706,7 @@
 0.0.0.0 romeasyfun.store
 0.0.0.0 romeyfashion.com
 0.0.0.0 romy-dortmund.de
+0.0.0.0 romy-frieder.de
 0.0.0.0 ronado.de
 0.0.0.0 ronain.com
 0.0.0.0 ronald-schminke.de
@@ -26699,6 +26719,7 @@
 0.0.0.0 roniry.co
 0.0.0.0 ronpalleschilawoffice.com
 0.0.0.0 ronstanstore.com
+0.0.0.0 rony-services.com
 0.0.0.0 ronyason.com
 0.0.0.0 roof-tube.com
 0.0.0.0 roofcleaningnewjersey.com
@@ -27658,6 +27679,7 @@
 0.0.0.0 schnell-gut-preiswert.de
 0.0.0.0 schnell-schwanger-werden.com
 0.0.0.0 schnelle-online.com
+0.0.0.0 schnellenberger-haus.de
 0.0.0.0 schnellepaketzustellung.de
 0.0.0.0 schnellhilfekredit.com
 0.0.0.0 schnellkredits.com
@@ -28941,6 +28963,7 @@
 0.0.0.0 slowburner.de
 0.0.0.0 slowtidestore.com
 0.0.0.0 slreinigungsfirma.de
+0.0.0.0 slth-transport.de
 0.0.0.0 slubmauritius.com
 0.0.0.0 sma-bkgruppe.com
 0.0.0.0 small-folkde.shop
@@ -30268,6 +30291,7 @@
 0.0.0.0 suchsnow.com
 0.0.0.0 suedaniels.shop
 0.0.0.0 suedstrandbonn.shop
+0.0.0.0 suedwest-motorgeraete.com
 0.0.0.0 suekoppel.com
 0.0.0.0 sueperstore.shop
 0.0.0.0 suess-gute.de
@@ -30820,6 +30844,7 @@
 0.0.0.0 tanzkurq.de
 0.0.0.0 taogloi.com
 0.0.0.0 taotaopartsdirect.shop
+0.0.0.0 taotdzhi.shop
 0.0.0.0 tapetette.top
 0.0.0.0 tapmaguiremark.com
 0.0.0.0 taptapmath.com
@@ -31616,6 +31641,7 @@
 0.0.0.0 tinaaebeloe.com
 0.0.0.0 tinagarten.de
 0.0.0.0 tinaknox.com
+0.0.0.0 tinarasen.com
 0.0.0.0 tingnybaby.com
 0.0.0.0 tingture.top
 0.0.0.0 tinhtujscv.com
@@ -32068,6 +32094,7 @@
 0.0.0.0 toycarcheap.com
 0.0.0.0 toycartruck.com
 0.0.0.0 toycicty.shop
+0.0.0.0 toydoria.de
 0.0.0.0 toyenjoyment.com
 0.0.0.0 toyevs.store
 0.0.0.0 toyfieldnew.com
@@ -32540,6 +32567,7 @@
 0.0.0.0 tulip-aphrod.co.uk
 0.0.0.0 tummamma.store
 0.0.0.0 tunedautoparts.com
+0.0.0.0 tuneely.com
 0.0.0.0 tunepart.com
 0.0.0.0 tunespot.de
 0.0.0.0 tungaloytools.com
@@ -34001,6 +34029,7 @@
 0.0.0.0 vmeetang.com
 0.0.0.0 vmegarexs.top
 0.0.0.0 vmqnpjm.com
+0.0.0.0 vncsok.shop
 0.0.0.0 vnews.at
 0.0.0.0 vnlicov.com
 0.0.0.0 vnvipshop.com
@@ -35886,6 +35915,7 @@
 0.0.0.0 zenvada.de
 0.0.0.0 zenvys.de
 0.0.0.0 zenymab.com
+0.0.0.0 zeolid.com
 0.0.0.0 zepcap.com
 0.0.0.0 zeppeespadrillas.com
 0.0.0.0 zerewonder.com
@@ -35927,6 +35957,7 @@
 0.0.0.0 zifuliangm.com
 0.0.0.0 zigaretten-bestellen.net
 0.0.0.0 zigaretten-polen.com
+0.0.0.0 zigarreshop.de
 0.0.0.0 zigber.com
 0.0.0.0 zignalor.at
 0.0.0.0 zigoff.de
