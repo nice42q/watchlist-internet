@@ -634,6 +634,7 @@
 0.0.0.0 air-profits.com
 0.0.0.0 air-uposterreich.at
 0.0.0.0 air-uposterreich.com
+0.0.0.0 air.diet
 0.0.0.0 air3panda1.store
 0.0.0.0 airbnb-co.uk-rooms5507914.uk
 0.0.0.0 airbnb-zuerich.ch
@@ -1959,6 +1960,7 @@
 0.0.0.0 at-paylivery.shop
 0.0.0.0 at-setrafimoney.org
 0.0.0.0 at-upwork.site
+0.0.0.0 at.alpine-point.com
 0.0.0.0 at.collectory.se
 0.0.0.0 at.curalise.com
 0.0.0.0 at.eeelgnte.shop
@@ -2031,6 +2033,7 @@
 0.0.0.0 atrium-living.at
 0.0.0.0 atrixvision.com
 0.0.0.0 atsholz.com
+0.0.0.0 att.hqvrm.shop
 0.0.0.0 att.kalitvicnvo.shop
 0.0.0.0 attentcture.com
 0.0.0.0 attentivek.com
@@ -3739,6 +3742,7 @@
 0.0.0.0 binotrader.com
 0.0.0.0 binsalut.com
 0.0.0.0 bio-brennholz.de
+0.0.0.0 bio-stefano.shop
 0.0.0.0 bio-viertel.at
 0.0.0.0 bioaestheticshop.com
 0.0.0.0 bioamsee.de
@@ -4017,6 +4021,7 @@
 0.0.0.0 blum-film.de
 0.0.0.0 blumen-pro.de
 0.0.0.0 blumen-steu.com
+0.0.0.0 blumen365.at
 0.0.0.0 blumenbanmai.de
 0.0.0.0 blumenelbracht.de
 0.0.0.0 blumengretel.de
@@ -6919,6 +6924,7 @@
 0.0.0.0 dailysmilezone.com
 0.0.0.0 dailysportsgolf.com
 0.0.0.0 dailystuffstore.com
+0.0.0.0 dailywireix.info
 0.0.0.0 dainelybelt.net
 0.0.0.0 dakano.de
 0.0.0.0 dakineskis.com
@@ -8596,6 +8602,7 @@
 0.0.0.0 eajoys.cf
 0.0.0.0 eajoys.top
 0.0.0.0 eaolopdep.com
+0.0.0.0 eaqrxrpx.shop
 0.0.0.0 earljourdier.com
 0.0.0.0 earlyfic.top
 0.0.0.0 earlynoon.com
@@ -9424,6 +9431,7 @@
 0.0.0.0 eqrragxt.info
 0.0.0.0 eqst.online
 0.0.0.0 equestriansportmall.com
+0.0.0.0 equiconstructions.com
 0.0.0.0 equilibriuk.com
 0.0.0.0 equinix-development.com
 0.0.0.0 equipalley.com
@@ -10501,8 +10509,10 @@
 0.0.0.0 felix-messer.de
 0.0.0.0 fell-freund.at
 0.0.0.0 fella-handel.de
+0.0.0.0 fels-wertburg.com
 0.0.0.0 felsbergers.de
 0.0.0.0 felsinacare.at
+0.0.0.0 felswertburgat.com
 0.0.0.0 feltbicycleshop.com
 0.0.0.0 felums.com
 0.0.0.0 female-enjoy.com
@@ -11318,6 +11328,7 @@
 0.0.0.0 frankencamping.de
 0.0.0.0 frankfurt-outlet.com
 0.0.0.0 frankfurteintrachtshop.com
+0.0.0.0 frankfurter-baumaschinen-anhaenger-gmbh.de
 0.0.0.0 frankfurtmodehaus.de
 0.0.0.0 frankiemakeupartist.com
 0.0.0.0 frankiesdubai.com
@@ -12399,6 +12410,7 @@
 0.0.0.0 gfiberon.com
 0.0.0.0 gfjnp.com
 0.0.0.0 gfkmarketing.digital
+0.0.0.0 gfn-north.de
 0.0.0.0 gfootwearus.com
 0.0.0.0 gforeosterreich.com
 0.0.0.0 gfricke.com
@@ -12668,11 +12680,13 @@
 0.0.0.0 gluecks-stern.de
 0.0.0.0 gluecksraupe.shop
 0.0.0.0 glueex.com
+0.0.0.0 glumentrol.com
 0.0.0.0 glurvextopin-at.at
 0.0.0.0 glurvextopin-gb.com
 0.0.0.0 glurvextopin-official.com
 0.0.0.0 glurvextopin.at
 0.0.0.0 gluschwein.de
+0.0.0.0 glutadrops.com
 0.0.0.0 glytchf.com
 0.0.0.0 gm-portal.co
 0.0.0.0 gm.lightinthebox.com
@@ -12696,6 +12710,7 @@
 0.0.0.0 go-campingmaster.com
 0.0.0.0 go-dynergy.com
 0.0.0.0 go-elsim.com
+0.0.0.0 go.kryptofokus.co
 0.0.0.0 goadapter.com
 0.0.0.0 goalhat.com
 0.0.0.0 goamerip.com
@@ -14225,6 +14240,7 @@
 0.0.0.0 himaya.at
 0.0.0.0 himmelok.com
 0.0.0.0 himmeltragen.com
+0.0.0.0 himmonyambiente.com
 0.0.0.0 hinato-tech.de
 0.0.0.0 hincksy.com
 0.0.0.0 hindracsofa.com
@@ -15016,6 +15032,7 @@
 0.0.0.0 hydrafitnessparde.shop
 0.0.0.0 hydrationoutdoor.com
 0.0.0.0 hydraulicboatparts.com
+0.0.0.0 hydroflaskaustria.com
 0.0.0.0 hydroforming.at
 0.0.0.0 hydrogearworld.com
 0.0.0.0 hyfhu.com
@@ -19799,6 +19816,7 @@
 0.0.0.0 megababiesusade.shop
 0.0.0.0 megacix.com
 0.0.0.0 megadigifun.com
+0.0.0.0 megaelektronik.de
 0.0.0.0 megagear.online
 0.0.0.0 megahandel.shop
 0.0.0.0 megalomuseum.de
@@ -24061,6 +24079,7 @@
 0.0.0.0 pepperstone.vip
 0.0.0.0 peptet.xyz
 0.0.0.0 peptible.top
+0.0.0.0 peptid24.de
 0.0.0.0 peptide-kaufen.com
 0.0.0.0 peqeno.de
 0.0.0.0 pequeno-paraiso.de
@@ -26837,6 +26856,7 @@
 0.0.0.0 rothman-rasenmaher.com
 0.0.0.0 rotterdamsunny.com
 0.0.0.0 rotweibwein.com
+0.0.0.0 rotweinbar.com
 0.0.0.0 rotyka.com
 0.0.0.0 roudamo.shop
 0.0.0.0 roujedeutschland.com
@@ -27800,6 +27820,7 @@
 0.0.0.0 schuhheld.com
 0.0.0.0 schuhschritte.com
 0.0.0.0 schuhschritte.de
+0.0.0.0 schuhwelten.com
 0.0.0.0 schul-frei.at
 0.0.0.0 schulbedarfsales.com
 0.0.0.0 schuler-autoreifen.com
@@ -29196,6 +29217,7 @@
 0.0.0.0 sofiamode.de
 0.0.0.0 sofie-boutiques.de
 0.0.0.0 sofiepolat.com
+0.0.0.0 sofort-antrag.net
 0.0.0.0 sofortapotheke.nl
 0.0.0.0 soft-ballworld.com
 0.0.0.0 soft-handel.de
@@ -29750,6 +29772,7 @@
 0.0.0.0 standardearning.online
 0.0.0.0 standesamt-portal.de
 0.0.0.0 standprofi.com
+0.0.0.0 standycrome.com
 0.0.0.0 stanfpv.com
 0.0.0.0 stanley-cups.at
 0.0.0.0 stanley-cups.de
@@ -31947,7 +31970,6 @@
 0.0.0.0 toolsempower.com
 0.0.0.0 toolsgrant.com
 0.0.0.0 toolsharphub.com
-0.0.0.0 toolsholic.com
 0.0.0.0 toolshype.com
 0.0.0.0 toolsinthemaking.com
 0.0.0.0 toolsiteportable.com
@@ -32121,6 +32143,7 @@
 0.0.0.0 totifier.top
 0.0.0.0 totofashion2021.com
 0.0.0.0 totogifthouse.com
+0.0.0.0 totovape.de
 0.0.0.0 totrendybags.com
 0.0.0.0 totsoo.com
 0.0.0.0 touchwonr.com
