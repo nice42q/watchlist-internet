@@ -1057,6 +1057,7 @@
 0.0.0.0 alureva.de
 0.0.0.0 aluvea.de
 0.0.0.0 aluver.es
+0.0.0.0 alvara-zurich.ch
 0.0.0.0 alvaradoedmarie.com
 0.0.0.0 alvarezmarta.com
 0.0.0.0 alvaxi.com
@@ -2285,6 +2286,7 @@
 0.0.0.0 autoteilewerkzeug.com
 0.0.0.0 autoteileworks.com
 0.0.0.0 autotoolmaster24.com
+0.0.0.0 autoverlauf.de
 0.0.0.0 autovignete.com
 0.0.0.0 autozubehorde.com
 0.0.0.0 autozubehormarkt.com
@@ -4347,6 +4349,7 @@
 0.0.0.0 brandymelvilleee.com
 0.0.0.0 brappy.co
 0.0.0.0 brass-eu.com
+0.0.0.0 brastsales.com
 0.0.0.0 brasusbau24.de
 0.0.0.0 braterrabatt.com
 0.0.0.0 brateshop.com
@@ -4397,6 +4400,7 @@
 0.0.0.0 brendavalosa.com
 0.0.0.0 brenn-holzinger.at
 0.0.0.0 brennholz-conrady.com
+0.0.0.0 brennholz-direkt-de.com
 0.0.0.0 brennholz-emil.de
 0.0.0.0 brennholz-geschaft.com
 0.0.0.0 brennholz-goignerog.at
@@ -7817,6 +7821,7 @@
 0.0.0.0 diebestenparfums.xyz
 0.0.0.0 diection.com
 0.0.0.0 diedetail.com
+0.0.0.0 diedrich-handel.myshopify.com
 0.0.0.0 diegeotechniker.at
 0.0.0.0 diegoladano.com
 0.0.0.0 diehamburgerplattenfirma.de
@@ -10705,6 +10710,7 @@
 0.0.0.0 finanz-schnell.de
 0.0.0.0 finanzamt-familienbeihilfe-at.com
 0.0.0.0 finanzaufsichtsbehoerde.com
+0.0.0.0 finanzen.075756.net
 0.0.0.0 finanzonline-gvbmfgv.info
 0.0.0.0 finanzonline.at.bmf.gv-uberprufung.com
 0.0.0.0 finanzonline.bmf-gv-at-verifizierung.com
@@ -13677,6 +13683,7 @@
 0.0.0.0 haushaltonline.com
 0.0.0.0 haushalts-elektro.de
 0.0.0.0 haushalts-hit.de
+0.0.0.0 haushaltsgeraete-profis.de
 0.0.0.0 haushaltsgeraete24.at
 0.0.0.0 haushaltsheizung.com
 0.0.0.0 haushaltshelden.online
@@ -15769,6 +15776,7 @@
 0.0.0.0 itemusfilms.com
 0.0.0.0 itguruu.com
 0.0.0.0 ithardpulsede.shop
+0.0.0.0 ithardwareprofi24.com
 0.0.0.0 itisrainvintage.com
 0.0.0.0 itnl-logistics.com
 0.0.0.0 itoro.io
@@ -17275,6 +17283,7 @@
 0.0.0.0 korase.de
 0.0.0.0 korbheld.de
 0.0.0.0 korda-fishing.com
+0.0.0.0 korff-agrarbau.de
 0.0.0.0 kortner-partner.de
 0.0.0.0 kortova.com
 0.0.0.0 kortsdam.de
@@ -17464,6 +17473,7 @@
 0.0.0.0 kundegeschaft.de
 0.0.0.0 kundendienstexperte.at
 0.0.0.0 kundendienstgeraete.at
+0.0.0.0 kundenservice-flatex.at
 0.0.0.0 kundenservice-hotline.at
 0.0.0.0 kundigenbei.at
 0.0.0.0 kunst-onlinebuy.shop
@@ -19446,6 +19456,7 @@
 0.0.0.0 markechant.com
 0.0.0.0 markel-energie.com
 0.0.0.0 markensnowboard.com
+0.0.0.0 market.ashfielden.com
 0.0.0.0 market.cedarbourne.com
 0.0.0.0 market.clearancewhirl.com
 0.0.0.0 market.darrowmere.com
@@ -21786,6 +21797,7 @@
 0.0.0.0 newsale-tableware.com
 0.0.0.0 newscohot.com
 0.0.0.0 newsee.datevote.shop
+0.0.0.0 newsfluxvpo.info
 0.0.0.0 newsneakers-shop.com
 0.0.0.0 newsneakershop.com
 0.0.0.0 newsportkit.com
@@ -22179,6 +22191,7 @@
 0.0.0.0 novakgroup.online
 0.0.0.0 novaloan.eu
 0.0.0.0 novalyx.de
+0.0.0.0 novambients.de
 0.0.0.0 novamenstruhilfe.de
 0.0.0.0 novamoda-oslo.com
 0.0.0.0 novamoda.de
@@ -23950,6 +23963,7 @@
 0.0.0.0 pcakkusdirekt.de
 0.0.0.0 pcdok.at
 0.0.0.0 pcdpyqtc.shop
+0.0.0.0 pcoemgerm.com
 0.0.0.0 pcpartsvendor.com
 0.0.0.0 pcsada.com
 0.0.0.0 pd99.cc
@@ -24901,6 +24915,7 @@
 0.0.0.0 premiumer.co
 0.0.0.0 premiumfinancesolutionsltd.com
 0.0.0.0 premiumfunds.com
+0.0.0.0 premiummatten.shop
 0.0.0.0 premiumnovo.com
 0.0.0.0 premiumpillservice.com
 0.0.0.0 premiumpowertec.com
@@ -25167,6 +25182,7 @@
 0.0.0.0 propagaty.com
 0.0.0.0 propellerfinnen.com
 0.0.0.0 propellets.pro
+0.0.0.0 propermen.de
 0.0.0.0 properties-list.com
 0.0.0.0 propertisz.com
 0.0.0.0 property-24.com
@@ -25672,6 +25688,7 @@
 0.0.0.0 radiotradeus.com
 0.0.0.0 radioustrendy.com
 0.0.0.0 radiusor.com
+0.0.0.0 radmarkt-schaeler.de
 0.0.0.0 radonsale.com
 0.0.0.0 radrudel.de
 0.0.0.0 radschuhede.com
@@ -26014,6 +26031,7 @@
 0.0.0.0 registrykissen.com
 0.0.0.0 regli-coaching.com
 0.0.0.0 regosunglasses.com
+0.0.0.0 regsvsemptbr-upadttody.com
 0.0.0.0 regular-offers.com
 0.0.0.0 regulh.com
 0.0.0.0 rehapolen.de
@@ -27991,6 +28009,7 @@
 0.0.0.0 seelina.com
 0.0.0.0 seepalm.de
 0.0.0.0 seeslotg.com
+0.0.0.0 seewinklermaeher.at
 0.0.0.0 sefitoys.com
 0.0.0.0 sefmgift.com
 0.0.0.0 segelbekleidung.at
@@ -30048,6 +30067,7 @@
 0.0.0.0 store.minisforum.de
 0.0.0.0 store.miremonta.com
 0.0.0.0 store.promomesh.com
+0.0.0.0 store.rosebournea.com
 0.0.0.0 store.savemarketed.com
 0.0.0.0 store.useum.org
 0.0.0.0 store.yeelight.com
@@ -32582,6 +32602,7 @@
 0.0.0.0 trycheahoney.site
 0.0.0.0 trychemlove.site
 0.0.0.0 tryemsense.com
+0.0.0.0 tryfivemore.com
 0.0.0.0 tryfono.com
 0.0.0.0 tryglamory.de
 0.0.0.0 tryglycogenplus.com
@@ -34397,6 +34418,7 @@
 0.0.0.0 wahlalltagkueche.com
 0.0.0.0 wahldate.de
 0.0.0.0 wahlgartenalltag.com
+0.0.0.0 wahlkinderalltag.com
 0.0.0.0 wahlstern.de
 0.0.0.0 wahrekatzenliebe.com
 0.0.0.0 waifairy.com
@@ -35585,6 +35607,7 @@
 0.0.0.0 xsbcje.solidcourt.shop
 0.0.0.0 xscinotic.com
 0.0.0.0 xseipnn.shop
+0.0.0.0 xsltkprx.shop
 0.0.0.0 xsmartlogisticservices.com
 0.0.0.0 xspiegel.de
 0.0.0.0 xtapostr.com
