@@ -2,10 +2,10 @@
 # Pi-hole DNS Blocklist: Watchlist Internet
 # Source: https://www.watchlist-internet.at/liste-betruegerischer-shops/csv/
 # Pi-hole Source: https://github.com/nice42q/watchlist-internet
-# Last update: 2026-09-11 04:47:57 UTC
+# Last update: 2026-09-12 04:42:02 UTC
 #
 # --- Analysis statistics for this update ---
-# Total valid domains:       36255
+# Total valid domains:       36272
 # Duplicate entries removed: 8
 # Invalid lines filtered:    3
 # -------------------------------------------
@@ -680,6 +680,7 @@
 ||airyclub.com^
 ||airyixe.com^
 ||airzuma.at^
+||airzuma.com^
 ||aisakicks.shop^
 ||aisope.at^
 ||aiwishop.com^
@@ -2132,6 +2133,7 @@
 ||aurainfusions.com^
 ||auraterraplaza.com^
 ||aureamunich.de^
+||aureliustrust.uk^
 ||aurelllc.com^
 ||aurevo-fashion.com^
 ||aurgkb.com^
@@ -2918,6 +2920,7 @@
 ||bbviptotal.shop^
 ||bcbock.shop^
 ||bch-oberursel.de^
+||bcls-assets.com^
 ||bcokojidrip.shop^
 ||bcpchoice.shop^
 ||bcpstores.shop^
@@ -4069,6 +4072,7 @@
 ||bmatbat.com^
 ||bmbgreen.com^
 ||bmcloth.com^
+||bmfflnanzonline.net^
 ||bmfflnanzonlinegv.at^
 ||bmgebaeudereinigung.de^
 ||bmgvinyl.shop^
@@ -5926,6 +5930,7 @@
 ||clearanceu.com^
 ||clearchoice-investments.com^
 ||clearingt.com^
+||clearmarket-europe.com^
 ||clearstream.fashion^
 ||clearstream.xin^
 ||cleatelite.shop^
@@ -7343,6 +7348,7 @@
 ||decorlivio.com^
 ||decorustools.com^
 ||decotik.de^
+||decovividly.com^
 ||decryptotradefx.com^
 ||dedrepeni.com^
 ||dedynafitsport.com^
@@ -7931,6 +7937,7 @@
 ||diowaystore.com^
 ||dioxnerry.store^
 ||dipernice.com^
+||diploms.de^
 ||dipsturn.top^
 ||dipsyoon.top^
 ||dirctychop.com^
@@ -12285,6 +12292,7 @@
 ||germanfishinggear.com^
 ||germanfurnituremart.com^
 ||germangoodsonline.com^
+||germangusto.com^
 ||germania-ce.de^
 ||germanlifeparts.com^
 ||germanmanufaktur.de^
@@ -13537,6 +13545,7 @@
 ||handytoolpro.com^
 ||handytoolstorex.com^
 ||haney-university-store.myshopify.com^
+||hanfmeister.at^
 ||hangrygal.com^
 ||hanna-health.de^
 ||hanna-health.shop^
@@ -16338,6 +16347,7 @@
 ||ka-99.top^
 ||ka-eu.com^
 ||kabahinfo.net^
+||kabelbund.com^
 ||kabelgeschaft.de^
 ||kabelmesser.com^
 ||kabelneu.de^
@@ -23204,6 +23214,7 @@
 ||oralfree.online^
 ||oramnot.xyz^
 ||orange-ltd.org^
+||oranix-de.myshopify.com^
 ||oranza.de^
 ||orbanicsport.com^
 ||orchair.top^
@@ -24408,6 +24419,7 @@
 ||pillsmshop.com^
 ||pillstock.net^
 ||pillz888.org^
+||pilotentest-vorbereitung.com^
 ||pilotshof.com^
 ||pilule-france.com^
 ||piluleinfo.com^
@@ -25456,6 +25468,7 @@
 ||qliopbn.forum^
 ||qlodus.de^
 ||qlovebest.com^
+||qmdhueo.shop^
 ||qmwblnuk.shop^
 ||qmypalm.com^
 ||qnesz.shop^
@@ -25686,6 +25699,7 @@
 ||radfahrzeit.com^
 ||radfit24.com^
 ||radhabeauty.shop^
+||radhafen.com^
 ||radhandel24.de^
 ||radiadoresadicionales.com^
 ||radiantelixir.com^
@@ -26773,6 +26787,7 @@
 ||rolexwanduhr.de^
 ||rolexyeals.com^
 ||rolla.store^
+||rolladen-rudolf.at^
 ||rolladenmeister.at^
 ||rolladenreparatur.at^
 ||rollangel.com^
@@ -34043,6 +34058,7 @@
 ||vitaldelikatesse.com^
 ||vitalehomede.shop^
 ||vitalgesund.at^
+||vitalheldenhub.com^
 ||vitalismoemi.com^
 ||vitalkompass-de.com^
 ||vitalogen.de^
@@ -35621,6 +35637,7 @@
 ||xsltkprx.shop^
 ||xsmartlogisticservices.com^
 ||xspiegel.de^
+||xsxpswau.shop^
 ||xtapostr.com^
 ||xtbse.shop^
 ||xtdqvn.shop^

@@ -669,6 +669,7 @@
 0.0.0.0 airyclub.com
 0.0.0.0 airyixe.com
 0.0.0.0 airzuma.at
+0.0.0.0 airzuma.com
 0.0.0.0 aisakicks.shop
 0.0.0.0 aisope.at
 0.0.0.0 aiwishop.com
@@ -2121,6 +2122,7 @@
 0.0.0.0 aurainfusions.com
 0.0.0.0 auraterraplaza.com
 0.0.0.0 aureamunich.de
+0.0.0.0 aureliustrust.uk
 0.0.0.0 aurelllc.com
 0.0.0.0 aurevo-fashion.com
 0.0.0.0 aurgkb.com
@@ -2907,6 +2909,7 @@
 0.0.0.0 bbviptotal.shop
 0.0.0.0 bcbock.shop
 0.0.0.0 bch-oberursel.de
+0.0.0.0 bcls-assets.com
 0.0.0.0 bcokojidrip.shop
 0.0.0.0 bcpchoice.shop
 0.0.0.0 bcpstores.shop
@@ -4058,6 +4061,7 @@
 0.0.0.0 bmatbat.com
 0.0.0.0 bmbgreen.com
 0.0.0.0 bmcloth.com
+0.0.0.0 bmfflnanzonline.net
 0.0.0.0 bmfflnanzonlinegv.at
 0.0.0.0 bmgebaeudereinigung.de
 0.0.0.0 bmgvinyl.shop
@@ -5915,6 +5919,7 @@
 0.0.0.0 clearanceu.com
 0.0.0.0 clearchoice-investments.com
 0.0.0.0 clearingt.com
+0.0.0.0 clearmarket-europe.com
 0.0.0.0 clearstream.fashion
 0.0.0.0 clearstream.xin
 0.0.0.0 cleatelite.shop
@@ -7332,6 +7337,7 @@
 0.0.0.0 decorlivio.com
 0.0.0.0 decorustools.com
 0.0.0.0 decotik.de
+0.0.0.0 decovividly.com
 0.0.0.0 decryptotradefx.com
 0.0.0.0 dedrepeni.com
 0.0.0.0 dedynafitsport.com
@@ -7920,6 +7926,7 @@
 0.0.0.0 diowaystore.com
 0.0.0.0 dioxnerry.store
 0.0.0.0 dipernice.com
+0.0.0.0 diploms.de
 0.0.0.0 dipsturn.top
 0.0.0.0 dipsyoon.top
 0.0.0.0 dirctychop.com
@@ -12274,6 +12281,7 @@
 0.0.0.0 germanfishinggear.com
 0.0.0.0 germanfurnituremart.com
 0.0.0.0 germangoodsonline.com
+0.0.0.0 germangusto.com
 0.0.0.0 germania-ce.de
 0.0.0.0 germanlifeparts.com
 0.0.0.0 germanmanufaktur.de
@@ -13526,6 +13534,7 @@
 0.0.0.0 handytoolpro.com
 0.0.0.0 handytoolstorex.com
 0.0.0.0 haney-university-store.myshopify.com
+0.0.0.0 hanfmeister.at
 0.0.0.0 hangrygal.com
 0.0.0.0 hanna-health.de
 0.0.0.0 hanna-health.shop
@@ -16327,6 +16336,7 @@
 0.0.0.0 ka-99.top
 0.0.0.0 ka-eu.com
 0.0.0.0 kabahinfo.net
+0.0.0.0 kabelbund.com
 0.0.0.0 kabelgeschaft.de
 0.0.0.0 kabelmesser.com
 0.0.0.0 kabelneu.de
@@ -23193,6 +23203,7 @@
 0.0.0.0 oralfree.online
 0.0.0.0 oramnot.xyz
 0.0.0.0 orange-ltd.org
+0.0.0.0 oranix-de.myshopify.com
 0.0.0.0 oranza.de
 0.0.0.0 orbanicsport.com
 0.0.0.0 orchair.top
@@ -24397,6 +24408,7 @@
 0.0.0.0 pillsmshop.com
 0.0.0.0 pillstock.net
 0.0.0.0 pillz888.org
+0.0.0.0 pilotentest-vorbereitung.com
 0.0.0.0 pilotshof.com
 0.0.0.0 pilule-france.com
 0.0.0.0 piluleinfo.com
@@ -25445,6 +25457,7 @@
 0.0.0.0 qliopbn.forum
 0.0.0.0 qlodus.de
 0.0.0.0 qlovebest.com
+0.0.0.0 qmdhueo.shop
 0.0.0.0 qmwblnuk.shop
 0.0.0.0 qmypalm.com
 0.0.0.0 qnesz.shop
@@ -25675,6 +25688,7 @@
 0.0.0.0 radfahrzeit.com
 0.0.0.0 radfit24.com
 0.0.0.0 radhabeauty.shop
+0.0.0.0 radhafen.com
 0.0.0.0 radhandel24.de
 0.0.0.0 radiadoresadicionales.com
 0.0.0.0 radiantelixir.com
@@ -26762,6 +26776,7 @@
 0.0.0.0 rolexwanduhr.de
 0.0.0.0 rolexyeals.com
 0.0.0.0 rolla.store
+0.0.0.0 rolladen-rudolf.at
 0.0.0.0 rolladenmeister.at
 0.0.0.0 rolladenreparatur.at
 0.0.0.0 rollangel.com
@@ -34032,6 +34047,7 @@
 0.0.0.0 vitaldelikatesse.com
 0.0.0.0 vitalehomede.shop
 0.0.0.0 vitalgesund.at
+0.0.0.0 vitalheldenhub.com
 0.0.0.0 vitalismoemi.com
 0.0.0.0 vitalkompass-de.com
 0.0.0.0 vitalogen.de
@@ -35610,6 +35626,7 @@
 0.0.0.0 xsltkprx.shop
 0.0.0.0 xsmartlogisticservices.com
 0.0.0.0 xspiegel.de
+0.0.0.0 xsxpswau.shop
 0.0.0.0 xtapostr.com
 0.0.0.0 xtbse.shop
 0.0.0.0 xtdqvn.shop
