@@ -1378,6 +1378,7 @@
 0.0.0.0 annen.store
 0.0.0.0 anneschilk.com
 0.0.0.0 annesophiebarel.com
+0.0.0.0 annett-mode.com
 0.0.0.0 annettasiendeeu.shop
 0.0.0.0 annette-gwozdz.de
 0.0.0.0 annettestaack.de
@@ -1504,6 +1505,7 @@
 0.0.0.0 apotheke-rezeptfrei.info
 0.0.0.0 apotheke-schweiz.net
 0.0.0.0 apotheke-windischgarsten.com
+0.0.0.0 apotheke-zaversko.shop
 0.0.0.0 apotheke.buzz
 0.0.0.0 apothekedeutschland.com
 0.0.0.0 apothekeeuropa.de
@@ -2128,6 +2130,7 @@
 0.0.0.0 aurainfusions.com
 0.0.0.0 auraterraplaza.com
 0.0.0.0 aureamunich.de
+0.0.0.0 aureliawien.com
 0.0.0.0 aureliustrust.uk
 0.0.0.0 aurelllc.com
 0.0.0.0 aurevo-fashion.com
@@ -4659,6 +4662,7 @@
 0.0.0.0 buchundmehr.com
 0.0.0.0 buchverlag-scholz.de
 0.0.0.0 buchwerft-verlag.de
+0.0.0.0 bucinator.shop
 0.0.0.0 buck-reifenhandel.com
 0.0.0.0 buckbasil.com
 0.0.0.0 buckbirch.com
@@ -12156,6 +12160,7 @@
 0.0.0.0 gbachtgmbh.com
 0.0.0.0 gbhxe.site
 0.0.0.0 gbi.segaeg.top
+0.0.0.0 gbkirchwerder.com
 0.0.0.0 gblkaufen.net
 0.0.0.0 gbootssale.com
 0.0.0.0 gbpusdcryptotrade.live
@@ -12834,6 +12839,7 @@
 0.0.0.0 goldenlite.ltd
 0.0.0.0 goldenpassmedia.com
 0.0.0.0 goldenpump.de
+0.0.0.0 golderstarbeer.com
 0.0.0.0 goldf-tradex.com
 0.0.0.0 goldfuchs.at
 0.0.0.0 goldhandel-degussa.com
@@ -13738,6 +13744,7 @@
 0.0.0.0 haushaltgeschenkede.shop
 0.0.0.0 haushaltonline.com
 0.0.0.0 haushalts-elektro.de
+0.0.0.0 haushalts-fuchs.de
 0.0.0.0 haushalts-hit.de
 0.0.0.0 haushaltsgeraete-profis.de
 0.0.0.0 haushaltsgeraete24.at
@@ -16162,6 +16169,7 @@
 0.0.0.0 jogsneakerdiscovery.com
 0.0.0.0 johann-burgstaller.shop
 0.0.0.0 johannabruecknerkeramik.shop
+0.0.0.0 johannawien.com
 0.0.0.0 johannes-lerch.de
 0.0.0.0 johanneslemke.de
 0.0.0.0 johanning-online.de
@@ -17103,6 +17111,7 @@
 0.0.0.0 kleankanteenbottle.com
 0.0.0.0 kleaskunst.de
 0.0.0.0 klebemeister.shop
+0.0.0.0 kleefmode.nl
 0.0.0.0 kleemeyermichael.com
 0.0.0.0 kleid-speichernde.com
 0.0.0.0 kleider-kabinett.de
@@ -18612,6 +18621,7 @@
 0.0.0.0 lkbennettdeutschland.com
 0.0.0.0 lkenshop.com
 0.0.0.0 lkiec.shop
+0.0.0.0 lkntransport.com
 0.0.0.0 lkw-mieten-wien.at
 0.0.0.0 ll-sheins.com
 0.0.0.0 llanos-performance.de
@@ -19870,6 +19880,7 @@
 0.0.0.0 mediplus-berlin.de
 0.0.0.0 meditatem.com
 0.0.0.0 medivita-de.com
+0.0.0.0 medizinversand24.com
 0.0.0.0 medlines.fr
 0.0.0.0 medmerstao.net
 0.0.0.0 medoni24.de
@@ -20867,6 +20878,7 @@
 0.0.0.0 monsterboxofficial.com
 0.0.0.0 mont-gerrard.com
 0.0.0.0 montage-expert.de
+0.0.0.0 montagereparaturbohren.com
 0.0.0.0 montanahudson.com
 0.0.0.0 montanawest-usa.com
 0.0.0.0 montaneoutdoor.com
@@ -23776,6 +23788,7 @@
 0.0.0.0 ozkeas.shop
 0.0.0.0 ozo-7.top
 0.0.0.0 ozpillsdirect.com
+0.0.0.0 p-ep.com
 0.0.0.0 p.prezzocomprare.com
 0.0.0.0 p6cj.snarkcactus.life
 0.0.0.0 paadshalau.com
@@ -28548,6 +28561,7 @@
 0.0.0.0 shop.goldsea.es
 0.0.0.0 shop.gxicml.shop
 0.0.0.0 shop.haushaltsideal.de
+0.0.0.0 shop.hochocl.shop
 0.0.0.0 shop.ikfabh.top
 0.0.0.0 shop.kingxbar.com
 0.0.0.0 shop.mugmugs.shop
@@ -28555,6 +28569,7 @@
 0.0.0.0 shop.qrp-labs.com
 0.0.0.0 shop.reyfg.top
 0.0.0.0 shop.rhcltt.shop
+0.0.0.0 shop.rzerzed.shop
 0.0.0.0 shop.salesonline2021.ru
 0.0.0.0 shop.shopcider.com
 0.0.0.0 shop.tegeler.com
@@ -29169,6 +29184,7 @@
 0.0.0.0 smallgolfshop.com
 0.0.0.0 smanbub.com
 0.0.0.0 smand.store
+0.0.0.0 smangeln.de
 0.0.0.0 smarmerge.com
 0.0.0.0 smart-ai-etf.de
 0.0.0.0 smart-aktien.com
@@ -29270,6 +29286,7 @@
 0.0.0.0 sneakwearlab.com
 0.0.0.0 sneakwelt.com
 0.0.0.0 sneawin.com
+0.0.0.0 snelkreditet.com
 0.0.0.0 sngartenbau.de
 0.0.0.0 snikteks.com
 0.0.0.0 snipes-eu.eufootwear.com
@@ -30796,6 +30813,7 @@
 0.0.0.0 svitla-vip.co
 0.0.0.0 svmudb.shop
 0.0.0.0 svnemia.com
+0.0.0.0 swabytec24.de
 0.0.0.0 swaddledesignsde.shop
 0.0.0.0 swapplaceca.com
 0.0.0.0 swarmgreat.club
@@ -31184,6 +31202,7 @@
 0.0.0.0 teddyherment.com
 0.0.0.0 tedex.co
 0.0.0.0 tedex.live
+0.0.0.0 tee-shopo.shop
 0.0.0.0 tee1.shop
 0.0.0.0 teekee.shop
 0.0.0.0 teenovi.com
@@ -32346,6 +32365,7 @@
 0.0.0.0 toyuseful.com
 0.0.0.0 tozido.de
 0.0.0.0 tpcinvest.com
+0.0.0.0 tpmgbike.com
 0.0.0.0 tpolexsink.com
 0.0.0.0 tproditt.com
 0.0.0.0 tps-handel.de
@@ -35061,6 +35081,7 @@
 0.0.0.0 wf-schenning.de
 0.0.0.0 wfh-markt.de
 0.0.0.0 wfhsale.com
+0.0.0.0 wfk-klimatechnik.com
 0.0.0.0 wggkr.com
 0.0.0.0 wgl-europetransport.com
 0.0.0.0 wgtodenbuettel.de
@@ -35557,6 +35578,7 @@
 0.0.0.0 wvmxf.jomanbygg.com
 0.0.0.0 wvvw.barnking-volksbanlk-at.site
 0.0.0.0 ww12.pricesthese.com
+0.0.0.0 ww2-gv.bmf-at.com
 0.0.0.0 ww7.finotive.net
 0.0.0.0 wwb.sneakerz2020.com
 0.0.0.0 wwd.bags2020c.cz
