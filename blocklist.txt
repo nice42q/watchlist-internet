@@ -2,10 +2,10 @@
 # Pi-hole DNS Blocklist: Watchlist Internet
 # Source: https://www.watchlist-internet.at/liste-betruegerischer-shops/csv/
 # Pi-hole Source: https://github.com/nice42q/watchlist-internet
-# Last update: 2026-09-19 04:43:25 UTC
+# Last update: 2026-09-22 05:06:04 UTC
 #
 # --- Analysis statistics for this update ---
-# Total valid domains:       36415
+# Total valid domains:       36455
 # Duplicate entries removed: 8
 # Invalid lines filtered:    3
 # -------------------------------------------
@@ -2084,6 +2084,7 @@
 ||aturabzehra.com^
 ||aturelde.shop^
 ||atusale.shop^
+||atv-gartengerate.de^
 ||atvelektro.com^
 ||atww.gsnim.top^
 ||au-meds.com^
@@ -2140,6 +2141,7 @@
 ||aurahous.com^
 ||auraineg.com^
 ||aurainfusions.com^
+||aurapurezza.com^
 ||auraterraplaza.com^
 ||aureamunich.de^
 ||aureliawien.com^
@@ -2165,6 +2167,7 @@
 ||auslandcredit.com^
 ||ausrutscher-de.com^
 ||austody.com^
+||austria-alpine-chalets.com^
 ||austria-deals.com^
 ||austria-myhermes.cc^
 ||austria-partner.at^
@@ -3903,6 +3906,7 @@
 ||bitkabelvore.de^
 ||bitkapital.io^
 ||bitlast.com^
+||bitmart.com^
 ||bitnetxltd.com^
 ||bitnixer.io^
 ||bitonite.com^
@@ -6308,6 +6312,7 @@
 ||complemeny.com^
 ||completelamps.com^
 ||component-de.com^
+||componentsantrieb.com^
 ||componsite.com^
 ||compositeattire.com^
 ||compositefamily.com^
@@ -7243,6 +7248,7 @@
 ||de.puppylove.com^
 ||de.reeboktriluxrun.com^
 ||de.shopfashion2023.com^
+||de.shopmaxxs.com^
 ||de.silksilky.com^
 ||de.skinliy.com^
 ||de.sneakers-storm.com^
@@ -7596,6 +7602,7 @@
 ||depopng.vip^
 ||depopno.com^
 ||depopnr.com^
+||depot-official.com^
 ||depotbicycle.com^
 ||depotcandle.com^
 ||depotkraft.com^
@@ -8633,6 +8640,7 @@
 ||e-bikesstore.com^
 ||e-designworks.de^
 ||e-fahrrader.de^
+||e-fahrrader.store^
 ||e-fahrradrabatt.com^
 ||e-finanzmarket.com^
 ||e-fliteshop.com^
@@ -10220,6 +10228,7 @@
 ||fairytalecreators.com^
 ||fairytaleoryx.net^
 ||faisalrinjani.com^
+||fait-recht.de^
 ||faitcabien.fr^
 ||faith.skipolitical.xyz^
 ||faithfullus.com^
@@ -11111,6 +11120,7 @@
 ||flnanzonline-vgbmfgv.net^
 ||flnanzonline.at^
 ||flnanzonline.net^
+||flnanzonlinebmfgv.net^
 ||floange.com^
 ||flock-offers.com^
 ||flofrei.com^
@@ -12322,6 +12332,7 @@
 ||geoxoutlet.shop^
 ||geoxschuhe.de^
 ||gep-media.com^
+||gepackrad.com^
 ||gepures.com^
 ||geqimo.com^
 ||ger.zoibakii.com^
@@ -13497,6 +13508,7 @@
 ||hallolacheln.de^
 ||hallomayer.at^
 ||hallookaffee.de^
+||hallosolarfreund.com^
 ||hallosusanne.de^
 ||halloween-frks.de^
 ||halloween-kit.com^
@@ -13522,6 +13534,7 @@
 ||haltungshelfer.de^
 ||hamburg-hotel.net^
 ||hamburg-modehaus.de^
+||hamburg-treuhand.com^
 ||hamburger-versand.de^
 ||hamburgfashionclub.de^
 ||hamcoana.com^
@@ -13677,6 +13690,7 @@
 ||hardware-shoponline.com^
 ||hardware123.de^
 ||hardwarebuilding.store^
+||hardwarecables.com^
 ||hardwareein.com^
 ||hardwaremall.top^
 ||hardwarenational.com^
@@ -13848,6 +13862,7 @@
 ||headingwreck.store^
 ||headofskillsde.shop^
 ||headtennistownde.com^
+||heaism.com^
 ||healing-rock.de^
 ||heally.top^
 ||healray.de^
@@ -14166,6 +14181,7 @@
 ||herbalstoreprodukte.com^
 ||herbarix.at^
 ||herbertkling.at^
+||herbertsrundumhausservice.at^
 ||herbinos.shop^
 ||herbinosde.shop^
 ||herdog.de^
@@ -15131,6 +15147,7 @@
 ||hydroforming.at^
 ||hydrogearworld.com^
 ||hyfhu.com^
+||hygienecareshop.com^
 ||hygienedirekt.com^
 ||hygrfy.xyz^
 ||hylandshops.shop^
@@ -15582,6 +15599,7 @@
 ||installateur-hansi.at^
 ||installateur-hilfe.at^
 ||installateur-koller.at^
+||installateur-meister-plus-notdienst-24h-linz-plus.jimdosite.com^
 ||installateur-meister.at^
 ||installateur-notdienst-gas-wasser-heizung.at^
 ||installateur-notdienst-vienna.at^
@@ -16547,6 +16565,7 @@
 ||kanvada.com^
 ||kanziii.net^
 ||kanzlei-dahlmanns-witten.de^
+||kanzlei-focken.de^
 ||kanzlei-guehmann.de^
 ||kanzlei-helmut-kuhn.de^
 ||kanzlei-hornberger.de^
@@ -17084,6 +17103,7 @@
 ||kkaimedia.com^
 ||kkaokaset.com^
 ||kketab.com^
+||kkholz.at^
 ||kkilomo.com^
 ||kkipoly.com^
 ||kkrde-api.com^
@@ -17163,6 +17183,7 @@
 ||klenkholzag.de^
 ||klettererpro.com^
 ||kletternalpinismus.de^
+||kletternberg.com^
 ||kleurrijkedame.com^
 ||kleversholz.com^
 ||kley-kanzlei.com^
@@ -17788,6 +17809,7 @@
 ||landwirtschaftshop.com^
 ||landwirttierhalt.com^
 ||lane-properties.com^
+||laneiges.at^
 ||laneyea.com^
 ||lang-reifenhandel.com^
 ||langberlin.com^
@@ -18829,6 +18851,7 @@
 ||loungeunderwear.at^
 ||lourdesocampoe.shop^
 ||louridodiego.com^
+||louvana.de^
 ||louvreentrance.com^
 ||louvreticketsonline.com^
 ||lovaaberlin.com^
@@ -19378,6 +19401,7 @@
 ||mall-bike.com^
 ||mall-home.com^
 ||mall-outdoors.com^
+||mall.gresholm.com^
 ||mall.randaoma.com^
 ||mallesure.top^
 ||mallexercise.com^
@@ -19565,6 +19589,7 @@
 ||market.novaris-capitallimited.ltd^
 ||market.saverevolve.com^
 ||market.silverbournea.com^
+||market.stonebournea.com^
 ||market.vailmere.com^
 ||market.westfieldon.com^
 ||market24prime.shop^
@@ -24763,6 +24788,7 @@
 ||poermine.com^
 ||pohl-autoreifen.shop^
 ||pohl-kanzlei.de^
+||poiago.com^
 ||poiloh.com^
 ||poiner.com^
 ||point-x.shop^
@@ -26157,7 +26183,6 @@
 ||regio-treuhand.de^
 ||regionit.top^
 ||registerk.com^
-||registerp.com^
 ||registerzentrale.de^
 ||registrykissen.com^
 ||regli-coaching.com^
@@ -26600,6 +26625,7 @@
 ||rgoconnell.com^
 ||rguixia.top^
 ||rgxina.com^
+||rh3e2v9ia.com^
 ||rhayyelnews.shop^
 ||rheimz.de^
 ||rhein-trends24.de^
@@ -27624,6 +27650,8 @@
 ||sanierungs-profi.at^
 ||sanitaerbox.com^
 ||sanitaerfreude.com^
+||sanitaetshausshop.com^
+||sanitatsbedarf24.com^
 ||sanixade.shop^
 ||sanrion.de^
 ||sansapoten.com^
@@ -27663,6 +27691,7 @@
 ||saraleneumann.com^
 ||saramaud.com^
 ||sarasarade.shop^
+||sarasohaus.com^
 ||sarazarjam.com^
 ||sardinenbarberlin.shop^
 ||sardinenbarberlinava.shop^
@@ -27765,6 +27794,7 @@
 ||scandiwarm.com^
 ||scannero.io^
 ||scanpanoutlet.com^
+||scarpa-de.myshopify.com^
 ||scarpa-outlet-online.shop^
 ||scarpaosterreich.at^
 ||scarpaoutdooor.com^
@@ -30097,6 +30127,7 @@
 ||stichtroopt.com^
 ||stickerei-dz.de^
 ||stickerkollektionenshop.com^
+||stiefelvia.com^
 ||stiff.garageoven.xyz^
 ||stihlg.com^
 ||stijn-outlet.com^
@@ -30215,6 +30246,7 @@
 ||store.dealofferix.com^
 ||store.dobot.cc^
 ||store.kestrelby.com^
+||store.kingslora.com^
 ||store.minisforum.de^
 ||store.miremonta.com^
 ||store.promomesh.com^
@@ -31984,6 +32016,7 @@
 ||tocart.shop^
 ||toceanswide.com^
 ||tochailt.com^
+||todayhealthmatters.com^
 ||todayil.com^
 ||todayoffer.info^
 ||todayprofit.sbs^
@@ -32591,6 +32624,7 @@
 ||trend-women.com^
 ||trendaloo.com^
 ||trendalter.com^
+||trendartikelwelt.de^
 ||trendboutiquekoln.de^
 ||trendersapps.com^
 ||trendessentiel.com^
@@ -32727,6 +32761,7 @@
 ||trumerholz-store.shop^
 ||trumerholzliving.shop^
 ||trumomarkt.de^
+||truof.com^
 ||trust-immo.com^
 ||trust-pils.com^
 ||trusted-help.com^
@@ -34539,6 +34574,7 @@
 ||vwraresparepartshop.com^
 ||vwutaq.com^
 ||vxiqv.com^
+||vxjskiy.shop^
 ||vxyyiurw.shop^
 ||vyepehijab.com^
 ||vyjak.com^
@@ -34778,6 +34814,7 @@
 ||wayrates.com^
 ||waywardgalaxye.com^
 ||waziwazi.de^
+||wbdhyer.shop^
 ||wbecrisfro.com^
 ||wbotian.com^
 ||wbr-freizeitwelt.de^
@@ -35248,6 +35285,7 @@
 ||willintter.shop^
 ||willis-forum.at^
 ||willistonforcestore.com^
+||willms-forsttechnik.de^
 ||willth.xyz^
 ||willviewca.com^
 ||willypots.shop^
@@ -35622,6 +35660,7 @@
 ||wwwvvvbbb.shop^
 ||wxinthai.com^
 ||wxnlucky.com^
+||wxvhdvud.shop^
 ||wynajemwroclaw.com^
 ||wzdnymoc.shop^
 ||wzyzz.hillvieworganicfarm.com^
@@ -36371,6 +36410,7 @@
 ||ztwss.sistersbeautyworld-lhs.de^
 ||zubehorfahrrad.de^
 ||zubehorstiefel.com^
+||zuchalets.com^
 ||zuchterheim.com^
 ||zuedy.de^
 ||zuhausealltaglernen.com^
