@@ -2,10 +2,10 @@
 # Pi-hole DNS Blocklist: Watchlist Internet
 # Source: https://www.watchlist-internet.at/liste-betruegerischer-shops/csv/
 # Pi-hole Source: https://github.com/nice42q/watchlist-internet
-# Last update: 2026-09-24 04:59:58 UTC
+# Last update: 2026-09-25 05:04:06 UTC
 #
 # --- Analysis statistics for this update ---
-# Total valid domains:       36489
+# Total valid domains:       36506
 # Duplicate entries removed: 8
 # Invalid lines filtered:    3
 # -------------------------------------------
@@ -666,6 +666,7 @@
 ||airly-shop.de^
 ||airmaxoutlet.net^
 ||airmaxsale.de^
+||airobotsupplier.com^
 ||airoil.de^
 ||airpodsdirecter.com^
 ||airporshop.com^
@@ -1493,6 +1494,7 @@
 ||apjjket.com^
 ||apkgy.com^
 ||apkwell.com^
+||aplamzelte.de^
 ||aplschuhe.com^
 ||apnoi.com^
 ||apo-rezeptfrei.com^
@@ -2596,6 +2598,7 @@
 ||bakingappliancessale.store^
 ||bakinghelpershop.com^
 ||bakingutensilsale.com^
+||bakuchiol.online^
 ||bakuronel-ai.net^
 ||bakuronel-italy.com^
 ||bakuronel.com^
@@ -3973,6 +3976,7 @@
 ||blackrmarket.com^
 ||blacksheepsportseu.shop^
 ||blacktridentpop.shop^
+||blacktridents.shop^
 ||blackyakdeutschland.com^
 ||blackyakrabatt.com^
 ||blade-pirates.de^
@@ -6823,6 +6827,7 @@
 ||currency-us.com^
 ||currencytrademaster.online^
 ||currentbody-outlet.de^
+||currentbodyaustria.com^
 ||currentbodyde.shop^
 ||currext.com^
 ||curriculumt.com^
@@ -8507,6 +8512,7 @@
 ||drybox-innov.com^
 ||drykorngeschaft.com^
 ||dryredwineshop.com^
+||ds24-handel.de^
 ||dsabunbadang.shop^
 ||dsc-logistic.com^
 ||dschultznd.com^
@@ -8642,7 +8648,6 @@
 ||dzhanagulovn.com^
 ||dzkke7-kh.myshopify.com^
 ||dznrspot.com^
-||e-bib.horse^
 ||e-bike-store24.com^
 ||e-bike-world.eu^
 ||e-bikeonsales.com^
@@ -9734,6 +9739,7 @@
 ||eu-inshoefa.com^
 ||eu-med-mart.com^
 ||eu-meds.online^
+||eu-segway.com^
 ||eu-sezane.com^
 ||eu-tonies.com^
 ||eu-top-meds.com^
@@ -9921,6 +9927,7 @@
 ||everythingnecessary.co^
 ||evewebster.com^
 ||evh.cc^
+||evinjeta-slovenia.listocar.com^
 ||eviox24.com^
 ||eviox24.de^
 ||evisas.travel^
@@ -10865,6 +10872,7 @@
 ||finetoolstore.com^
 ||finetruereligion.com^
 ||fineuscamp.com^
+||fineweine.com^
 ||finexleaders.com^
 ||finexleaders.eu^
 ||finexleaders.uk^
@@ -14040,6 +14048,7 @@
 ||heizoel-experten.de^
 ||heizoel-fast.com^
 ||heizoel-freunde.de^
+||heizoel-genial.com^
 ||heizoel-held.de^
 ||heizoel-liefern.de^
 ||heizoel-marke.de^
@@ -16549,6 +16558,7 @@
 ||kamerino.de^
 ||kaminexpertstore.com^
 ||kaminholz-briketts-holzpellets.eu^
+||kaminholz-erzgebirge.com^
 ||kaminholz-vare.com^
 ||kaminholzdirekt.ch^
 ||kaminholzgmbh.com^
@@ -19718,6 +19728,7 @@
 ||maryslayton.com^
 ||masalelo.shop^
 ||maschinen-brennholz.de^
+||maschinenbau-stripegmbh.de^
 ||maschinenpreiswert.com^
 ||maschinenwelt24.com^
 ||mascotsmall.com^
@@ -21751,7 +21762,6 @@
 ||nest0.shop^
 ||nestauralabglow.com^
 ||nestglobalx.com^
-||nestkraft.de^
 ||nestleena.com^
 ||nestleix.com^
 ||nestleovae.com^
@@ -23074,6 +23084,7 @@
 ||onlinedogfood.store^
 ||onlinedoll-toy.com^
 ||onlineeba.com^
+||onlineeinkaufswelt.com^
 ||onlinefinanz-bmf.com^
 ||onlinefixedblade.com^
 ||onlineflamencoguitar.com^
@@ -27121,6 +27132,7 @@
 ||rsahansuwa.shop^
 ||rsellssasu.com^
 ||rsf-services.de^
+||rsholzgmbh.de^
 ||rskesp.com^
 ||rsl-transport.com^
 ||rsnonline.de^
@@ -28036,6 +28048,7 @@
 ||schuhevionic-de.com^
 ||schuhewienshoponline.com^
 ||schuhheld.com^
+||schuhkomfort.shop^
 ||schuhschritte.com^
 ||schuhschritte.de^
 ||schuhwelten.com^
@@ -28218,6 +28231,7 @@
 ||sehringger.de^
 ||sehrruhig.de^
 ||seibelsdorf-ffw.de^
+||seidel-kanzlei.de^
 ||seiden-haus.de^
 ||seidl-mode.com^
 ||seidler-outlet.de^
@@ -30441,6 +30455,7 @@
 ||strowcrue.net^
 ||stroysmind.com^
 ||structern.top^
+||stubenlatschen.com^
 ||stubling.de^
 ||studententransporter.de^
 ||studentscard.at^
@@ -34577,6 +34592,7 @@
 ||vs-home.de^
 ||vsahiltd.com^
 ||vsemzaimio.com^
+||vsgdew.shop^
 ||vskolo.at^
 ||vskydive.top^
 ||vsmeestore.com^
@@ -34981,6 +34997,7 @@
 ||weile-tech.de^
 ||weilesmichgibt.at^
 ||weimann-handel.de^
+||weimar-maschine.de^
 ||weimar-promenade.de^
 ||weimar-wedding.de^
 ||weimifuwl.com^
