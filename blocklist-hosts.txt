@@ -2006,6 +2006,7 @@
 0.0.0.0 atdasjournal.com
 0.0.0.0 ateamtrend.com
 0.0.0.0 atelier-boehm.de
+0.0.0.0 atelier-romand.com
 0.0.0.0 atelier-schnelle.com
 0.0.0.0 atelierappm.com
 0.0.0.0 atelierhardanger.com
@@ -2180,6 +2181,7 @@
 0.0.0.0 ausverkauf-ch.com
 0.0.0.0 ausverkaufreich.com
 0.0.0.0 aut.grandado.com
+0.0.0.0 aut.oanrp.shop
 0.0.0.0 authilama.com
 0.0.0.0 authorityo.com
 0.0.0.0 autleez.com
@@ -4103,6 +4105,7 @@
 0.0.0.0 bmwmt2025mall.sa.com
 0.0.0.0 bmwmt2026online.com
 0.0.0.0 bmwvip-eu.com
+0.0.0.0 bnbsjbir.shop
 0.0.0.0 bnbtrades.com
 0.0.0.0 bncopfs.com
 0.0.0.0 bnesmartrecruits.com
@@ -5000,6 +5003,7 @@
 0.0.0.0 camode.de
 0.0.0.0 camopstore.com
 0.0.0.0 camp365.top
+0.0.0.0 campbasel.ch
 0.0.0.0 campenwelt.com
 0.0.0.0 camper--schuhe.com
 0.0.0.0 camper-schuhe.at
@@ -5887,6 +5891,7 @@
 0.0.0.0 claracamila.de
 0.0.0.0 claracasperjuwelen.de
 0.0.0.0 clarachristine-wien.at
+0.0.0.0 claragraz.at
 0.0.0.0 claraluzern.ch
 0.0.0.0 clarasdad.de
 0.0.0.0 clareba-tech.de
@@ -15195,6 +15200,7 @@
 0.0.0.0 iamkenoughofficial.com
 0.0.0.0 iamsogood.shop
 0.0.0.0 iancheer.com
+0.0.0.0 iandamode.com
 0.0.0.0 iaprcurr.com
 0.0.0.0 iaprecon.info
 0.0.0.0 iat-internationale-auto-transport.eu
@@ -16115,6 +16121,7 @@
 0.0.0.0 jetaxtrade.pro
 0.0.0.0 jetprofund.net
 0.0.0.0 jetterix.com
+0.0.0.0 jetzt-beantragen.com
 0.0.0.0 jeulia.de
 0.0.0.0 jeveray.com
 0.0.0.0 jevolo-de.com
@@ -16844,6 +16851,7 @@
 0.0.0.0 kenada-reifen.com
 0.0.0.0 kendoraa.de
 0.0.0.0 kenjinew.com
+0.0.0.0 kenmiso.com
 0.0.0.0 kennedydwilde.com
 0.0.0.0 kenotistflowio.digital
 0.0.0.0 kenough.de
@@ -19214,7 +19222,6 @@
 0.0.0.0 luxzafashion.com
 0.0.0.0 luzern-mode.ch
 0.0.0.0 lva-grosshandel.de
-0.0.0.0 lwf-energy.com
 0.0.0.0 lwsszmn.top
 0.0.0.0 lwvbi.com
 0.0.0.0 lxatyjcu.space
@@ -19290,6 +19297,7 @@
 0.0.0.0 madeinbremenstore.shop
 0.0.0.0 madeinkcde.shop
 0.0.0.0 madeleine-issing.com
+0.0.0.0 madelinemunchen.com
 0.0.0.0 madepants.de
 0.0.0.0 madfjtlfd.top
 0.0.0.0 madfriesq.com
@@ -20460,6 +20468,7 @@
 0.0.0.0 miltonas.com
 0.0.0.0 milwaukeeartefakt.de
 0.0.0.0 milyenshop.com
+0.0.0.0 mimicoffee.com
 0.0.0.0 mimorkids.shop
 0.0.0.0 minacj.com
 0.0.0.0 minarium.top
@@ -21301,7 +21310,6 @@
 0.0.0.0 musicusstore.com
 0.0.0.0 musicworldde.com
 0.0.0.0 musik-laden.com
-0.0.0.0 musik-planet.com
 0.0.0.0 musikgarage.com
 0.0.0.0 musikgearhub.com
 0.0.0.0 musikgermany.com
@@ -25173,6 +25181,7 @@
 0.0.0.0 primehealthplus.org
 0.0.0.0 primekredit.com
 0.0.0.0 primelogisticllc.com
+0.0.0.0 primeoffer.de
 0.0.0.0 primeplatform-ai.com
 0.0.0.0 primesupply.shop
 0.0.0.0 primetechmarket.co
@@ -34356,6 +34365,7 @@
 0.0.0.0 vlappartient.com
 0.0.0.0 vlgqq.com
 0.0.0.0 vliestapeten.com
+0.0.0.0 vliyef.shop
 0.0.0.0 vlizo-berlin.de
 0.0.0.0 vlizo-modehaus.de
 0.0.0.0 vlizo-modehaus.shop
@@ -34487,6 +34497,7 @@
 0.0.0.0 voltryzapex.app
 0.0.0.0 voltryzapex.at
 0.0.0.0 volture.de
+0.0.0.0 volturexa.de
 0.0.0.0 voluntaly.com
 0.0.0.0 voluntaryi.com
 0.0.0.0 voluntarys.top
@@ -35015,6 +35026,7 @@
 0.0.0.0 weinsteincorp.biz
 0.0.0.0 weinundgenusswelt.com
 0.0.0.0 weinundmehr.net
+0.0.0.0 weinvielfalt.shop
 0.0.0.0 weinweltgenuss.com
 0.0.0.0 weiprost-pro.com
 0.0.0.0 weirdtribe.org
@@ -35778,6 +35790,7 @@
 0.0.0.0 xkauf.at
 0.0.0.0 xkhidir.com
 0.0.0.0 xkolzxhs.shop
+0.0.0.0 xlorventa.shop
 0.0.0.0 xloxo.com
 0.0.0.0 xlthomannmusic.shop
 0.0.0.0 xlumina.at
