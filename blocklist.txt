@@ -2,10 +2,10 @@
 # Pi-hole DNS Blocklist: Watchlist Internet
 # Source: https://www.watchlist-internet.at/liste-betruegerischer-shops/csv/
 # Pi-hole Source: https://github.com/nice42q/watchlist-internet
-# Last update: 2026-09-29 05:50:04 UTC
+# Last update: 2026-09-30 05:39:59 UTC
 #
 # --- Analysis statistics for this update ---
-# Total valid domains:       36556
+# Total valid domains:       36576
 # Duplicate entries removed: 8
 # Invalid lines filtered:    4
 # -------------------------------------------
@@ -462,6 +462,7 @@
 ||adultfunoff.com^
 ||adultgoodssilky.com^
 ||adultsdildo.com^
+||aduno-agentur.de^
 ||adurrye.com^
 ||advancedprofit.cc^
 ||advancedsolutionsdisplay.com^
@@ -1321,11 +1322,13 @@
 ||anhanger-kreuter.com^
 ||anhanger-shop.com^
 ||anhanger-shop24.com^
+||anhanger-shopsey.com^
 ||anhanger-tomald.com^
 ||anhanger.net^
 ||anhanger360.com^
 ||anhangercenter.com^
 ||anhangerdienst.com^
+||anhangermarkt.com^
 ||anhangermaschinen.com^
 ||anhangerplus.com^
 ||anhangerr.com^
@@ -2736,6 +2739,7 @@
 ||barnes-sales.space^
 ||barnet-homes.com^
 ||barnierboutique.com^
+||barnkingvolksbank-at.org^
 ||barodo.de^
 ||baronilorena.com^
 ||baronweb.de^
@@ -6406,6 +6410,7 @@
 ||containerdienstheiliggmbh.de^
 ||containerservicestarzgmbh.de^
 ||containerslager.com^
+||containersolutionscs.de^
 ||containert.com^
 ||containtools.com^
 ||conteneursducoin.com^
@@ -8424,6 +8429,7 @@
 ||drechselmaschinenrabatt.com^
 ||drechselwebshop.com^
 ||drehfutterverkauf.com^
+||drehmoment-shop.com^
 ||drehpunkt-store.com^
 ||dreifussn.com^
 ||dreirei.com^
@@ -8779,6 +8785,7 @@
 ||ebikesshopsales.com^
 ||ebiketeilekauf.com^
 ||ebiketeileverkaufe.com^
+||ebikezeit-fahrrad.de^
 ||ebiribiri.com^
 ||ebisushijo.com^
 ||eblattholz.com^
@@ -10818,6 +10825,7 @@
 ||finanzaufsichtsbehoerde.com^
 ||finanzen.075756.net^
 ||finanzonline-gvbmfgv.info^
+||finanzonline-portal4.net^
 ||finanzonline.at.bmf.gv-uberprufung.com^
 ||finanzonline.bmf-gv-at-verifizierung.com^
 ||finanzonline.bmf-gvat.com^
@@ -13757,6 +13765,7 @@
 ||harmoniouy.com^
 ||harmony-ambiento.shop^
 ||harmonyalmbienteoutlet.shop^
+||harmtonyambientehot.com^
 ||haroimportexport.at^
 ||harpecy.com^
 ||harper-berlin.com^
@@ -17580,6 +17589,7 @@
 ||kruhesol.com^
 ||kruscheoutdoorde.com^
 ||krushpls-marktt.com^
+||kry.fewxc.com^
 ||kryolanverkauf.de^
 ||kryostore.store^
 ||krypto-ex.com^
@@ -19889,6 +19899,7 @@
 ||mazopulove.site^
 ||mazopuplove.site^
 ||mb-hindernisse.de^
+||mb-trailer-shop.com^
 ||mba-ue.de^
 ||mbali-yangu.de^
 ||mbarbaut.com^
@@ -21753,6 +21764,7 @@
 ||needtoknit.com^
 ||neehy.com^
 ||neepage.com^
+||nefrevbz.shop^
 ||negee.xyz^
 ||negrado.com^
 ||neighborhealthcaremall.com^
@@ -24888,6 +24900,7 @@
 ||polarity-austria.at^
 ||polarlyset.de^
 ||polaroid.com.de^
+||polaroids.at^
 ||polene-deutschland.com^
 ||polene-osterreich.com^
 ||polene-paris.at^
@@ -25198,6 +25211,7 @@
 ||pricesboxstore.com^
 ||priceslash.shop^
 ||prigaudited.buzz^
+||prikoqueron.com^
 ||prima-shiplines.com^
 ||primalsale.shop^
 ||primamulch.at^
@@ -26027,6 +26041,7 @@
 ||rasen-traktor.com^
 ||rasen24h.com^
 ||rasengerate.com^
+||rasengereate.com^
 ||rasenmahen24.com^
 ||rasenmahershop.com^
 ||rasenmaherwendik.de^
@@ -26202,6 +26217,7 @@
 ||reda-prikolica.com^
 ||redactjuri.fr^
 ||redamencys.com^
+||redas-prikolica.com^
 ||redaut.cc^
 ||redbeyie.com^
 ||redbullosterreich.at^
@@ -29652,6 +29668,7 @@
 ||sonnighof.de^
 ||sonninstr-stock.com^
 ||sonntagaesthetik.de^
+||sonnwerkshop.de^
 ||sonnyapparel.com^
 ||sonnyquality.com^
 ||sonorrous.com^
@@ -32184,6 +32201,7 @@
 ||toniesosterreich.at^
 ||toniespielzeug.com^
 ||toniesrabatt.com^
+||toniesrabattde.com^
 ||toniesschritte.com^
 ||toniessonderangebot.com^
 ||toniesspielzeug.com^
@@ -32351,6 +32369,7 @@
 ||topglas.shop^
 ||topgood.xyz^
 ||tophitze-markt.com^
+||tophomeonlineshop.com^
 ||tophousesgoods.com^
 ||topial.top^
 ||topideaberlin.com^
@@ -35966,6 +35985,7 @@
 ||yangme.shop^
 ||yangonesen.com^
 ||yanillalogistics.com^
+||yanitransport.com^
 ||yannelli.net^
 ||yardcommodity.com^
 ||yardigen.store^
