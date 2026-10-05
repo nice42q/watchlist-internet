@@ -2,10 +2,10 @@
 # Pi-hole DNS Blocklist: Watchlist Internet
 # Source: https://www.watchlist-internet.at/liste-betruegerischer-shops/csv/
 # Pi-hole Source: https://github.com/nice42q/watchlist-internet
-# Last update: 2026-10-03 05:24:59 UTC
+# Last update: 2026-10-05 05:50:13 UTC
 #
 # --- Analysis statistics for this update ---
-# Total valid domains:       36623
+# Total valid domains:       36624
 # Duplicate entries removed: 8
 # Invalid lines filtered:    4
 # -------------------------------------------
@@ -17285,6 +17285,7 @@
 ||klick-ndb.de^
 ||klima-bonus.app^
 ||klima-heizung-pumpen.com^
+||klima-zuschuss-2026.cc^
 ||klima.bonus-gutschrift.cc^
 ||klimaanlageportal.de^
 ||klimabonus-2026.net^
