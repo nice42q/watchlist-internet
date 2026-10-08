@@ -1371,6 +1371,7 @@
 0.0.0.0 annafelixjuwelen.de
 0.0.0.0 annafieldwien.at
 0.0.0.0 annafmodern.com
+0.0.0.0 annaijofficial.shop
 0.0.0.0 annakatharina-wien.at
 0.0.0.0 annalenamair.com
 0.0.0.0 annamodehaus.ch
@@ -3679,6 +3680,7 @@
 0.0.0.0 bikeframesde.com
 0.0.0.0 bikegearsupply.com
 0.0.0.0 bikehandel.com
+0.0.0.0 bikehelfer.com
 0.0.0.0 bikehosesrabatt.com
 0.0.0.0 bikehubde.com
 0.0.0.0 bikeitem.com
@@ -3802,6 +3804,7 @@
 0.0.0.0 binomst.com
 0.0.0.0 binotrader.com
 0.0.0.0 binsalut.com
+0.0.0.0 bio-apode.com
 0.0.0.0 bio-brennholz.de
 0.0.0.0 bio-stefano.shop
 0.0.0.0 bio-viertel.at
@@ -6509,6 +6512,7 @@
 0.0.0.0 coreex.ch
 0.0.0.0 coregarment.com
 0.0.0.0 coreglp.at
+0.0.0.0 coreglp.com
 0.0.0.0 coremat-industrie.com
 0.0.0.0 corentinmaribro.shop
 0.0.0.0 coreprettys.com
@@ -8973,6 +8977,7 @@
 0.0.0.0 efaq.com
 0.0.0.0 efast-shopping.com
 0.0.0.0 efc-plasma.de
+0.0.0.0 efcanews.de
 0.0.0.0 efeublute.com
 0.0.0.0 effectivecycle.com
 0.0.0.0 effectsustainand.top
@@ -13041,6 +13046,7 @@
 0.0.0.0 goodpriceclothes.com
 0.0.0.0 goodpricedrugs.com
 0.0.0.0 goodqualitypot.com
+0.0.0.0 goodrumnhits.shop
 0.0.0.0 goodsafield.com
 0.0.0.0 goodservicss.top
 0.0.0.0 goodsmellshop.com
@@ -14651,6 +14657,7 @@
 0.0.0.0 holzarteiche.de
 0.0.0.0 holzbau-hunger.de
 0.0.0.0 holzbaubillig.com
+0.0.0.0 holzbrenn-stoffe.com
 0.0.0.0 holzcuten.de
 0.0.0.0 holzd24.com
 0.0.0.0 holzdeals24.com
@@ -16006,6 +16013,7 @@
 0.0.0.0 ivcuafuku.com
 0.0.0.0 ivdmlqrb.shop
 0.0.0.0 ivelay.com
+0.0.0.0 iveldrano.com
 0.0.0.0 ivernamart.com
 0.0.0.0 ivetmem.com
 0.0.0.0 ivfan.herate.shop
@@ -17891,6 +17899,7 @@
 0.0.0.0 lamiva.de
 0.0.0.0 lamp-center.com
 0.0.0.0 lamp-hotsale.com
+0.0.0.0 lamp-laboratory.com
 0.0.0.0 lampafford.com
 0.0.0.0 lampenbillig.com
 0.0.0.0 lampenreich.com
@@ -18142,6 +18151,7 @@
 0.0.0.0 ldrmjepbi.shop
 0.0.0.0 le-cartier.com
 0.0.0.0 le-labo.at
+0.0.0.0 lea-frankfurt.com
 0.0.0.0 leadbrass.com
 0.0.0.0 leaderedgy.com
 0.0.0.0 leadershipk.com
@@ -21139,6 +21149,7 @@
 0.0.0.0 morenutriitiion.com
 0.0.0.0 morenutritiion.shop
 0.0.0.0 morenutritionde.shop
+0.0.0.0 morenutritionde.store
 0.0.0.0 morenutritionfeen.shop
 0.0.0.0 moreovern.com
 0.0.0.0 moresquish.com
@@ -22203,6 +22214,7 @@
 0.0.0.0 nidworkers.com
 0.0.0.0 nidyu.hoeqzonsale.shop
 0.0.0.0 niebowgebie.com
+0.0.0.0 niemann-kollegen.com
 0.0.0.0 niemczyk-brennholz.eu
 0.0.0.0 nieparis-work.top
 0.0.0.0 nifyanifest.com
@@ -28182,6 +28194,7 @@
 0.0.0.0 schuhehoka.de
 0.0.0.0 schuhejordan.de.com
 0.0.0.0 schuhekaufenwien.com
+0.0.0.0 schuhelueke.com
 0.0.0.0 schuheoutletkaufen.com
 0.0.0.0 schuhepaulgreen.de
 0.0.0.0 schuhepromo.com
@@ -30446,6 +30459,7 @@
 0.0.0.0 store.jorbray.com
 0.0.0.0 store.kestrelby.com
 0.0.0.0 store.kingslora.com
+0.0.0.0 store.mavelimira.com
 0.0.0.0 store.minisforum.de
 0.0.0.0 store.miremonta.com
 0.0.0.0 store.promomesh.com
@@ -31587,6 +31601,7 @@
 0.0.0.0 teslabonus.org
 0.0.0.0 teslabounce.com
 0.0.0.0 teslacoin.io
+0.0.0.0 teslacoininc.org
 0.0.0.0 teslaflows.com
 0.0.0.0 teslaminingplc.com
 0.0.0.0 teslamotors2x.com
@@ -32827,7 +32842,6 @@
 0.0.0.0 trekandtravelde.shop
 0.0.0.0 trekshoppe.com
 0.0.0.0 trematic.top
-0.0.0.0 tremel.at
 0.0.0.0 trencystore.com
 0.0.0.0 trend-box.ch
 0.0.0.0 trend-fuchs.de
@@ -34979,6 +34993,7 @@
 0.0.0.0 wasserflorashop.com
 0.0.0.0 wasserpflegede.com
 0.0.0.0 wasserpumpede.de
+0.0.0.0 wasserruderangebote.com
 0.0.0.0 wassersheriff.at
 0.0.0.0 wassersportwert.com
 0.0.0.0 wasserundheizung.com
@@ -35283,6 +35298,7 @@
 0.0.0.0 werke-anhangers.com
 0.0.0.0 werkgeist.com
 0.0.0.0 werkora-industrial.com
+0.0.0.0 werkstatt-teile.com
 0.0.0.0 werkstattgerateprofi.com
 0.0.0.0 werkstattgitter.com
 0.0.0.0 werkstattmaschinen.com
@@ -36622,6 +36638,7 @@
 0.0.0.0 zonlaythuo.com
 0.0.0.0 zooclouduk.com
 0.0.0.0 zoodom.at
+0.0.0.0 zoogwshu.shop
 0.0.0.0 zooplus-rabatt.shop
 0.0.0.0 zooplusoutlets.shop
 0.0.0.0 zooroyalde.com
