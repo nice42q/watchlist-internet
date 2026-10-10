@@ -2,10 +2,10 @@
 # Pi-hole DNS Blocklist: Watchlist Internet
 # Source: https://www.watchlist-internet.at/liste-betruegerischer-shops/csv/
 # Pi-hole Source: https://github.com/nice42q/watchlist-internet
-# Last update: 2026-10-09 06:17:24 UTC
+# Last update: 2026-10-10 06:00:08 UTC
 #
 # --- Analysis statistics for this update ---
-# Total valid domains:       36763
+# Total valid domains:       36784
 # Duplicate entries removed: 8
 # Invalid lines filtered:    4
 # -------------------------------------------
@@ -1748,6 +1748,7 @@
 ||armanivives.com^
 ||armedangelsoutlet.com^
 ||armedangelsrabatt.de^
+||armine.live^
 ||armodamobilya.com^
 ||armodamunchen.de^
 ||armog13.com^
@@ -4162,6 +4163,7 @@
 ||boatdusk.com^
 ||boatingcenteronline.com^
 ||boatingoff.com^
+||boatswassersport.com^
 ||boatworkssupply.com^
 ||bobbyananta.com^
 ||bobbymarket.de^
@@ -8262,6 +8264,7 @@
 ||doggyard.com^
 ||doggyplum.com^
 ||dogitemoutlet.com^
+||doglas.store^
 ||dograndoo.de^
 ||dogs-food.shop^
 ||dogsdreamaustria.at^
@@ -13394,6 +13397,7 @@
 ||gruppenhaussauerland.com^
 ||grxnhv.shop^
 ||gs-eu.com^
+||gsb-grosshandel.com^
 ||gsb24.shop^
 ||gshallmall.com^
 ||gshandels.com^
@@ -16636,6 +16640,7 @@
 ||kaikaiogilvy.com^
 ||kaimoro.de^
 ||kaioland.com^
+||kaioticket.de^
 ||kairosglobalmarketing.de^
 ||kaizengulf.com^
 ||kaizensama.com^
@@ -17424,6 +17429,7 @@
 ||knifeviper.com^
 ||knifewusthofdreizack.com^
 ||knight-realestate.com^
+||knitla.com^
 ||knitteddress-shop.com^
 ||knittedsweatershop.com^
 ||knitterditter.com^
@@ -18253,6 +18259,7 @@
 ||ledrohren.com^
 ||ledvanceleuchten.com^
 ||ledyoury.com^
+||leefaibazaar.shop^
 ||leefbnemall.shop^
 ||leefly.nl^
 ||leenayhome.com^
@@ -18377,6 +18384,7 @@
 ||leohandel24.de^
 ||leohome.shop^
 ||leonboutique.co^
+||leonboutique.com^
 ||leonhardmaterialien.com^
 ||leonidmatthias.shop^
 ||leonie-fashion.at^
@@ -19062,6 +19070,7 @@
 ||lovelyknife.com^
 ||lovelyshoespro.com^
 ||lovemedobabyde.shop^
+||lovemoglichinderlade.shop^
 ||lovemybest.site^
 ||lovenewtech.co^
 ||loveoutdooritem.com^
@@ -19439,6 +19448,7 @@
 ||macy-home.com^
 ||macy-outletshop.com^
 ||made-private.com^
+||madegsly.com^
 ||madeinbremenbuy.shop^
 ||madeinbremenstore.shop^
 ||madeinkcde.shop^
@@ -20057,6 +20067,7 @@
 ||meatandeasy.at^
 ||meatiilo.com^
 ||mebtechprofi.com^
+||mecaneb.com^
 ||mechanicse.com^
 ||mechanicsn.com^
 ||mechanit.top^
@@ -21042,6 +21053,7 @@
 ||moelleraktivhof.de^
 ||moensale.com^
 ||mogli-chinderlade.shop^
+||moglichinderlademarket.shop^
 ||mohambin.com^
 ||mohomerebate.com^
 ||mohr-reifenversand.shop^
@@ -22697,6 +22709,7 @@
 ||nyhead.tablebay.rest^
 ||nyhead.tvtry.top^
 ||nyutxe.shop^
+||nyvorahome.com^
 ||nyxtrade.co^
 ||nzbujlphlo.site^
 ||nzcandlesuppliesde.shop^
@@ -24706,6 +24719,7 @@
 ||picknweisght.shop^
 ||pickwise.top^
 ||picmondoo.shop^
+||picnicstoragebasket.com^
 ||picom-nfz.de^
 ||pictoart.net^
 ||pictureframe-sale.com^
@@ -25922,6 +25936,7 @@
 ||quincymae.shop^
 ||quinlet.xyz^
 ||quirkytwirl.com^
+||quitivo.com^
 ||quiz.prosperi.academy^
 ||quordlepuzzles.de^
 ||quorven.com^
@@ -26837,6 +26852,7 @@
 ||reyfinances.com^
 ||reyhaloj.top^
 ||reyhansignp.com^
+||reynamobel.shop^
 ||reyniae.de^
 ||reynolds-gartenhandel.de^
 ||rezdybnb.com^
@@ -28431,6 +28447,7 @@
 ||seibelsdorf-ffw.de^
 ||seidel-kanzlei.de^
 ||seiden-haus.de^
+||seidenblumen-ross.com^
 ||seidl-mode.com^
 ||seidler-outlet.de^
 ||seidleroutlet.de^
@@ -30381,7 +30398,6 @@
 ||stickerkollektionenshop.com^
 ||stiefelvia.com^
 ||stiff.garageoven.xyz^
-||stig-international.com^
 ||stihlg.com^
 ||stijn-outlet.com^
 ||stikersik.com^
@@ -30498,6 +30514,7 @@
 ||store.dalecrofton.com^
 ||store.dealofferix.com^
 ||store.dobot.cc^
+||store.elmleigha.com^
 ||store.jorbray.com^
 ||store.kestrelby.com^
 ||store.kingslora.com^
@@ -33949,6 +33966,7 @@
 ||vanss.at^
 ||vanss.co.at^
 ||vansscarpeit.com^
+||vantex-bank.com^
 ||vantribo.de^
 ||vaomoe.com^
 ||vapecheap.de^
@@ -34470,6 +34488,7 @@
 ||vircominfo.de^
 ||virdos.de^
 ||virelix-store.com^
+||virenixtalentsearchs.com^
 ||virginiacontrino.com^
 ||virginiapezzolo.com^
 ||virginielesaux.com^
@@ -34517,6 +34536,7 @@
 ||vitalversandde.com^
 ||vitalvigoury.com^
 ||vitamin-schmiede24.de^
+||vitaminedirekt.com^
 ||vitanado.com^
 ||vitanourishhub.com^
 ||vitarela.at^
@@ -34986,6 +35006,7 @@
 ||waren-kontor24.de^
 ||waren-welt.com^
 ||warenkurator.com^
+||warenmarkt24.com^
 ||warenmax.com^
 ||warenwelt-eu.com^
 ||waresco.com^
