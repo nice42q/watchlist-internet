@@ -2,10 +2,10 @@
 # Pi-hole DNS Blocklist: Watchlist Internet
 # Source: https://www.watchlist-internet.at/liste-betruegerischer-shops/csv/
 # Pi-hole Source: https://github.com/nice42q/watchlist-internet
-# Last update: 2026-10-10 06:00:08 UTC
+# Last update: 2026-10-13 00:47:45 UTC
 #
 # --- Analysis statistics for this update ---
-# Total valid domains:       36784
+# Total valid domains:       36827
 # Duplicate entries removed: 8
 # Invalid lines filtered:    4
 # -------------------------------------------
@@ -149,6 +149,7 @@
 ||9889adl.dxnqt.shop^
 ||99rabats.shop^
 ||a-baustofflager.com^
+||a.mizuthread.com^
 ||a.seven-st.com^
 ||a1-anlagen.com^
 ||a1businessnet.live^
@@ -236,6 +237,7 @@
 ||abschminken.com^
 ||abshopj.top^
 ||absist.xyz^
+||absjdte.shop^
 ||abslutbuch.com^
 ||absolutelk.com^
 ||absolutelyn.com^
@@ -421,6 +423,7 @@
 ||adl.jccjm.shop^
 ||adl.lreubk.shop^
 ||adl.okhxm.shop^
+||adl.rqgbos.shop^
 ||adl.tlhqca.shop^
 ||adl.ukdil.shop^
 ||adl.uoyps.shop^
@@ -1504,6 +1507,7 @@
 ||apjjket.com^
 ||apkgy.com^
 ||apkwell.com^
+||aplamzelte.com^
 ||aplamzelte.de^
 ||aplschuhe.com^
 ||apnoi.com^
@@ -4037,6 +4041,7 @@
 ||blaue-dragoner.de^
 ||blaujade.com^
 ||blaupause-leipzig.shop^
+||blautone.com^
 ||blazertokids.com^
 ||bleadersci.com^
 ||blemie-germany.com^
@@ -4432,6 +4437,7 @@
 ||brandundies.com^
 ||brandy-vonweller.com^
 ||brandymelvilleee.com^
+||branneramaoutlet.shop^
 ||brappy.co^
 ||brass-eu.com^
 ||brastsales.com^
@@ -4787,6 +4793,7 @@
 ||bulliator.top^
 ||bullinvest.trade^
 ||bullmarketfxoptions.com^
+||bulltrade24.com^
 ||bullyra.de^
 ||bumptashop.com^
 ||buncm.com^
@@ -5088,6 +5095,7 @@
 ||campingangebote-de.com^
 ||campingdebarf.com^
 ||campinghiking.shop^
+||campinglagea.com^
 ||campinglampenbillig.com^
 ||campingmay.com^
 ||campingnatur.com^
@@ -5526,6 +5534,7 @@
 ||cexpireharm.com^
 ||ceylonss.com^
 ||cf-bags.com^
+||cf-handelsshop.com^
 ||cfashionus.com^
 ||cfbl-premiumholz.de^
 ||cfd.amadeus-markets.com^
@@ -7160,6 +7169,7 @@
 ||dasoo.de^
 ||dasorevaparis.de^
 ||dassoustore.com^
+||dasspielderlust.de^
 ||daswarenregal.com^
 ||daswirthshaus.com^
 ||datactively.com^
@@ -7990,6 +8000,7 @@
 ||dieselofficialsale.de^
 ||dieselosterreich.com^
 ||dieseoutletus.com^
+||diespielwelt.de^
 ||diesprachpraxis.de^
 ||diestrumpfmacher.shop^
 ||diet-keto.info^
@@ -10109,6 +10120,7 @@
 ||expressfreightslogistics.com^
 ||expresslogisticfreightworld.com^
 ||expressmuenchen.de^
+||expresspaw.eu^
 ||exproplatform.com^
 ||exptecheur.shop^
 ||exptoptiontraders.live^
@@ -10592,6 +10604,7 @@
 ||fatfax.ratewell.shop^
 ||fatfax.wantbrand.shop^
 ||fatjonashkambi.com^
+||fatooball.com^
 ||fatreio.com^
 ||fatstyleface.com^
 ||fatthqbe.garden^
@@ -11453,6 +11466,7 @@
 ||fototapetenwelt.com^
 ||fototauscher.at^
 ||foundatioy.com^
+||foundmallhub.com^
 ||fouque.de^
 ||fourcoateu.com^
 ||fourer.online^
@@ -11624,6 +11638,7 @@
 ||freudens.de^
 ||freudeshau.shop^
 ||freudeshaus.de^
+||freudewing.de^
 ||freundchen.at^
 ||frey-reifenversand.shop^
 ||frgino.com^
@@ -11881,8 +11896,10 @@
 ||fxuniontrading.com^
 ||fxyoexem.shop^
 ||fyebuy.com^
+||fynyipnc.shop^
 ||fyssea.com^
 ||fzjewelry.com^
+||fzwh.at^
 ||g-c.trade^
 ||g-shop.at^
 ||g-smart.at^
@@ -13276,6 +13293,7 @@
 ||grillmeisterde.com^
 ||grillprofishop.com^
 ||grillprove.top^
+||grillsetshop.com^
 ||grillsgeschaft.com^
 ||grillspro.shop^
 ||grillsrabatt.com^
@@ -14068,7 +14086,6 @@
 ||heim-geschafts.com^
 ||heim-tools.de^
 ||heim-tools.net^
-||heim-trend.de^
 ||heimat-haft.de^
 ||heimat-stil.com^
 ||heimatdeals.de^
@@ -14421,6 +14438,7 @@
 ||hidra-pool.com^
 ||hierarchyi.com^
 ||hierarchyk.com^
+||hifi-experten.com^
 ||hifistudioroma.com^
 ||hig-finance.com^
 ||high-corporate.com^
@@ -14496,6 +14514,7 @@
 ||hiporashop.com^
 ||hippo2.eth.limo^
 ||hippouchsales.com^
+||hirecker.com^
 ||hiremyparents.com^
 ||hirequestxpert-at.com^
 ||hirobikegmbh.de^
@@ -14695,6 +14714,7 @@
 ||holzerneblocke.com^
 ||holzexpress24.eu^
 ||holzflicken.at^
+||holzfurzuhause.de^
 ||holzgartenprofi.de^
 ||holzgluck.de^
 ||holzhambach.com^
@@ -15690,6 +15710,7 @@
 ||innovativesales.org^
 ||innovativeseason.com^
 ||innox.at^
+||innsbruckapotheke24.com^
 ||innumerablen.com^
 ||ino-vade.de^
 ||inoitiallyed.com^
@@ -16779,6 +16800,7 @@
 ||karmakissde.shop^
 ||karmalove.shop^
 ||karneval-zingst.de^
+||karnz.de^
 ||karpfenangelnzubehor.com^
 ||karpfenrutengeschaft.com^
 ||karpfenrutenneu.com^
@@ -17001,6 +17023,7 @@
 ||kerstinczud.com^
 ||kertioa.com^
 ||kerzede.com^
+||kerzendose.com^
 ||kerzenofficial.com^
 ||kerzenonkelde.shop^
 ||kesselschlacht-erfurt.com^
@@ -17055,6 +17078,7 @@
 ||kickarea.cn^
 ||kickcultureco.com^
 ||kickersschuhe.at^
+||kickpure.com^
 ||kicksdunk.com^
 ||kickswelt.at^
 ||kickswelt.de^
@@ -17332,6 +17356,7 @@
 ||kleinefunken.de^
 ||kleinegeraetekuechen.com^
 ||kleinegeschende.com^
+||kleinepassagiere.de^
 ||kleineradtouren.de^
 ||kleinesengelparadies.com^
 ||kleinewunderhaus.de^
@@ -17354,6 +17379,7 @@
 ||klhooq.com^
 ||klick-ndb.de^
 ||klima-bonus.app^
+||klima-bonusat.com^
 ||klima-heizung-pumpen.com^
 ||klima-zuschuss-2026.cc^
 ||klima.bonus-gutschrift.cc^
@@ -17894,6 +17920,7 @@
 ||ladywearvoguepro.com^
 ||lafayette.lilshydasia.com^
 ||lafinca-global.com^
+||lafirkin.com^
 ||lafkiralya.com^
 ||lafolie88.myshopify.com^
 ||lafrican.top^
@@ -18688,6 +18715,7 @@
 ||lindela.de^
 ||lindemann-kanzlei.de^
 ||lindemarkt.com^
+||linden-atelier.com^
 ||linden-innsbruck.com^
 ||linden-thal.de^
 ||lindenberg-modehaus.de^
@@ -18890,6 +18918,7 @@
 ||localminidachshundpuppies.com^
 ||locateanyphone.net^
 ||locations.crocs.de^
+||lochs-oustria.shop^
 ||lockenbar.shop^
 ||lockenbareu.shop^
 ||locknlock.at^
@@ -21244,6 +21273,7 @@
 ||motel-miio.com^
 ||motelamiio-official.com^
 ||motelamiio-online.com^
+||motelamiio-sale.com^
 ||motelamiioofficial.com^
 ||motelmio.shop^
 ||motiontoure.top^
@@ -22256,6 +22286,7 @@
 ||nicoletstratton.com^
 ||nicoll.at^
 ||nicorobin.us^
+||nicoudo.com^
 ||nideckernitro.com^
 ||nidoir.com^
 ||nidworkers.com^
@@ -23244,6 +23275,7 @@
 ||online-tonies.shop^
 ||online-versand-rezeptfrei.de^
 ||online-vogue.com^
+||online-wissen.info^
 ||online.birkzasle.com^
 ||online.salozshop.com^
 ||online.spk-de.net^
@@ -24678,6 +24710,7 @@
 ||philippsthomas.com^
 ||philipwomens.com^
 ||philokalistde.shop^
+||philoro.online^
 ||philosophyk.com^
 ||phoberose.com^
 ||phobility-aktiv.at^
@@ -25833,6 +25866,7 @@
 ||qinstaweb.com^
 ||qiotltd.com^
 ||qjgqu.com^
+||qkblzvnk.shop^
 ||qlepy.com^
 ||qliopbn.forum^
 ||qlodus.de^
@@ -26219,6 +26253,7 @@
 ||raum-lust.de^
 ||raum-und-gruen.de^
 ||raumduftpflegebedarf.com^
+||raumnote.de^
 ||rauschde.site^
 ||rauter-beck.de^
 ||rave-atelier.com^
@@ -28593,6 +28628,7 @@
 ||service-finanzonline.at^
 ||service-gesundheitskasse.at^
 ||service-pharmaceutique.net^
+||service-register.wonneproppen.at^
 ||service-rezeptfrei.de^
 ||service-standesamt.de^
 ||service-thermenwartung.at^
@@ -29133,6 +29169,7 @@
 ||shopwabi.xyz^
 ||shopwatit.com^
 ||shopwaxsales.com^
+||shopwecro.com^
 ||shopwesternhats.com^
 ||shopwineoutlet.com^
 ||shopwintershoes.com^
@@ -33285,6 +33322,7 @@
 ||uggsoutletosterreich.com^
 ||uggukoutletfactory.com^
 ||ugworldbest.com^
+||ugytxzel.shop^
 ||uhaphazard.monster^
 ||uhlenhuth.net^
 ||uhlsportworld.shop^
@@ -34142,6 +34180,7 @@
 ||vendenity.com^
 ||vendifysave.com^
 ||vendingtzdoo.com^
+||vendis-solutions.net^
 ||vendorhub.store^
 ||vendorra-dusseldorf.com^
 ||vendusa.de^
@@ -34288,6 +34327,7 @@
 ||vetretto.myshopify.com^
 ||vetriebs-center.de^
 ||vetrinecubi.com^
+||vetter-law.de^
 ||vetter-reifenhandel.com^
 ||vettuma.com^
 ||vevor.de^
@@ -34652,6 +34692,7 @@
 ||voferdom.com^
 ||vogange.com^
 ||vogany.com^
+||vogel-lifestyle.com^
 ||vogel-reifenversand.shop^
 ||vogelfutterde.com^
 ||vogelpflege.com^
@@ -35532,6 +35573,7 @@
 ||wieldise.com^
 ||wiemos-shop.de^
 ||wiendomizil.at^
+||wiener-liebe.com^
 ||wienerwonderlonds.shop^
 ||wienschmidt.at^
 ||wiesbadenk.de^
@@ -35953,6 +35995,7 @@
 ||wunschurlaub24.com^
 ||wuording.shop^
 ||wuqmp.com^
+||wuselhof.pro^
 ||wusjay.shop^
 ||wuvutbp.com^
 ||wuweidn.com^
