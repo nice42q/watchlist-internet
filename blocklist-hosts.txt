@@ -574,6 +574,7 @@
 0.0.0.0 agfservice-immo.com
 0.0.0.0 aggruppenx.com
 0.0.0.0 aghhome.com
+0.0.0.0 agifinanz.com
 0.0.0.0 agileney.com
 0.0.0.0 agiler-spielraum.at
 0.0.0.0 aglinisale.com
@@ -980,6 +981,7 @@
 0.0.0.0 alpen-malerbetrieb.de
 0.0.0.0 alpenfaser.de
 0.0.0.0 alpenfluss.at
+0.0.0.0 alpenhoch.com
 0.0.0.0 alpenholz.shop
 0.0.0.0 alpenkindmode.com
 0.0.0.0 alpenlinie.at
@@ -1640,6 +1642,7 @@
 0.0.0.0 aquaristikteichstore.com
 0.0.0.0 aquariumlebens.com
 0.0.0.0 aquariumopt.com
+0.0.0.0 aquariumzubehor24.com
 0.0.0.0 aquascapers-galerie.com
 0.0.0.0 aquaschuheshop.com
 0.0.0.0 aquasportkleidung.com
@@ -2983,6 +2986,7 @@
 0.0.0.0 beamingtrade.com
 0.0.0.0 beamsvogue.com
 0.0.0.0 beanhappy.buzz
+0.0.0.0 beaniieathub.shop
 0.0.0.0 beanwhelk.com
 0.0.0.0 beanzio.store
 0.0.0.0 bear-offers.com
@@ -3869,6 +3873,7 @@
 0.0.0.0 birkzasle.com
 0.0.0.0 birmingha.co.uk
 0.0.0.0 birminghamwear.com
+0.0.0.0 birnerlandtechnik.com
 0.0.0.0 biromotion.de
 0.0.0.0 birthphotographyworkshop.de
 0.0.0.0 bis-estate.com
@@ -3996,6 +4001,7 @@
 0.0.0.0 black-forestcake.com
 0.0.0.0 black-shepp-gastroservice.com
 0.0.0.0 black-stop.de
+0.0.0.0 blackcatstore.de
 0.0.0.0 blackdiamond-schweiz.com
 0.0.0.0 blackdiamondosterreich.com
 0.0.0.0 blackdiamondsalestore.shop
@@ -4848,6 +4854,7 @@
 0.0.0.0 buyado.de
 0.0.0.0 buyaire.top
 0.0.0.0 buyamsale.ru
+0.0.0.0 buyateaseonline.shop
 0.0.0.0 buyballsportproduct.com
 0.0.0.0 buybayzon.xyz
 0.0.0.0 buybestgoods.top
@@ -4943,6 +4950,7 @@
 0.0.0.0 bykidesigns.com
 0.0.0.0 bylassenhome.com
 0.0.0.0 bylola-store.de
+0.0.0.0 byluminas.com
 0.0.0.0 byluxelane.com
 0.0.0.0 bymanova.com
 0.0.0.0 bymarlie.de
@@ -7126,6 +7134,7 @@
 0.0.0.0 darasports.de
 0.0.0.0 darcylike.com
 0.0.0.0 darembel.com
+0.0.0.0 darfhundefutter.de
 0.0.0.0 darhinos.com
 0.0.0.0 dariakorchagina.com
 0.0.0.0 dariuszbachta.com
@@ -7969,6 +7978,7 @@
 0.0.0.0 dieholzmoebelmacher.de
 0.0.0.0 dieholzschmiede.at
 0.0.0.0 diekaffeeverkauf.com
+0.0.0.0 diekleinehundeschule.de
 0.0.0.0 diekreidefarbede.shop
 0.0.0.0 diekuchetoolrabatt.com
 0.0.0.0 dielabubu.store
@@ -8485,10 +8495,13 @@
 0.0.0.0 drehmoment-shop.com
 0.0.0.0 drehpunkt-store.com
 0.0.0.0 dreifussn.com
+0.0.0.0 dreihundertdreizehn.de
+0.0.0.0 dreihundertpunkt.de
 0.0.0.0 dreirei.com
 0.0.0.0 dreissig105.de
 0.0.0.0 drelkuvizen.at
 0.0.0.0 dremberlyn.com
+0.0.0.0 dreodeutschland-de.com
 0.0.0.0 dreodeutschland.com
 0.0.0.0 dreoosterreich.com
 0.0.0.0 dresdenboutique.com
@@ -9047,6 +9060,7 @@
 0.0.0.0 ehlertswelpen.com
 0.0.0.0 ehpartsde.shop
 0.0.0.0 ehreer.com
+0.0.0.0 ehrmannliving.com
 0.0.0.0 ehrruhig.de
 0.0.0.0 ehspelletsgmbh.de
 0.0.0.0 ehwsgh.shop
@@ -10409,6 +10423,7 @@
 0.0.0.0 fanmalls.de
 0.0.0.0 fannyborius.com
 0.0.0.0 fannydubois.com
+0.0.0.0 fanoshop.de
 0.0.0.0 fanshotsale.com
 0.0.0.0 fanskicke.com
 0.0.0.0 fansouvenirs.store
@@ -12632,6 +12647,7 @@
 0.0.0.0 gfricke.com
 0.0.0.0 gftop.at
 0.0.0.0 ggetsynap.com
+0.0.0.0 ggfrremg.shop
 0.0.0.0 ggoote.site
 0.0.0.0 ggrosslead.com
 0.0.0.0 ggsportsagents.com
@@ -12699,6 +12715,7 @@
 0.0.0.0 giftussport.com
 0.0.0.0 giftwalldecor.com
 0.0.0.0 giftwarehome.com
+0.0.0.0 gigabaseshop.de
 0.0.0.0 gigachains.com
 0.0.0.0 gigaly.at
 0.0.0.0 gigant-agencyjny.com
@@ -13129,6 +13146,7 @@
 0.0.0.0 gosmartwatch.de
 0.0.0.0 gossartglwadys.com
 0.0.0.0 gosuperflowu.shop
+0.0.0.0 gosupps.com
 0.0.0.0 gothictot.com
 0.0.0.0 gothimmes.com
 0.0.0.0 gotobedroom.com
@@ -13679,6 +13697,7 @@
 0.0.0.0 hamuelmaschinen.com
 0.0.0.0 hamurgrlakprofi.shop
 0.0.0.0 han3szd2ork.com
+0.0.0.0 hananshop.de
 0.0.0.0 hanazimu.com
 0.0.0.0 handarbeitenkaess.de
 0.0.0.0 handbagbrandsonline.com
@@ -14723,6 +14742,7 @@
 0.0.0.0 holzpflegewachs.com
 0.0.0.0 holzprofis.at
 0.0.0.0 holzpuzzlez.com
+0.0.0.0 holzscheitenatur.com
 0.0.0.0 holzundwerkzeug-bestequalitat.de
 0.0.0.0 holzvomland.de
 0.0.0.0 holzvorrat.com
@@ -15210,6 +15230,7 @@
 0.0.0.0 hundetrainingkragen.com
 0.0.0.0 hundeweltde.com
 0.0.0.0 hundezentrum-emsland.de
+0.0.0.0 hundkatzefutter.com
 0.0.0.0 hundmonline.at
 0.0.0.0 hundredis.com
 0.0.0.0 hundsportlershop.de
@@ -16665,6 +16686,7 @@
 0.0.0.0 kalkstore.com
 0.0.0.0 kallieswelpen.com
 0.0.0.0 kallisteremeurl.com
+0.0.0.0 kaltesholz.com
 0.0.0.0 kaltesholz.de
 0.0.0.0 kaluxo.de
 0.0.0.0 kamagra-goedkoop.nl
@@ -16682,6 +16704,7 @@
 0.0.0.0 kamagraeu.net
 0.0.0.0 kamagraeu.to
 0.0.0.0 kamagrakaufen24.net
+0.0.0.0 kamagrakaufenstore.de
 0.0.0.0 kamagrashop.online
 0.0.0.0 kamagrastore24.org
 0.0.0.0 kamalih.com
@@ -17763,6 +17786,7 @@
 0.0.0.0 kuhlmann-rechtsanwaelte.net
 0.0.0.0 kuhlmannbekleidung.de
 0.0.0.0 kuhschelhof.de
+0.0.0.0 kukirins.co.at
 0.0.0.0 kukkabutikc.com
 0.0.0.0 kukulade.de
 0.0.0.0 kulako.com
@@ -18337,6 +18361,7 @@
 0.0.0.0 lehrershop.shop
 0.0.0.0 leicht-erhitzen.com
 0.0.0.0 leichtig-keit.de
+0.0.0.0 leichtkraut.de
 0.0.0.0 leikauf-training.de
 0.0.0.0 leine-photovoltaik.com
 0.0.0.0 leinerei.shop
@@ -19611,6 +19636,7 @@
 0.0.0.0 mall.randaoma.com
 0.0.0.0 mallesure.top
 0.0.0.0 mallexercise.com
+0.0.0.0 mallezeit.de
 0.0.0.0 mallfemale.com
 0.0.0.0 mallfurnishing.com
 0.0.0.0 mallgolfcenter.com
@@ -20237,6 +20263,7 @@
 0.0.0.0 meinefototassen.shop
 0.0.0.0 meinefototassende.shop
 0.0.0.0 meinehilfe.at
+0.0.0.0 meinehundekekse.de
 0.0.0.0 meinehundemarke.at
 0.0.0.0 meinehundemarke.ch
 0.0.0.0 meinehundemarke.de
@@ -20672,6 +20699,7 @@
 0.0.0.0 mini-kennzeichen.de
 0.0.0.0 mini-modellerstellung.com
 0.0.0.0 miniaturewelt.com
+0.0.0.0 minicatwalk-de.com
 0.0.0.0 minimalistcostume.com
 0.0.0.0 minimalitor.com
 0.0.0.0 minimalsurvival.com
@@ -20860,6 +20888,7 @@
 0.0.0.0 moba23abc.shop
 0.0.0.0 mobefind-de.com
 0.0.0.0 mobefind.com
+0.0.0.0 mobel-lenk.store
 0.0.0.0 mobel-wahls.shop
 0.0.0.0 mobel-welt.com
 0.0.0.0 mobelauslaufde.com
@@ -21220,6 +21249,7 @@
 0.0.0.0 moresquish.com
 0.0.0.0 morexprex.com
 0.0.0.0 morgante.at
+0.0.0.0 morgenquelle.info
 0.0.0.0 moriifit.com
 0.0.0.0 moriifit.myshopify.com
 0.0.0.0 morisound.com
@@ -23325,6 +23355,7 @@
 0.0.0.0 onlinesalestyle.shop
 0.0.0.0 onlinesgeldverdienens.com
 0.0.0.0 onlineshopapotheke.com
+0.0.0.0 onlineshopman.de
 0.0.0.0 onlineshops.storecheap2021.com
 0.0.0.0 onlineskitchen.com
 0.0.0.0 onlinespotscoin.com
@@ -24819,6 +24850,7 @@
 0.0.0.0 pinkove.com
 0.0.0.0 pinkowien.at
 0.0.0.0 pinksyra.com
+0.0.0.0 pinliebe.shop
 0.0.0.0 pinowls.com
 0.0.0.0 pintaro.de
 0.0.0.0 pintrentz.de
@@ -26680,6 +26712,7 @@
 0.0.0.0 reiso.online
 0.0.0.0 reiterbrennholz.com
 0.0.0.0 reiterhof-geidner.de
+0.0.0.0 reiterrabatt.de
 0.0.0.0 reiterstueberl.net
 0.0.0.0 reittrendstore.com
 0.0.0.0 rejanerosenberger.shop
@@ -27271,6 +27304,7 @@
 0.0.0.0 rosemaryf.com
 0.0.0.0 rosenbaum-berlin.de
 0.0.0.0 rosenberg-boutique.de
+0.0.0.0 rosenbergbasel.com
 0.0.0.0 rosenfeldgoldschmied.com
 0.0.0.0 rosenheim-holz.com
 0.0.0.0 rosenherzmode.com
@@ -28110,6 +28144,7 @@
 0.0.0.0 schellenschmie.de
 0.0.0.0 schemecarce.net
 0.0.0.0 schemette.top
+0.0.0.0 schenkwerk.shop
 0.0.0.0 scheppachwerkzeuge.com
 0.0.0.0 scherenrabatt.com
 0.0.0.0 scherenschnitte.at
@@ -28327,6 +28362,7 @@
 0.0.0.0 schwartz-kollegen.com
 0.0.0.0 schwarzjutta.com
 0.0.0.0 schwarzklettern.de
+0.0.0.0 schwarzkuem.com
 0.0.0.0 schwarzmarktwaffenhandler.de
 0.0.0.0 schwarzrunen.de
 0.0.0.0 schwarzseide.myshopify.com
@@ -28648,6 +28684,7 @@
 0.0.0.0 seveninter.com
 0.0.0.0 seventeenk.com
 0.0.0.0 severalbeast.com
+0.0.0.0 sevillafanshop.de
 0.0.0.0 sevranmoove.fr
 0.0.0.0 sewdqcydt.beevolution.es
 0.0.0.0 sewnmf.shop
@@ -29080,6 +29117,7 @@
 0.0.0.0 shopparts.store
 0.0.0.0 shoppawsclaws.com
 0.0.0.0 shoppedonline.com
+0.0.0.0 shoppely.de
 0.0.0.0 shoppenny.de
 0.0.0.0 shopperiumx.com
 0.0.0.0 shoppernovax.com
@@ -29096,6 +29134,7 @@
 0.0.0.0 shoppingabsolut.de
 0.0.0.0 shoppingcutlery.com
 0.0.0.0 shoppingharmonie.de
+0.0.0.0 shoppingsonate.de
 0.0.0.0 shoppingversand.nl
 0.0.0.0 shopplanetde.de
 0.0.0.0 shoppocski.com
@@ -29890,6 +29929,7 @@
 0.0.0.0 sorensenaarhus.com
 0.0.0.0 soreva-berlin.de
 0.0.0.0 sortair.xyz
+0.0.0.0 sortyniva.com
 0.0.0.0 sorvelutik-at.com
 0.0.0.0 sorvelutik-fr.com
 0.0.0.0 sorvelutik-no.com
@@ -31453,6 +31493,7 @@
 0.0.0.0 taschen-book.com
 0.0.0.0 taschen-sales.com
 0.0.0.0 taschenangebotede.com
+0.0.0.0 taschenfan.com
 0.0.0.0 taschenmesser-de.com
 0.0.0.0 taschenonlinede.com
 0.0.0.0 taschenrabatt.com
@@ -32923,6 +32964,7 @@
 0.0.0.0 treffenzeit.com
 0.0.0.0 treffer-heizoel.de
 0.0.0.0 tregfinance.com
+0.0.0.0 treibhausshop.de
 0.0.0.0 trek-tech.co.uk
 0.0.0.0 trekandtravelde.shop
 0.0.0.0 trekshoppe.com
@@ -35240,6 +35282,7 @@
 0.0.0.0 webora-agentur.de
 0.0.0.0 webseite-gratis.com
 0.0.0.0 webshop-srl.com
+0.0.0.0 webshoplease.de
 0.0.0.0 websterjamesprofessionalcorp.com
 0.0.0.0 webstorerx.com
 0.0.0.0 webtesthub.de

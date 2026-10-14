@@ -2,10 +2,10 @@
 # Pi-hole DNS Blocklist: Watchlist Internet
 # Source: https://www.watchlist-internet.at/liste-betruegerischer-shops/csv/
 # Pi-hole Source: https://github.com/nice42q/watchlist-internet
-# Last update: 2026-10-13 00:47:45 UTC
+# Last update: 2026-10-14 12:02:23 UTC
 #
 # --- Analysis statistics for this update ---
-# Total valid domains:       36827
+# Total valid domains:       36870
 # Duplicate entries removed: 8
 # Invalid lines filtered:    4
 # -------------------------------------------
@@ -585,6 +585,7 @@
 ||agfservice-immo.com^
 ||aggruppenx.com^
 ||aghhome.com^
+||agifinanz.com^
 ||agileney.com^
 ||agiler-spielraum.at^
 ||aglinisale.com^
@@ -991,6 +992,7 @@
 ||alpen-malerbetrieb.de^
 ||alpenfaser.de^
 ||alpenfluss.at^
+||alpenhoch.com^
 ||alpenholz.shop^
 ||alpenkindmode.com^
 ||alpenlinie.at^
@@ -1651,6 +1653,7 @@
 ||aquaristikteichstore.com^
 ||aquariumlebens.com^
 ||aquariumopt.com^
+||aquariumzubehor24.com^
 ||aquascapers-galerie.com^
 ||aquaschuheshop.com^
 ||aquasportkleidung.com^
@@ -2994,6 +2997,7 @@
 ||beamingtrade.com^
 ||beamsvogue.com^
 ||beanhappy.buzz^
+||beaniieathub.shop^
 ||beanwhelk.com^
 ||beanzio.store^
 ||bear-offers.com^
@@ -3880,6 +3884,7 @@
 ||birkzasle.com^
 ||birmingha.co.uk^
 ||birminghamwear.com^
+||birnerlandtechnik.com^
 ||biromotion.de^
 ||birthphotographyworkshop.de^
 ||bis-estate.com^
@@ -4007,6 +4012,7 @@
 ||black-forestcake.com^
 ||black-shepp-gastroservice.com^
 ||black-stop.de^
+||blackcatstore.de^
 ||blackdiamond-schweiz.com^
 ||blackdiamondosterreich.com^
 ||blackdiamondsalestore.shop^
@@ -4859,6 +4865,7 @@
 ||buyado.de^
 ||buyaire.top^
 ||buyamsale.ru^
+||buyateaseonline.shop^
 ||buyballsportproduct.com^
 ||buybayzon.xyz^
 ||buybestgoods.top^
@@ -4954,6 +4961,7 @@
 ||bykidesigns.com^
 ||bylassenhome.com^
 ||bylola-store.de^
+||byluminas.com^
 ||byluxelane.com^
 ||bymanova.com^
 ||bymarlie.de^
@@ -7137,6 +7145,7 @@
 ||darasports.de^
 ||darcylike.com^
 ||darembel.com^
+||darfhundefutter.de^
 ||darhinos.com^
 ||dariakorchagina.com^
 ||dariuszbachta.com^
@@ -7980,6 +7989,7 @@
 ||dieholzmoebelmacher.de^
 ||dieholzschmiede.at^
 ||diekaffeeverkauf.com^
+||diekleinehundeschule.de^
 ||diekreidefarbede.shop^
 ||diekuchetoolrabatt.com^
 ||dielabubu.store^
@@ -8496,10 +8506,13 @@
 ||drehmoment-shop.com^
 ||drehpunkt-store.com^
 ||dreifussn.com^
+||dreihundertdreizehn.de^
+||dreihundertpunkt.de^
 ||dreirei.com^
 ||dreissig105.de^
 ||drelkuvizen.at^
 ||dremberlyn.com^
+||dreodeutschland-de.com^
 ||dreodeutschland.com^
 ||dreoosterreich.com^
 ||dresdenboutique.com^
@@ -9058,6 +9071,7 @@
 ||ehlertswelpen.com^
 ||ehpartsde.shop^
 ||ehreer.com^
+||ehrmannliving.com^
 ||ehrruhig.de^
 ||ehspelletsgmbh.de^
 ||ehwsgh.shop^
@@ -10420,6 +10434,7 @@
 ||fanmalls.de^
 ||fannyborius.com^
 ||fannydubois.com^
+||fanoshop.de^
 ||fanshotsale.com^
 ||fanskicke.com^
 ||fansouvenirs.store^
@@ -12643,6 +12658,7 @@
 ||gfricke.com^
 ||gftop.at^
 ||ggetsynap.com^
+||ggfrremg.shop^
 ||ggoote.site^
 ||ggrosslead.com^
 ||ggsportsagents.com^
@@ -12710,6 +12726,7 @@
 ||giftussport.com^
 ||giftwalldecor.com^
 ||giftwarehome.com^
+||gigabaseshop.de^
 ||gigachains.com^
 ||gigaly.at^
 ||gigant-agencyjny.com^
@@ -13140,6 +13157,7 @@
 ||gosmartwatch.de^
 ||gossartglwadys.com^
 ||gosuperflowu.shop^
+||gosupps.com^
 ||gothictot.com^
 ||gothimmes.com^
 ||gotobedroom.com^
@@ -13690,6 +13708,7 @@
 ||hamuelmaschinen.com^
 ||hamurgrlakprofi.shop^
 ||han3szd2ork.com^
+||hananshop.de^
 ||hanazimu.com^
 ||handarbeitenkaess.de^
 ||handbagbrandsonline.com^
@@ -14734,6 +14753,7 @@
 ||holzpflegewachs.com^
 ||holzprofis.at^
 ||holzpuzzlez.com^
+||holzscheitenatur.com^
 ||holzundwerkzeug-bestequalitat.de^
 ||holzvomland.de^
 ||holzvorrat.com^
@@ -15221,6 +15241,7 @@
 ||hundetrainingkragen.com^
 ||hundeweltde.com^
 ||hundezentrum-emsland.de^
+||hundkatzefutter.com^
 ||hundmonline.at^
 ||hundredis.com^
 ||hundsportlershop.de^
@@ -16676,6 +16697,7 @@
 ||kalkstore.com^
 ||kallieswelpen.com^
 ||kallisteremeurl.com^
+||kaltesholz.com^
 ||kaltesholz.de^
 ||kaluxo.de^
 ||kamagra-goedkoop.nl^
@@ -16693,6 +16715,7 @@
 ||kamagraeu.net^
 ||kamagraeu.to^
 ||kamagrakaufen24.net^
+||kamagrakaufenstore.de^
 ||kamagrashop.online^
 ||kamagrastore24.org^
 ||kamalih.com^
@@ -17774,6 +17797,7 @@
 ||kuhlmann-rechtsanwaelte.net^
 ||kuhlmannbekleidung.de^
 ||kuhschelhof.de^
+||kukirins.co.at^
 ||kukkabutikc.com^
 ||kukulade.de^
 ||kulako.com^
@@ -18348,6 +18372,7 @@
 ||lehrershop.shop^
 ||leicht-erhitzen.com^
 ||leichtig-keit.de^
+||leichtkraut.de^
 ||leikauf-training.de^
 ||leine-photovoltaik.com^
 ||leinerei.shop^
@@ -19622,6 +19647,7 @@
 ||mall.randaoma.com^
 ||mallesure.top^
 ||mallexercise.com^
+||mallezeit.de^
 ||mallfemale.com^
 ||mallfurnishing.com^
 ||mallgolfcenter.com^
@@ -20248,6 +20274,7 @@
 ||meinefototassen.shop^
 ||meinefototassende.shop^
 ||meinehilfe.at^
+||meinehundekekse.de^
 ||meinehundemarke.at^
 ||meinehundemarke.ch^
 ||meinehundemarke.de^
@@ -20683,6 +20710,7 @@
 ||mini-kennzeichen.de^
 ||mini-modellerstellung.com^
 ||miniaturewelt.com^
+||minicatwalk-de.com^
 ||minimalistcostume.com^
 ||minimalitor.com^
 ||minimalsurvival.com^
@@ -20871,6 +20899,7 @@
 ||moba23abc.shop^
 ||mobefind-de.com^
 ||mobefind.com^
+||mobel-lenk.store^
 ||mobel-wahls.shop^
 ||mobel-welt.com^
 ||mobelauslaufde.com^
@@ -21231,6 +21260,7 @@
 ||moresquish.com^
 ||morexprex.com^
 ||morgante.at^
+||morgenquelle.info^
 ||moriifit.com^
 ||moriifit.myshopify.com^
 ||morisound.com^
@@ -23336,6 +23366,7 @@
 ||onlinesalestyle.shop^
 ||onlinesgeldverdienens.com^
 ||onlineshopapotheke.com^
+||onlineshopman.de^
 ||onlineshops.storecheap2021.com^
 ||onlineskitchen.com^
 ||onlinespotscoin.com^
@@ -24830,6 +24861,7 @@
 ||pinkove.com^
 ||pinkowien.at^
 ||pinksyra.com^
+||pinliebe.shop^
 ||pinowls.com^
 ||pintaro.de^
 ||pintrentz.de^
@@ -26691,6 +26723,7 @@
 ||reiso.online^
 ||reiterbrennholz.com^
 ||reiterhof-geidner.de^
+||reiterrabatt.de^
 ||reiterstueberl.net^
 ||reittrendstore.com^
 ||rejanerosenberger.shop^
@@ -27282,6 +27315,7 @@
 ||rosemaryf.com^
 ||rosenbaum-berlin.de^
 ||rosenberg-boutique.de^
+||rosenbergbasel.com^
 ||rosenfeldgoldschmied.com^
 ||rosenheim-holz.com^
 ||rosenherzmode.com^
@@ -28121,6 +28155,7 @@
 ||schellenschmie.de^
 ||schemecarce.net^
 ||schemette.top^
+||schenkwerk.shop^
 ||scheppachwerkzeuge.com^
 ||scherenrabatt.com^
 ||scherenschnitte.at^
@@ -28338,6 +28373,7 @@
 ||schwartz-kollegen.com^
 ||schwarzjutta.com^
 ||schwarzklettern.de^
+||schwarzkuem.com^
 ||schwarzmarktwaffenhandler.de^
 ||schwarzrunen.de^
 ||schwarzseide.myshopify.com^
@@ -28659,6 +28695,7 @@
 ||seveninter.com^
 ||seventeenk.com^
 ||severalbeast.com^
+||sevillafanshop.de^
 ||sevranmoove.fr^
 ||sewdqcydt.beevolution.es^
 ||sewnmf.shop^
@@ -29091,6 +29128,7 @@
 ||shopparts.store^
 ||shoppawsclaws.com^
 ||shoppedonline.com^
+||shoppely.de^
 ||shoppenny.de^
 ||shopperiumx.com^
 ||shoppernovax.com^
@@ -29107,6 +29145,7 @@
 ||shoppingabsolut.de^
 ||shoppingcutlery.com^
 ||shoppingharmonie.de^
+||shoppingsonate.de^
 ||shoppingversand.nl^
 ||shopplanetde.de^
 ||shoppocski.com^
@@ -29901,6 +29940,7 @@
 ||sorensenaarhus.com^
 ||soreva-berlin.de^
 ||sortair.xyz^
+||sortyniva.com^
 ||sorvelutik-at.com^
 ||sorvelutik-fr.com^
 ||sorvelutik-no.com^
@@ -31464,6 +31504,7 @@
 ||taschen-book.com^
 ||taschen-sales.com^
 ||taschenangebotede.com^
+||taschenfan.com^
 ||taschenmesser-de.com^
 ||taschenonlinede.com^
 ||taschenrabatt.com^
@@ -32934,6 +32975,7 @@
 ||treffenzeit.com^
 ||treffer-heizoel.de^
 ||tregfinance.com^
+||treibhausshop.de^
 ||trek-tech.co.uk^
 ||trekandtravelde.shop^
 ||trekshoppe.com^
@@ -35251,6 +35293,7 @@
 ||webora-agentur.de^
 ||webseite-gratis.com^
 ||webshop-srl.com^
+||webshoplease.de^
 ||websterjamesprofessionalcorp.com^
 ||webstorerx.com^
 ||webtesthub.de^
