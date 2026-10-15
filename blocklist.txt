@@ -2,10 +2,10 @@
 # Pi-hole DNS Blocklist: Watchlist Internet
 # Source: https://www.watchlist-internet.at/liste-betruegerischer-shops/csv/
 # Pi-hole Source: https://github.com/nice42q/watchlist-internet
-# Last update: 2026-10-14 12:02:23 UTC
+# Last update: 2026-10-15 04:49:37 UTC
 #
 # --- Analysis statistics for this update ---
-# Total valid domains:       36870
+# Total valid domains:       36885
 # Duplicate entries removed: 8
 # Invalid lines filtered:    4
 # -------------------------------------------
@@ -5266,6 +5266,7 @@
 ||carlsneaker.com^
 ||carmara-handel.de^
 ||carmenparra.com^
+||carmine-studio.com^
 ||carnaion.com^
 ||carnetyh.com^
 ||carniceriavicentegarcia.com^
@@ -6700,6 +6701,7 @@
 ||cplollp.com^
 ||cpopnow.com^
 ||cprcg.mebbx.com^
+||cqdawfor.shop^
 ||cqqodsports.com^
 ||cr8me.shop^
 ||cr8newyork.com^
@@ -9596,6 +9598,7 @@
 ||enzomorelli.de^
 ||eolatetuko.shop^
 ||eolia-stores.shop^
+||eonfx.shop^
 ||eoptvogue.com^
 ||eopure.de^
 ||eosvisionoptics.com^
@@ -10054,6 +10057,7 @@
 ||ewige-seide.de^
 ||ewigesleder.com^
 ||ewighair.com^
+||ewuyvw.shop^
 ||ewzmvasz.shop^
 ||ex-field.com^
 ||ex-sot.com^
@@ -10907,9 +10911,11 @@
 ||financialpronews.com^
 ||financleguarantycoporation.com^
 ||finanz-schnell.de^
+||finanz.on-aktualisierung.cc^
 ||finanzamt-familienbeihilfe-at.com^
 ||finanzaufsichtsbehoerde.com^
 ||finanzen.075756.net^
+||finanzonline-3.cc^
 ||finanzonline-gvbmfgv.info^
 ||finanzonline-portal4.net^
 ||finanzonline.at.bmf.gv-uberprufung.com^
@@ -13109,6 +13115,7 @@
 ||goodpricedrugs.com^
 ||goodqualitypot.com^
 ||goodrumnhits.shop^
+||goods.nnrfeecocen.shop^
 ||goodsafield.com^
 ||goodservicss.top^
 ||goodsmellshop.com^
@@ -17217,6 +17224,7 @@
 ||kinltd.net^
 ||kino.tolle-nachrichten.com^
 ||kinoion.top^
+||kinokapture.myshopify.com^
 ||kinopolis-de.com^
 ||kinopolis-movie.com^
 ||kinopolis-workoffice.com^
@@ -19628,6 +19636,7 @@
 ||male-new.com^
 ||maleenthiele.shop^
 ||malen-und-reisen.de^
+||malennachzahlen-experte.de^
 ||malens-boutique.de^
 ||malentestheaterpalast.de^
 ||maleny.de^
@@ -20318,6 +20327,7 @@
 ||meistergrill24.de^
 ||meistergroup.shop^
 ||meisterkuchen-pro.de^
+||meistermarkus.de^
 ||meisterschnitt.com^
 ||meistersort.com^
 ||meistersunny.de^
@@ -20918,6 +20928,7 @@
 ||mobiche.com^
 ||mobiklima.myshopify.com^
 ||mobile-find.mobi^
+||mobile-nautik.com^
 ||mobile-wellnessoase.de^
 ||mobile.visc.top^
 ||mobilefusspflegerega.de^
@@ -21708,6 +21719,7 @@
 ||myshania.de^
 ||myskins.co^
 ||mysodastream.shop^
+||mysolis.shop^
 ||myspirituosen.com^
 ||mysportfisch.de^
 ||mysportpower.com^
@@ -29840,6 +29852,9 @@
 ||soliesy.com^
 ||soliicitouss.com^
 ||solinoxk.com^
+||solisliving.shop^
+||solisofswitzerland.shop^
+||solisway.shop^
 ||solixal.com^
 ||sollerts.de^
 ||solmtxa.com^
