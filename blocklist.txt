@@ -2,10 +2,10 @@
 # Pi-hole DNS Blocklist: Watchlist Internet
 # Source: https://www.watchlist-internet.at/liste-betruegerischer-shops/csv/
 # Pi-hole Source: https://github.com/nice42q/watchlist-internet
-# Last update: 2026-10-15 04:49:37 UTC
+# Last update: 2026-10-16 04:39:41 UTC
 #
 # --- Analysis statistics for this update ---
-# Total valid domains:       36885
+# Total valid domains:       36915
 # Duplicate entries removed: 8
 # Invalid lines filtered:    4
 # -------------------------------------------
@@ -423,6 +423,7 @@
 ||adl.jccjm.shop^
 ||adl.lreubk.shop^
 ||adl.okhxm.shop^
+||adl.raodd.shop^
 ||adl.rqgbos.shop^
 ||adl.tlhqca.shop^
 ||adl.ukdil.shop^
@@ -910,6 +911,7 @@
 ||allesineinemshop.com^
 ||allesnettokredit.com^
 ||allesoutdoor.de^
+||allesschneider.shop^
 ||alleszumputzen.com^
 ||alletdufte.shop^
 ||alleuropills.com^
@@ -1853,6 +1855,7 @@
 ||asanskirti.com^
 ||asbeconcerned.com^
 ||ascelteria.com^
+||ascherslebener-holzhandel.de^
 ||asci-ipy.de^
 ||ascreationdecor.com^
 ||asculbertson.com^
@@ -3828,6 +3831,7 @@
 ||binsalut.com^
 ||bio-apode.com^
 ||bio-brennholz.de^
+||bio-epelletgmbh.de^
 ||bio-stefano.shop^
 ||bio-viertel.at^
 ||bioaestheticshop.com^
@@ -4509,6 +4513,7 @@
 ||brennholz-konig.de^
 ||brennholz-widmanngmbh.com^
 ||brennholz360.com^
+||brennholzangebot.com^
 ||brennholzanhanger.de^
 ||brennholzauswahl.at^
 ||brennholzbereich.com^
@@ -4516,6 +4521,7 @@
 ||brennholzdirekt.com^
 ||brennholzdoeg.com^
 ||brennholzfolgner.com^
+||brennholzgigant.de^
 ||brennholzhalberstad.com^
 ||brennholzhandelnhn.com^
 ||brennholzhoffmich.com^
@@ -4534,9 +4540,11 @@
 ||brennholzverkaufer.com^
 ||brennholzvidos.at^
 ||brennholzwerner.de^
+||brennholzwidmann.de^
 ||brennstoffe-heinrich.de^
 ||brennstoffe-meier.de^
 ||brennstoffe-versand.de^
+||brennstoffemokstat.shop^
 ||brenuingerde.com^
 ||brestelorn-bank.com^
 ||brestilusuo.com^
@@ -5498,6 +5506,7 @@
 ||celnet.logistics-coltd.com^
 ||celomarket.com^
 ||celox-hamburg.de^
+||celsiorde.de^
 ||celticcyberjammies.com^
 ||cemarinef.shop^
 ||cembierzo.com^
@@ -10716,6 +10725,7 @@
 ||felix-messer.de^
 ||fell-freund.at^
 ||fella-handel.de^
+||fellstube.com^
 ||fels-wertburg.com^
 ||felsbergers.de^
 ||felsinacare.at^
@@ -11312,6 +11322,7 @@
 ||fly6amig2.skin^
 ||flybar.today^
 ||flybolder.com^
+||flyeurojet.com^
 ||flyfishing-sale.com^
 ||flyftravel.com^
 ||flyhighshop.de^
@@ -12918,6 +12929,7 @@
 ||glowtra.de^
 ||glowvana.de^
 ||glowwarehousede.com^
+||glowyft.co^
 ||glowyplant.de^
 ||glowzonevip.com^
 ||glpura.com^
@@ -13447,6 +13459,7 @@
 ||gshpanel.com^
 ||gsialfresco.com^
 ||gsib-partner.com^
+||gsjnwrec.shop^
 ||gskolioza.top^
 ||gskynetwork.com^
 ||gslmarkets.com^
@@ -13989,6 +14002,7 @@
 ||hautarzt-augsburg.info^
 ||haute-berlin.de^
 ||hautecouturetaschenreinigung.de^
+||hautglenz-de.com^
 ||hauwuwatch.com^
 ||havaartwork.shop^
 ||havaianasflipflops.at^
@@ -14324,6 +14338,7 @@
 ||hempel-architekten.at^
 ||hempelmanns-online.de^
 ||hendoi.shop^
+||heneka-garten.de^
 ||henfifty.com^
 ||hengdade.shop^
 ||hengelermuellera.com^
@@ -20143,6 +20158,7 @@
 ||med2med.at^
 ||medavora.com^
 ||medeurope24.com^
+||medi-komfort.de^
 ||media-markt.plumberstore.in^
 ||media-world.store^
 ||mediaglobus.de^
@@ -21179,6 +21195,7 @@
 ||monikase.de^
 ||moninthly.shop^
 ||moniquederbez.com^
+||monirahouse.com^
 ||monkeyboate.co.uk^
 ||monkeyreplica.com^
 ||monkiverkauf.com^
@@ -21458,6 +21475,7 @@
 ||mt4forextradecrypto.com^
 ||mtbandroad.com^
 ||mtbchainringssales.com^
+||mtbrennholz.com^
 ||mth14.at^
 ||mtjarmart.shop^
 ||mto-service.com^
@@ -24151,6 +24169,7 @@
 ||packsoutdoor.com^
 ||packsracksbaskets.org^
 ||pacsunsouthafrica.co.za^
+||paddelbootqualitaet.com^
 ||paddleaway.de^
 ||paddy-aroma.shop^
 ||padelfreunde.shop^
@@ -26899,6 +26918,7 @@
 ||reviews.kamagraoriginal.to^
 ||reviewsnicel.com^
 ||revitaprost.eu^
+||revitaskincare.com^
 ||reviteu.com^
 ||revivegospel.com^
 ||revivse.shop^
@@ -28468,6 +28488,7 @@
 ||sealorderus.com^
 ||seapolj.com^
 ||sears-de.com^
+||seashepherdstore.shop^
 ||seasonalhalloween.com^
 ||seasonsay.com^
 ||seatakus.com^
@@ -30028,6 +30049,7 @@
 ||specialcosplay.com^
 ||specialdealstd.com^
 ||specialistm.net^
+||specialitg.com^
 ||specialized-world.com^
 ||specializednewbike.com^
 ||specializedosterreich.at^
@@ -30429,6 +30451,7 @@
 ||steinberg-munchen.com^
 ||steinbergpretsch.de^
 ||steinbohrershop.com^
+||steinbrennholz.de^
 ||steiner-autoreifen.com^
 ||steiner-kg.at^
 ||steiner-reifen.com^
@@ -31860,6 +31883,7 @@
 ||the-teslerapp.com^
 ||the-tool-sale.com^
 ||the-wise-investment.net^
+||the.capitalsurge.net^
 ||theadornsupplies.com^
 ||theadzysgoods.com^
 ||theaedwards.com^
@@ -33141,6 +33165,7 @@
 ||trumerholz-store.shop^
 ||trumerholzliving.shop^
 ||trumomarkt.de^
+||trunepaki.com^
 ||truof.com^
 ||trust-immo.com^
 ||trust-pils.com^
@@ -34237,6 +34262,7 @@
 ||vendenity.com^
 ||vendifysave.com^
 ||vendingtzdoo.com^
+||vendis-solutions.de^
 ||vendis-solutions.net^
 ||vendorhub.store^
 ||vendorra-dusseldorf.com^
@@ -34641,6 +34667,7 @@
 ||vitev.net^
 ||vitkovice.net^
 ||vitosax-handel.de^
+||vitrado.global^
 ||vittoriabike.com^
 ||viv-club.com^
 ||viva-maket.com^
@@ -35793,6 +35820,7 @@
 ||wlamazon.com^
 ||wlinme.com^
 ||wlockbelo.com^
+||wloka-brennholz.de^
 ||wloom.com^
 ||wlybpt.com^
 ||wmartdatalist.com^
@@ -36689,6 +36717,7 @@
 ||zezzo.de^
 ||zgodstorm.com^
 ||zh1capital.com^
+||zhggpqst.shop^
 ||zhljrsb.com^
 ||zhongbaox.com^
 ||zhpays.tk^
@@ -36740,6 +36769,7 @@
 ||zipperuh.com^
 ||zippode.shop^
 ||zipzapmarket.com^
+||zisoliaabode.com^
 ||zitysports.com^
 ||ziviveo5.pro^
 ||zivyastore.com^
