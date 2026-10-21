@@ -2,10 +2,10 @@
 # Pi-hole DNS Blocklist: Watchlist Internet
 # Source: https://www.watchlist-internet.at/liste-betruegerischer-shops/csv/
 # Pi-hole Source: https://github.com/nice42q/watchlist-internet
-# Last update: 2026-10-20 04:59:02 UTC
+# Last update: 2026-10-21 04:57:55 UTC
 #
 # --- Analysis statistics for this update ---
-# Total valid domains:       36999
+# Total valid domains:       37026
 # Duplicate entries removed: 8
 # Invalid lines filtered:    4
 # -------------------------------------------
@@ -714,6 +714,7 @@
 ||ak-army.com^
 ||akarevents.com^
 ||akcsales.xyz^
+||aken-mode-de.com^
 ||akenor.com^
 ||akerghly.com^
 ||akikojette.com^
@@ -1721,6 +1722,7 @@
 ||ardora.at^
 ||area-fashion.com^
 ||area.aicnxedge.com^
+||area.allistonwstbry.org^
 ||area.bitnixer.net^
 ||areatrading.io^
 ||aredfoods.com^
@@ -7616,6 +7618,7 @@
 ||dekarikatur.shop^
 ||dekkerstrans.com^
 ||dekkertransport.com^
+||deko-traum.shop^
 ||dekoartikelrabatt.de^
 ||dekobloomhome.com^
 ||dekoobjektrabatt.com^
@@ -8345,6 +8348,7 @@
 ||doleras.com^
 ||dolkins.de^
 ||dollsandsofttoys.com^
+||dolomite-shop.myshopify.com^
 ||dolomite.co.at^
 ||dolomite.com.de^
 ||dolomitenbahk.com^
@@ -10297,6 +10301,7 @@
 ||fahlenberg-kran.at^
 ||fahnen-koessinger.shop^
 ||fahrrad-discount24.de^
+||fahrrad-handel.com^
 ||fahrrad-komponenten.com^
 ||fahrrad-moltisanti.com^
 ||fahrrad-sparwelt.de^
@@ -14119,6 +14124,7 @@
 ||heaterlux.shop^
 ||heaterprox.com^
 ||heatersairpurifiers.com^
+||heathoody.de^
 ||heatingdevicesshop.com^
 ||heatingtool.com^
 ||heatkraft.shop^
@@ -14166,6 +14172,7 @@
 ||heim-geschafts.com^
 ||heim-tools.de^
 ||heim-tools.net^
+||heimarbeit.top^
 ||heimat-haft.de^
 ||heimat-stil.com^
 ||heimatdeals.de^
@@ -17004,6 +17011,7 @@
 ||kbavliv.com^
 ||kbcshop.shop^
 ||kbetake.com^
+||kbg-beratung.de^
 ||kbnlogistics.com^
 ||kbs-kanzlei.de^
 ||kbs-management.cc^
@@ -17867,6 +17875,7 @@
 ||kuhlmann-rechtsanwaelte.net^
 ||kuhlmannbekleidung.de^
 ||kuhschelhof.de^
+||kuk-kaffee.de^
 ||kukirins.co.at^
 ||kukkabutikc.com^
 ||kukulade.de^
@@ -19006,6 +19015,7 @@
 ||loakeschuhe.com^
 ||loakeschweiz.net^
 ||loaspool.de^
+||loberon-official.com^
 ||locajardin.com^
 ||localdealservices.com^
 ||localilyy.com^
@@ -19556,6 +19566,7 @@
 ||mach-mallorca-urlaub.com^
 ||machadooo.de^
 ||machinejardinash.fr^
+||machinery-technologyeuropeltd.de^
 ||machinerypartsmarket.com^
 ||machinetoolhome.com^
 ||machinty.top^
@@ -20573,6 +20584,7 @@
 ||meshzss.com^
 ||mespetiteschimeres.fr^
 ||messara-kreta.de^
+||messenwahlwerkstatt.com^
 ||messer-online-de.com^
 ||messer-onsaleshop.com^
 ||messershop24.com^
@@ -24490,6 +24502,7 @@
 ||pcoemgerm.com^
 ||pcpartsvendor.com^
 ||pcsada.com^
+||pd-personal.net^
 ||pd99.cc^
 ||pddmeshop.com^
 ||pdealroom.com^
@@ -25683,6 +25696,7 @@
 ||proinvestmentmarket.com^
 ||projectpeva.org^
 ||projectreadytools.com^
+||projektkonnekt.com^
 ||prokitchen-tools.com^
 ||prokitchenwaresupply.com^
 ||prokow.at^
@@ -27215,6 +27229,7 @@
 ||rjmiljmv.shop^
 ||rjobido.com^
 ||rjulfinb.com^
+||rk-beratungsgesellschaft.de^
 ||rkalpweb.com^
 ||rkase.com^
 ||rkorteo.com^
@@ -28151,6 +28166,7 @@
 ||saubereszuhause.shop^
 ||saubereszuhausede.shop^
 ||sauberlaufmattende.shop^
+||sauberrein.com^
 ||saucony-deutschland.com^
 ||saucony-laufschuhe-deutschland.com^
 ||saucony-osterreich.com^
@@ -28501,6 +28517,7 @@
 ||scimonge.com^
 ||sclothesbrand.com^
 ||scoer.shop^
+||scontainer-logististikgmbh.de^
 ||scooga.at^
 ||scoomo.at^
 ||scooterboardwelt.com^
@@ -30352,6 +30369,7 @@
 ||sprinttosave.com^
 ||spriteliving.com^
 ||spruhfarbenprofi.com^
+||sps-personal.net^
 ||spsfurntiure.com^
 ||sptlego.de^
 ||sptrmusag.com^
@@ -30812,6 +30830,7 @@
 ||stowerdubaik.shop^
 ||stoxdc.com^
 ||stpremorques.com^
+||str-beratung.de^
 ||strabenmotorrad.com^
 ||strahlentier.de^
 ||strahlerdeck.com^
@@ -32344,6 +32363,7 @@
 ||tienda-bicicleta.com^
 ||tienda-pellets.com^
 ||tienduhonduras.com^
+||tierbedarf-express.com^
 ||tierbedarfshop.com^
 ||tiere.at^
 ||tierfriedhof-kamps.de^
@@ -32357,6 +32377,7 @@
 ||tierrasales.de^
 ||tiershopbillig.com^
 ||tierwelthub.de^
+||tiffanybeleuchtung.at^
 ||tiffanyblakeney.com^
 ||tiffanydumant.com^
 ||tightaccessories.com^
@@ -32709,6 +32730,7 @@
 ||top-notchchicgeneral.com^
 ||top-notchgear.com^
 ||top-password.com^
+||top-personal.net^
 ||top-sh-op.com^
 ||top-sports-experts.com^
 ||top.dep-ftd.xyz^
@@ -33690,6 +33712,7 @@
 ||upgradeoutdoors.com^
 ||upgradesportus.com^
 ||upgradeussport.com^
+||upie.buzz^
 ||uplements.de^
 ||uplifeshop.com^
 ||uplifttstar.com^
@@ -34994,6 +35017,7 @@
 ||vorisol.com^
 ||vorisol.com.de^
 ||voritude.com^
+||vorkeli.shop^
 ||vorlaufigerverkauf.com^
 ||vormans.de^
 ||vormix.vorwerk-tm7.at^
@@ -35663,6 +35687,7 @@
 ||wetterjack.com^
 ||wetting.de^
 ||weuayshop.com^
+||wewin-consulting.de^
 ||weyel-design.de^
 ||weyfreight.com^
 ||wf-schenning.de^
@@ -36052,6 +36077,7 @@
 ||woomann.com^
 ||wordmasterj.com^
 ||woridofsweets.store^
+||work-co.net^
 ||work-vip.shop^
 ||workclothesoff.shop^
 ||workhomeoffice.de^
@@ -36986,6 +37012,7 @@
 ||zwclsaablueashe.shop^
 ||zwein-handel.de^
 ||zweirad-handel.com^
+||zweiradzentrum.com^
 ||zwerger-art.com^
 ||zwergspitzpomeranian.com^
 ||zwickl-frankfurt.de^

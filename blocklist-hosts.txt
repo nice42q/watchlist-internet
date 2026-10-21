@@ -703,6 +703,7 @@
 0.0.0.0 ak-army.com
 0.0.0.0 akarevents.com
 0.0.0.0 akcsales.xyz
+0.0.0.0 aken-mode-de.com
 0.0.0.0 akenor.com
 0.0.0.0 akerghly.com
 0.0.0.0 akikojette.com
@@ -1710,6 +1711,7 @@
 0.0.0.0 ardora.at
 0.0.0.0 area-fashion.com
 0.0.0.0 area.aicnxedge.com
+0.0.0.0 area.allistonwstbry.org
 0.0.0.0 area.bitnixer.net
 0.0.0.0 areatrading.io
 0.0.0.0 aredfoods.com
@@ -7605,6 +7607,7 @@
 0.0.0.0 dekarikatur.shop
 0.0.0.0 dekkerstrans.com
 0.0.0.0 dekkertransport.com
+0.0.0.0 deko-traum.shop
 0.0.0.0 dekoartikelrabatt.de
 0.0.0.0 dekobloomhome.com
 0.0.0.0 dekoobjektrabatt.com
@@ -8334,6 +8337,7 @@
 0.0.0.0 doleras.com
 0.0.0.0 dolkins.de
 0.0.0.0 dollsandsofttoys.com
+0.0.0.0 dolomite-shop.myshopify.com
 0.0.0.0 dolomite.co.at
 0.0.0.0 dolomite.com.de
 0.0.0.0 dolomitenbahk.com
@@ -10286,6 +10290,7 @@
 0.0.0.0 fahlenberg-kran.at
 0.0.0.0 fahnen-koessinger.shop
 0.0.0.0 fahrrad-discount24.de
+0.0.0.0 fahrrad-handel.com
 0.0.0.0 fahrrad-komponenten.com
 0.0.0.0 fahrrad-moltisanti.com
 0.0.0.0 fahrrad-sparwelt.de
@@ -14108,6 +14113,7 @@
 0.0.0.0 heaterlux.shop
 0.0.0.0 heaterprox.com
 0.0.0.0 heatersairpurifiers.com
+0.0.0.0 heathoody.de
 0.0.0.0 heatingdevicesshop.com
 0.0.0.0 heatingtool.com
 0.0.0.0 heatkraft.shop
@@ -14155,6 +14161,7 @@
 0.0.0.0 heim-geschafts.com
 0.0.0.0 heim-tools.de
 0.0.0.0 heim-tools.net
+0.0.0.0 heimarbeit.top
 0.0.0.0 heimat-haft.de
 0.0.0.0 heimat-stil.com
 0.0.0.0 heimatdeals.de
@@ -16993,6 +17000,7 @@
 0.0.0.0 kbavliv.com
 0.0.0.0 kbcshop.shop
 0.0.0.0 kbetake.com
+0.0.0.0 kbg-beratung.de
 0.0.0.0 kbnlogistics.com
 0.0.0.0 kbs-kanzlei.de
 0.0.0.0 kbs-management.cc
@@ -17856,6 +17864,7 @@
 0.0.0.0 kuhlmann-rechtsanwaelte.net
 0.0.0.0 kuhlmannbekleidung.de
 0.0.0.0 kuhschelhof.de
+0.0.0.0 kuk-kaffee.de
 0.0.0.0 kukirins.co.at
 0.0.0.0 kukkabutikc.com
 0.0.0.0 kukulade.de
@@ -18995,6 +19004,7 @@
 0.0.0.0 loakeschuhe.com
 0.0.0.0 loakeschweiz.net
 0.0.0.0 loaspool.de
+0.0.0.0 loberon-official.com
 0.0.0.0 locajardin.com
 0.0.0.0 localdealservices.com
 0.0.0.0 localilyy.com
@@ -19545,6 +19555,7 @@
 0.0.0.0 mach-mallorca-urlaub.com
 0.0.0.0 machadooo.de
 0.0.0.0 machinejardinash.fr
+0.0.0.0 machinery-technologyeuropeltd.de
 0.0.0.0 machinerypartsmarket.com
 0.0.0.0 machinetoolhome.com
 0.0.0.0 machinty.top
@@ -20562,6 +20573,7 @@
 0.0.0.0 meshzss.com
 0.0.0.0 mespetiteschimeres.fr
 0.0.0.0 messara-kreta.de
+0.0.0.0 messenwahlwerkstatt.com
 0.0.0.0 messer-online-de.com
 0.0.0.0 messer-onsaleshop.com
 0.0.0.0 messershop24.com
@@ -24479,6 +24491,7 @@
 0.0.0.0 pcoemgerm.com
 0.0.0.0 pcpartsvendor.com
 0.0.0.0 pcsada.com
+0.0.0.0 pd-personal.net
 0.0.0.0 pd99.cc
 0.0.0.0 pddmeshop.com
 0.0.0.0 pdealroom.com
@@ -25672,6 +25685,7 @@
 0.0.0.0 proinvestmentmarket.com
 0.0.0.0 projectpeva.org
 0.0.0.0 projectreadytools.com
+0.0.0.0 projektkonnekt.com
 0.0.0.0 prokitchen-tools.com
 0.0.0.0 prokitchenwaresupply.com
 0.0.0.0 prokow.at
@@ -27204,6 +27218,7 @@
 0.0.0.0 rjmiljmv.shop
 0.0.0.0 rjobido.com
 0.0.0.0 rjulfinb.com
+0.0.0.0 rk-beratungsgesellschaft.de
 0.0.0.0 rkalpweb.com
 0.0.0.0 rkase.com
 0.0.0.0 rkorteo.com
@@ -28140,6 +28155,7 @@
 0.0.0.0 saubereszuhause.shop
 0.0.0.0 saubereszuhausede.shop
 0.0.0.0 sauberlaufmattende.shop
+0.0.0.0 sauberrein.com
 0.0.0.0 saucony-deutschland.com
 0.0.0.0 saucony-laufschuhe-deutschland.com
 0.0.0.0 saucony-osterreich.com
@@ -28490,6 +28506,7 @@
 0.0.0.0 scimonge.com
 0.0.0.0 sclothesbrand.com
 0.0.0.0 scoer.shop
+0.0.0.0 scontainer-logististikgmbh.de
 0.0.0.0 scooga.at
 0.0.0.0 scoomo.at
 0.0.0.0 scooterboardwelt.com
@@ -30341,6 +30358,7 @@
 0.0.0.0 sprinttosave.com
 0.0.0.0 spriteliving.com
 0.0.0.0 spruhfarbenprofi.com
+0.0.0.0 sps-personal.net
 0.0.0.0 spsfurntiure.com
 0.0.0.0 sptlego.de
 0.0.0.0 sptrmusag.com
@@ -30801,6 +30819,7 @@
 0.0.0.0 stowerdubaik.shop
 0.0.0.0 stoxdc.com
 0.0.0.0 stpremorques.com
+0.0.0.0 str-beratung.de
 0.0.0.0 strabenmotorrad.com
 0.0.0.0 strahlentier.de
 0.0.0.0 strahlerdeck.com
@@ -32333,6 +32352,7 @@
 0.0.0.0 tienda-bicicleta.com
 0.0.0.0 tienda-pellets.com
 0.0.0.0 tienduhonduras.com
+0.0.0.0 tierbedarf-express.com
 0.0.0.0 tierbedarfshop.com
 0.0.0.0 tiere.at
 0.0.0.0 tierfriedhof-kamps.de
@@ -32346,6 +32366,7 @@
 0.0.0.0 tierrasales.de
 0.0.0.0 tiershopbillig.com
 0.0.0.0 tierwelthub.de
+0.0.0.0 tiffanybeleuchtung.at
 0.0.0.0 tiffanyblakeney.com
 0.0.0.0 tiffanydumant.com
 0.0.0.0 tightaccessories.com
@@ -32698,6 +32719,7 @@
 0.0.0.0 top-notchchicgeneral.com
 0.0.0.0 top-notchgear.com
 0.0.0.0 top-password.com
+0.0.0.0 top-personal.net
 0.0.0.0 top-sh-op.com
 0.0.0.0 top-sports-experts.com
 0.0.0.0 top.dep-ftd.xyz
@@ -33679,6 +33701,7 @@
 0.0.0.0 upgradeoutdoors.com
 0.0.0.0 upgradesportus.com
 0.0.0.0 upgradeussport.com
+0.0.0.0 upie.buzz
 0.0.0.0 uplements.de
 0.0.0.0 uplifeshop.com
 0.0.0.0 uplifttstar.com
@@ -34983,6 +35006,7 @@
 0.0.0.0 vorisol.com
 0.0.0.0 vorisol.com.de
 0.0.0.0 voritude.com
+0.0.0.0 vorkeli.shop
 0.0.0.0 vorlaufigerverkauf.com
 0.0.0.0 vormans.de
 0.0.0.0 vormix.vorwerk-tm7.at
@@ -35652,6 +35676,7 @@
 0.0.0.0 wetterjack.com
 0.0.0.0 wetting.de
 0.0.0.0 weuayshop.com
+0.0.0.0 wewin-consulting.de
 0.0.0.0 weyel-design.de
 0.0.0.0 weyfreight.com
 0.0.0.0 wf-schenning.de
@@ -36041,6 +36066,7 @@
 0.0.0.0 woomann.com
 0.0.0.0 wordmasterj.com
 0.0.0.0 woridofsweets.store
+0.0.0.0 work-co.net
 0.0.0.0 work-vip.shop
 0.0.0.0 workclothesoff.shop
 0.0.0.0 workhomeoffice.de
@@ -36975,6 +37001,7 @@
 0.0.0.0 zwclsaablueashe.shop
 0.0.0.0 zwein-handel.de
 0.0.0.0 zweirad-handel.com
+0.0.0.0 zweiradzentrum.com
 0.0.0.0 zwerger-art.com
 0.0.0.0 zwergspitzpomeranian.com
 0.0.0.0 zwickl-frankfurt.de
