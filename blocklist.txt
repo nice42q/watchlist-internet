@@ -2,10 +2,10 @@
 # Pi-hole DNS Blocklist: Watchlist Internet
 # Source: https://www.watchlist-internet.at/liste-betruegerischer-shops/csv/
 # Pi-hole Source: https://github.com/nice42q/watchlist-internet
-# Last update: 2026-10-21 04:57:55 UTC
+# Last update: 2026-10-22 04:58:47 UTC
 #
 # --- Analysis statistics for this update ---
-# Total valid domains:       37026
+# Total valid domains:       37033
 # Duplicate entries removed: 8
 # Invalid lines filtered:    4
 # -------------------------------------------
@@ -7901,6 +7901,7 @@
 ||deutschersammlerschatz.com^
 ||deutsches-gut.de^
 ||deutscheschonheit.de^
+||deutschesholzwerk.de^
 ||deutschfollowup.cc^
 ||deutschgeschenkfest.com^
 ||deutschla.de^
@@ -8258,6 +8259,7 @@
 ||djsth.com^
 ||dk.myriamrannou.com^
 ||dkamilcar.com^
+||dkb.customersales.de^
 ||dkcoindey.com^
 ||dkirmizu.com^
 ||dklmvni.com^
@@ -20360,6 +20362,7 @@
 ||meine-ledertaschen.de^
 ||meinearbeitsschuhe.com^
 ||meinedirndl.com^
+||meinedleweine.com^
 ||meineebike.shop^
 ||meinefototassen.shop^
 ||meinefototassende.shop^
@@ -20996,6 +20999,7 @@
 ||mobel-wahls.shop^
 ||mobel-welt.com^
 ||mobelauslaufde.com^
+||mobelbett.com^
 ||mobelgeschaft-neu.com^
 ||mobelgeschaftneu.com^
 ||mobelmagie.com^
@@ -22043,6 +22047,7 @@
 ||nederlandse-apotheek.com^
 ||needdom.top^
 ||needitor.xyz^
+||needohs.at^
 ||needsary.com^
 ||needtohike.com^
 ||needtoknit.com^
@@ -22160,6 +22165,7 @@
 ||neuesverbe.co^
 ||neueszuhausehaustiere.de^
 ||neuetierfutter.com^
+||neuetraktor.com^
 ||neuetraxxas.de^
 ||neueverkauf.store^
 ||neuewohnaccessoires.de^
@@ -24514,6 +24520,7 @@
 ||pdfhouse.com^
 ||pdfleader.com^
 ||pdfmaster.app^
+||pdgbcfe.shop^
 ||pdkosmetik.de^
 ||pdomotech.com^
 ||peacefulexitsworldwide.org^
@@ -24774,7 +24781,6 @@
 ||pflanz-stein.de^
 ||pflanzbedarfsladen.com^
 ||pflanzen-de.com^
-||pflanzenhof-online.de^
 ||pflanzenoeldiesel.de^
 ||pflanzenshop-de.com^
 ||pflanzensoftware.de^
@@ -25682,6 +25688,7 @@
 ||profiwerkstattshop.com^
 ||profiwerkzeug24.com^
 ||profiwerkzeugdepot.com^
+||profiwerkzeugmarkt.com^
 ||profiwerkzeugonline.com^
 ||profiyard.de^
 ||profritzbox.myshopify.com^
@@ -29787,7 +29794,6 @@
 ||sneaker.outletseur.com^
 ||sneaker2020z.com^
 ||sneakerfee.com^
-||sneakermood.eu^
 ||sneakernews12.top^
 ||sneakernews36.top^
 ||sneakernews79.top^
@@ -37006,6 +37012,7 @@
 ||zurusten.com^
 ||zusellmk.click^
 ||zuverlassigerkredit.com^
+||zvelonium.de^
 ||zvfashions.com^
 ||zvs-stark-saalfeld.de^
 ||zwatch-italy.shop^
