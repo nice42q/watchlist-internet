@@ -2,10 +2,10 @@
 # Pi-hole DNS Blocklist: Watchlist Internet
 # Source: https://www.watchlist-internet.at/liste-betruegerischer-shops/csv/
 # Pi-hole Source: https://github.com/nice42q/watchlist-internet
-# Last update: 2026-10-23 05:00:01 UTC
+# Last update: 2026-10-24 04:44:58 UTC
 #
 # --- Analysis statistics for this update ---
-# Total valid domains:       37064
+# Total valid domains:       37110
 # Duplicate entries removed: 8
 # Invalid lines filtered:    4
 # -------------------------------------------
@@ -166,6 +166,7 @@
 ||aaliencart.com^
 ||aamorav.com^
 ||aanecessary.shop^
+||aanhangwagen-dispack.com^
 ||aantonerik.com^
 ||aareallp.com^
 ||aaronallen.top^
@@ -725,6 +726,7 @@
 ||akkusaugerprada.de^
 ||akkuschrauber-heinrich.net^
 ||akkusnotebook.at^
+||aklassport.de^
 ||akmcits.com^
 ||akmedtan.com^
 ||akronreia.com^
@@ -997,6 +999,7 @@
 ||alpbeat.com^
 ||alpen-leicht.de^
 ||alpen-malerbetrieb.de^
+||alpen-vest.com^
 ||alpenfaser.de^
 ||alpenfluss.at^
 ||alpenhoch.com^
@@ -1071,6 +1074,7 @@
 ||altine.fr^
 ||altitudek.com^
 ||altituden.com^
+||altkoenig-recht.de^
 ||altogelther.com^
 ||altonaldana.com^
 ||altotrailer.com^
@@ -1345,6 +1349,7 @@
 ||anhanger360.com^
 ||anhangercenter.com^
 ||anhangerdienst.com^
+||anhangerkreuter.com^
 ||anhangermarkt.com^
 ||anhangermaschinen.com^
 ||anhangerplus.com^
@@ -2918,6 +2923,7 @@
 ||baustellen-shop.com^
 ||baustellenbedarfbillig.com^
 ||baustellenbedarfrabatt.com^
+||baustoffekaufen.com^
 ||baustoffestore.com^
 ||baustoffstore.com^
 ||baustoffwerkzeug.com^
@@ -3296,6 +3302,7 @@
 ||beriuty.com^
 ||berizen.com^
 ||berk-designs.de^
+||berka-ausstattung.com^
 ||berklan.myshopify.com^
 ||berkler-anhanger.com^
 ||berkler-maschinen.de^
@@ -4245,6 +4252,7 @@
 ||boldlowprice.com^
 ||boldnests.com^
 ||boldraiment.com^
+||boldsports.de^
 ||bolenso.de^
 ||bollskill.life^
 ||boloen.top^
@@ -5536,6 +5544,7 @@
 ||center-staubsauger.de^
 ||centigradey.com^
 ||centogx.io^
+||centraltradingshop.com^
 ||centralvalencia.es^
 ||centrsales.com^
 ||centsyshop.com^
@@ -8025,6 +8034,7 @@
 ||diegeotechniker.at^
 ||diegoladano.com^
 ||diehamburgerplattenfirma.de^
+||diehl-lagerbestand.net^
 ||diehl-partner.com^
 ||dieholzmoebelmacher.de^
 ||dieholzschmiede.at^
@@ -8300,6 +8310,7 @@
 ||dnoblejasm.com^
 ||dnvng.shop^
 ||do.superry.live^
+||doallerer.com^
 ||doc-hygiene.de^
 ||dockersosterreich.at^
 ||dockhorn.at^
@@ -8600,6 +8611,7 @@
 ||driveeliteparts.com^
 ||drivegoodwheels.com^
 ||driveguess.com^
+||drivenol.com^
 ||drivesafeo.com^
 ||drivescontrolmarket.com^
 ||drkuzbari.at^
@@ -8692,6 +8704,7 @@
 ||dubarrydeutschland.de^
 ||dubarryosterreich.com^
 ||dubstickers.de^
+||duellerer.com^
 ||duengme.shop^
 ||duengmede.shop^
 ||duft-blumen.de^
@@ -9963,6 +9976,7 @@
 ||eurlogistic.com^
 ||eurltddiffusion.com^
 ||euro-cash-finance.com^
+||euro-container.com^
 ||euro-garten.com^
 ||euro-markt.at^
 ||euro-nics-deutschland.com^
@@ -10741,6 +10755,7 @@
 ||feinelebensmittel.com^
 ||feinkaufshop.com^
 ||feinkleidung.com^
+||feinkostkontor.de^
 ||feinkostwines.com^
 ||feinstrumpfhosenneu.com^
 ||feintoll.de^
@@ -10808,6 +10823,7 @@
 ||ferfi-patika.com^
 ||fergatex.io^
 ||ferienhaeuser-porec.de^
+||ferienhaus-check.com^
 ||ferienhaus-gertrud.at^
 ||ferienhausexperten.co^
 ||ferienhauspartner.co^
@@ -11405,6 +11421,7 @@
 ||fohlers.de^
 ||foilballoons-shop.com^
 ||foisge.com^
+||fokjvg.shop^
 ||fokoomall.com^
 ||foktu.shop^
 ||fokus-auf-deutschland.click^
@@ -14000,6 +14017,7 @@
 ||haus-winterfeld.de^
 ||haus.volksbarnk-at.site^
 ||hausannette.de^
+||hausboot4you.de^
 ||hausbulle.de^
 ||hausdampf.com^
 ||hausderschonheit-de.store^
@@ -14217,6 +14235,7 @@
 ||heimwerkzeugladen.com^
 ||heine-reifen.com^
 ||heinen-klimahaus.myshopify.com^
+||heineoutlet.com^
 ||heinkelmasch.de^
 ||heinrich-baumarkt.com^
 ||heinrich-handel.com^
@@ -14785,6 +14804,7 @@
 ||hollisteronline-shop.at^
 ||hollistershopsk.sk^
 ||hollylollies.com^
+||hollzhausenug.de^
 ||holmegaardshop.com^
 ||holmesbrothersde.shop^
 ||holmric-spedition.com^
@@ -15550,6 +15570,7 @@
 ||ielectronera.com^
 ||iemakluck.com^
 ||iesuu.com^
+||ietcpktb.shop^
 ||ifanze.net^
 ||ifashionwear.com^
 ||ifbgyxpnr.top^
@@ -16021,6 +16042,7 @@
 ||ipcailud.com^
 ||iphonelounge.de^
 ||iphonexsmaxprice.xyz^
+||ipicosports.de^
 ||ipicplian.top^
 ||ipillstore.net^
 ||ipokerword.com^
@@ -16744,6 +16766,7 @@
 ||kaffeealternative.de^
 ||kaffeeangebote.com^
 ||kaffeedeckel.de^
+||kaffeeexperte.com^
 ||kaffeefeinkostdrinks.com^
 ||kaffeemacher.shop^
 ||kaffeemaschinebillig.com^
@@ -16817,6 +16840,7 @@
 ||kaminholzgmbh.com^
 ||kaminholzholzofen.de^
 ||kaminj.top^
+||kaminofenhandel.com^
 ||kaminoland.de^
 ||kamlily.com^
 ||kammerjaeger-fischer.de^
@@ -17840,6 +17864,7 @@
 ||ks.tizml.shop^
 ||ksecass.com^
 ||kshakeshc.com^
+||kshmzyey.shop^
 ||ksi-markets.com^
 ||ksjq.shop^
 ||ksruidafei.com^
@@ -18931,6 +18956,7 @@
 ||liuxmiu.shop^
 ||livablefurniture.com^
 ||live-promo.at^
+||live.alpen-vest.com^
 ||live.wisecapitalx.net^
 ||livecareer.de^
 ||liveearningcapital.com^
@@ -19213,6 +19239,7 @@
 ||loveladiesaccessories.com^
 ||loveladywearpro.com^
 ||lovelierscent.com^
+||lovellaa.com^
 ||lovelydish.online^
 ||lovelygen.com^
 ||lovelyhouseware.com^
@@ -19436,6 +19463,7 @@
 ||lunaseacoffees.com^
 ||lundhagsdeutschland.com^
 ||lune-mode.com^
+||luner-boutique.com^
 ||lunestedter-gewerbeverein.de^
 ||lunevio.com^
 ||lungauphysio.at^
@@ -19744,6 +19772,7 @@
 ||mall-bike.com^
 ||mall-home.com^
 ||mall-outdoors.com^
+||mall.galeridora.com^
 ||mall.gresholm.com^
 ||mall.randaoma.com^
 ||mallesure.top^
@@ -20140,6 +20169,7 @@
 ||maxuptrade.org^
 ||maxvela.shop^
 ||maxwellwilliamshop.com^
+||maxx-prijevoz.com^
 ||may-autoreifen.com^
 ||mayabenowitz.com^
 ||mayabi-deutschland.com^
@@ -20265,6 +20295,7 @@
 ||medicnfousa.top^
 ||medicom-toys.com^
 ||medics-shop.net^
+||medicubes.at^
 ||mediexpress-de.com^
 ||mediglanz.com^
 ||mediglanz.de^
@@ -20295,6 +20326,7 @@
 ||medshopcpl.com^
 ||medsi.fr^
 ||medsinfoshop.com^
+||medymarkt.live^
 ||medzrezeptfrei.com^
 ||meefard.com^
 ||meer-trends.de^
@@ -20568,6 +20600,7 @@
 ||mermaidmedia.de^
 ||mermiss.com^
 ||mernesberlin.com^
+||merovelia.com^
 ||merovia.de^
 ||meroycollection.store^
 ||merrachi-de.com^
@@ -21210,6 +21243,7 @@
 ||moebeldiscount24.com^
 ||moebelgutlager.com^
 ||moebelkick.de^
+||moebellagerhaus.com^
 ||moebelonline24.com^
 ||moebelpunkt.com^
 ||moebelstil.com^
@@ -21659,6 +21693,7 @@
 ||musicworldde.com^
 ||musik-laden.com^
 ||musik-zubehoerwerk.com^
+||musikbuch-noten.com^
 ||musikfunke.com^
 ||musikgarage.com^
 ||musikgearhub.com^
@@ -21754,6 +21789,7 @@
 ||myclubwell.store^
 ||mycoinde.cc^
 ||mycomfortattire.com^
+||mycosmeticshop.de^
 ||mycupofteababyde.shop^
 ||mydailys.de^
 ||mydepartmentstore.shop^
@@ -21969,6 +22005,7 @@
 ||natura-zuda.de^
 ||naturabenteuer.com^
 ||naturacare360.com^
+||naturaflame.com^
 ||naturalhatu-shop.com^
 ||naturalhavalandirma.com^
 ||naturallyh.com^
@@ -22977,6 +23014,7 @@
 ||odenkik.com^
 ||odestoe.com^
 ||odifable.com^
+||odins-hall.de^
 ||odiom-sunglasses.com^
 ||odrdanaee.shop^
 ||odyssey-labs.com^
@@ -23659,6 +23697,7 @@
 ||opholzimpexgmbh.com^
 ||opimik.com^
 ||opkjobsmcqs.shop^
+||oplfer.com^
 ||oplire.com^
 ||opongo.shop^
 ||opotrips.com^
@@ -25076,6 +25115,7 @@
 ||platform-ai-trade.com^
 ||platform.amndmtrade.com^
 ||platform.ampegalux.net^
+||platform.ap-capital-lim.com^
 ||platform.invesco-trading.com^
 ||platform.softwarecrownex.com^
 ||platform.wilsonpartnertrade.com^
@@ -27177,6 +27217,7 @@
 ||riekerschuheoutlet.com^
 ||riendamiga.es^
 ||rifleoptimal.com^
+||rigebnqe.shop^
 ||rigginghardwareshop.com^
 ||rightie.xyz^
 ||rigmorkarlsen.com^
@@ -28535,6 +28576,7 @@
 ||schwestertanja.com^
 ||schwfoto.com^
 ||schwiha.ai^
+||schwimmbadwelt.com^
 ||schwimmschuh.com^
 ||sciencefactoryshop.de^
 ||scientificw.com^
@@ -29094,6 +29136,7 @@
 ||shop.eibos3d.com^
 ||shop.espruino.com^
 ||shop.freerus.live^
+||shop.gertab.de^
 ||shop.gjiidc.top^
 ||shop.goldsea.es^
 ||shop.gxicml.shop^
@@ -29409,6 +29452,7 @@
 ||sicherxe.reinowu.cyou^
 ||sideershop.com^
 ||sidelinejerseys.com^
+||sidetableheim.com^
 ||sidiaustria.com^
 ||sidide.com^
 ||sidifootwear.com^
@@ -31037,6 +31081,7 @@
 ||stylevistaa.de^
 ||stylewallworld.com^
 ||stylewea.life^
+||stylezerano.com^
 ||stylingprodukte24.com^
 ||stylish-homeware.com^
 ||stylishangelo.com^
@@ -33532,6 +33577,7 @@
 ||uggs.co.at^
 ||uggsoutletosterreich.com^
 ||uggukoutletfactory.com^
+||ugurlutreyler.com^
 ||ugworldbest.com^
 ||ugytxzel.shop^
 ||uhaphazard.monster^
@@ -34820,6 +34866,7 @@
 ||vivar.ch^
 ||vivaraisehome.com^
 ||vivekmishrag.shop^
+||vivelan.de^
 ||vivensowasserstaubsauger.de^
 ||vivibo-kueche.de^
 ||vividglowing.com^
@@ -35869,7 +35916,6 @@
 ||willintter.shop^
 ||willis-forum.at^
 ||willistonforcestore.com^
-||willms-forsttechnik.de^
 ||willmsshop.com^
 ||willth.xyz^
 ||willviewca.com^
