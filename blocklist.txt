@@ -2,12 +2,12 @@
 # Pi-hole DNS Blocklist: Watchlist Internet
 # Source: https://www.watchlist-internet.at/liste-betruegerischer-shops/csv/
 # Pi-hole Source: https://github.com/nice42q/watchlist-internet
-# Last update: 2026-11-10 19:49:34 UTC
+# Last update: 2026-11-11 06:39:15 UTC
 #
 # --- Analysis statistics for this update ---
-# Total valid domains:       39255
+# Total valid domains:       39271
 # Duplicate entries removed: 8
-# Invalid lines filtered:    4
+# Invalid lines filtered:    5
 # -------------------------------------------
 #
 ||01534.bitcoinasystem.su^
@@ -1818,6 +1818,7 @@
 ||aristick.de^
 ||arithmeticn.com^
 ||aritziadeutschlands.com^
+||aritziait.it^
 ||ariyanne.de^
 ||arjav-bids.com^
 ||ark-funds.com^
@@ -2094,6 +2095,7 @@
 ||at-setrafimoney.org^
 ||at-upwork.site^
 ||at.alpine-point.com^
+||at.calm-nebula.com^
 ||at.collectory.se^
 ||at.curalise.com^
 ||at.eeelgnte.shop^
@@ -6530,6 +6532,7 @@
 ||clubofzodiac.com^
 ||clubsoundradio.de^
 ||clurophillashop.com^
+||cluud7.com^
 ||cluxurybag.com^
 ||clydekids.shop^
 ||cmctradingeu.com^
@@ -9937,6 +9940,7 @@
 ||eloyguerra.com^
 ||elpensattel.com^
 ||elress.xyz^
+||elsaberlin.com^
 ||elsas-schmuckatelier.com^
 ||elsemann-baustoffhandel.de^
 ||elsgroup.net^
@@ -10812,6 +10816,7 @@
 ||fabtoulouse.at^
 ||fabulaberlin.com^
 ||fabulous-child.com^
+||fabuluxe.at^
 ||faccelove.de^
 ||facebestsell.xyz^
 ||facebystore.xyz^
@@ -21139,6 +21144,7 @@
 ||market.galeririva.com^
 ||market.glenleigha.com^
 ||market.halewick.com^
+||market.maveliselo.com^
 ||market.novaris-capitallimited.ltd^
 ||market.saverevolve.com^
 ||market.silverbournea.com^
@@ -21182,6 +21188,7 @@
 ||marktplatz-apo.com^
 ||marktpro.de^
 ||marktzauberbox.com^
+||markvexo-ai.com^
 ||markvexo.at^
 ||markvexoki.at^
 ||marlene-wien.at^
@@ -26736,6 +26743,7 @@
 ||plusamiapparel.com^
 ||plusapparelvogue.com^
 ||pluscurtain.com^
+||plusdirect24.com^
 ||plusev.shop^
 ||plusfighting.com^
 ||plusfootwearus.com^
@@ -27125,6 +27133,7 @@
 ||presentandpaper.shop^
 ||presentlye.com^
 ||presentlyk.com^
+||presentsaler.com^
 ||presfortake.com^
 ||presiond.com^
 ||preslimucede.net^
@@ -27910,6 +27919,7 @@
 ||radiotradeus.com^
 ||radioustrendy.com^
 ||radiusor.com^
+||radlerfrau.com^
 ||radmarkt-schaeler.de^
 ||radonsale.com^
 ||radrudel.de^
@@ -28589,6 +28599,7 @@
 ||reproduction.store^
 ||repsberlin.com^
 ||repsfuse.com^
+||repsgermany.com^
 ||reptileagent.at^
 ||repuhren.de^
 ||rerems.com^
@@ -29114,6 +29125,7 @@
 ||rosascarcella.com^
 ||rosasommer.com^
 ||rosch-maschinenhandel.com^
+||roseandrobb.com^
 ||roseleven.com^
 ||roseliapet.shop^
 ||roselinlin.com^
@@ -31553,6 +31565,7 @@
 ||smartphonepeak.lunakebe.com^
 ||smartplantivy.com^
 ||smartplayground.de^
+||smartregler.com^
 ||smartsolve.ai^
 ||smartsomeca.com^
 ||smartstoy.shop^
@@ -31785,6 +31798,7 @@
 ||soleode.shop^
 ||solern.top^
 ||solewhoo.com^
+||solgarag.com^
 ||solictedbyjule.shop^
 ||solid-transport.eu^
 ||solidarity-finanzierung.com^
@@ -35287,6 +35301,7 @@
 ||trustytime888.io^
 ||truthaboutyem.com^
 ||truthgothor.shop^
+||trwahbld.shop^
 ||trx-on-chain.de^
 ||try-camping.com^
 ||try-virium.com^
@@ -36531,6 +36546,7 @@
 ||vesburst.shop^
 ||vesicit.xyz^
 ||vesinhhoatam.com^
+||vespersas.com^
 ||vessideutschlands.com^
 ||vessiosterreich.com^
 ||vessiosterrelch.com^
@@ -37796,7 +37812,6 @@
 ||westex-handell.de^
 ||westfalenmeeris.de^
 ||westfeldmode.de^
-||westhype.shop^
 ||westic-shop.de^
 ||westickers.com^
 ||westiels.de^
@@ -38572,6 +38587,7 @@
 ||xsanrashop.top^
 ||xsbcje.solidcourt.shop^
 ||xscinotic.com^
+||xsdcmnet.com^
 ||xseipnn.shop^
 ||xsltkprx.shop^
 ||xsmartlogisticservices.com^
