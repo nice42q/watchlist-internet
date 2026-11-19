@@ -6,10 +6,10 @@
 # [SYSTEM]  Pipeline execution triggered.
 # [SYSTEM]  Starting fetch of the Watchlist Internet database...
 # [SYSTEM]  Delta detected or baseline assets missing. Parsing remote database...
-# [STATS]   Total entries parsed:     39285
-# [STATS]   Invalid lines filtered:   5
+# [STATS]   Total entries parsed:     39573
+# [STATS]   Invalid lines filtered:   6
 # [STATS]   Duplicate lines removed:  8
-# [STATS]   Valid, unique domains:    39271
+# [STATS]   Valid, unique domains:    39558
 # [SYSTEM]  Writing all updated blocklist files...
 # [SYSTEM]  Writing enhanced debug report to debug/blacklist.txt...
 #
@@ -26,7 +26,7 @@ xn--apotheke-sterreich-l3b.com
 xn--drmartensshopsterreich-6hc.at
 xn--viagra-kaufen-sterreich-llc.com
 # ------------------------------------------------------------------------------
-# FILTERED INVALID ENTRIES (5)
+# FILTERED INVALID ENTRIES (6)
 # These entries did not match a valid domain schema.
 # ------------------------------------------------------------------------------
 18.130.4.87
@@ -34,3 +34,4 @@ banking.dolomiten.sbs:8008
 burtonsnowboard
 eshop.stonebournea.com.
 market.maveliselo.com.
+vitalwelt-apotheken.de:80
