@@ -2,10 +2,10 @@
 # Pi-hole DNS Blocklist: Watchlist Internet
 # Source: https://www.watchlist-internet.at/liste-betruegerischer-shops/csv/
 # Pi-hole Source: https://github.com/nice42q/watchlist-internet
-# Last update: 2026-11-20 07:26:31 UTC
+# Last update: 2026-11-21 07:20:38 UTC
 #
 # --- Analysis statistics for this update ---
-# Total valid domains:       39617
+# Total valid domains:       39631
 # Duplicate entries removed: 8
 # Invalid lines filtered:    6
 # -------------------------------------------
@@ -5092,6 +5092,7 @@
 ||bueroablage.at^
 ||buerobedarfshop.com^
 ||bueromoebels.de^
+||buerosalz.com^
 ||bueroservice-kompakt.de^
 ||buestyle.com^
 ||buffalodavidbittonmall.com^
@@ -9011,6 +9012,7 @@
 ||dortuviax.at^
 ||dorvis.shop^
 ||dosashops.com^
+||dosen-kult.com^
 ||dosenberry.de^
 ||dosenkultde.com^
 ||dosiman.shop^
@@ -13844,6 +13846,7 @@
 ||gluschwein.de^
 ||glutadrops.com^
 ||glutbar.de^
+||glutvoll.de^
 ||glytchf.com^
 ||gm-portal.co^
 ||gm.lightinthebox.com^
@@ -19934,6 +19937,7 @@
 ||libri24.net^
 ||liccaio.com^
 ||licensem.com^
+||lichtbild-digital.com^
 ||lichten-berg.de^
 ||lichtenraderfeuerwerkverkauf.shop^
 ||lichthaeusl.de^
@@ -21141,6 +21145,7 @@
 ||mall-bike.com^
 ||mall-home.com^
 ||mall-outdoors.com^
+||mall.cambercroft.com^
 ||mall.corleigh.com^
 ||mall.elvaritaro.com^
 ||mall.galeridora.com^
@@ -24373,6 +24378,7 @@
 ||notebooksstoresales.com^
 ||notemodify.com^
 ||notenglanz.com^
+||notenwelt24.com^
 ||notenweltde.com^
 ||notfall-herzinfarkt.de^
 ||notfall-installateur.at^
@@ -26205,6 +26211,7 @@
 ||partbelong.com^
 ||parteous.top^
 ||partexploiter.com^
+||partfuchs.com^
 ||partgleise.de^
 ||participanti.com^
 ||participati.com^
@@ -26831,6 +26838,7 @@
 ||piperjewelry.shop^
 ||pipetoolsale.com^
 ||pipizo.de^
+||pippilotta-kinder.com^
 ||pipscryptofx.com^
 ||pipz.xyz^
 ||piquadrotrendy.com^
@@ -27927,6 +27935,7 @@
 ||qonebacara.com^
 ||qovlaty.com^
 ||qp-sale.com^
+||qpgkzptk.shop^
 ||qplatanic.com^
 ||qpqaz.com^
 ||qq339.com^
@@ -28263,6 +28272,7 @@
 ||rapidprotrades.com^
 ||rapidskiing.com^
 ||rapoly.com^
+||rapp-brennholz.com^
 ||raptment.top^
 ||raptosity.top^
 ||rapturerhapsody.shop^
@@ -30031,6 +30041,7 @@
 ||samixpart.com^
 ||sammelkunst.com^
 ||sammlerliebe.com^
+||sammlerloft.shop^
 ||samoon.com.tw^
 ||samsoe-outlet.shop^
 ||samsoncha.com^
@@ -35760,6 +35771,7 @@
 ||twinkblis.net^
 ||twinkle-bliss.com^
 ||twinklinstars.com^
+||twinlaze.store^
 ||twinsbc.de^
 ||twinsspecialfight.com^
 ||twinsspecialuae.ae^
@@ -37491,6 +37503,7 @@
 ||vpudoktor.com^
 ||vpufuchs.com^
 ||vputest.online^
+||vpuyfyxacapt.shop^
 ||vraodorld.com^
 ||vrczda.com^
 ||vricbio.com^
@@ -37872,6 +37885,7 @@
 ||webbingbeltshop.com^
 ||webbusinessalerts.com^
 ||webcamerausb.com^
+||webcheckb.at^
 ||webdeal-produkt.com^
 ||webe24.de^
 ||weber-express.com^
